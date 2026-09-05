@@ -1,0 +1,20 @@
+{
+  "initialized_at": "2026-09-04T17:12:00Z",
+  "total_starting_value": 129.03,
+  "sleeve_momentum": {
+    "label": "Momentum (trend-following)",
+    "starting_value": 64.51,
+    "cash": 53.03,
+    "positions": [
+      {"symbol": "CBRS", "quantity": 0.053816, "asset_class": "equity"}
+    ]
+  },
+  "sleeve_quant": {
+    "label": "Quant Mean-Reversion",
+    "starting_value": 64.52,
+    "cash": 0.10,
+    "positions": [
+      {"symbol": "APH", "quantity": 0.777081, "asset_class": "equity"}
+    ]
+  }
+}
