@@ -7,7 +7,9 @@
     "cash": 53.03,
     "positions": [
       {"symbol": "CBRS", "quantity": 0.053816, "asset_class": "equity"}
-    ]
+    ],
+    "previous_report_value": 64.35,
+    "previous_report_date": "2026-09-05"
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
@@ -15,6 +17,8 @@
     "cash": 0.10,
     "positions": [
       {"symbol": "APH", "quantity": 0.777081, "asset_class": "equity"}
-    ]
+    ],
+    "previous_report_value": 64.09,
+    "previous_report_date": "2026-09-05"
   }
 }
