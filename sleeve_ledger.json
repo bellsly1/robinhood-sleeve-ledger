@@ -9,8 +9,8 @@
       {"symbol": "CBRS", "quantity": 0.053816, "asset_class": "equity"},
       {"symbol": "SOL-USD", "quantity": 0.48711, "asset_class": "crypto"}
     ],
-    "previous_report_value": 64.35,
-    "previous_report_date": "2026-09-05"
+    "previous_report_value": 63.61,
+    "previous_report_date": "2026-09-06"
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
@@ -20,6 +20,6 @@
       {"symbol": "APH", "quantity": 0.777081, "asset_class": "equity"}
     ],
     "previous_report_value": 64.09,
-    "previous_report_date": "2026-09-05"
+    "previous_report_date": "2026-09-06"
   }
 }
