@@ -8,9 +8,9 @@
     "positions": [
       {"symbol": "CBRS", "quantity": 0.053816, "asset_class": "equity"}
     ],
-    "previous_report_value": 63.61,
-    "previous_report_date": "2026-09-06",
-    "last_action": "2026-09-06T20:46:30Z: sold 0.48711 SOL-USD to cash (market order, est. $51.03 credit) — all four tracked cryptos (BTC/ETH/SOL/XRP) showed negative momentum vs prior close, none qualified"
+    "previous_report_value": 62.96,
+    "previous_report_date": "2026-09-07",
+    "last_action": "2026-09-06T20:46:30Z: sold 0.48711 SOL-USD to cash (market order, est. $51.03 credit) -- all four tracked cryptos (BTC/ETH/SOL/XRP) showed negative momentum vs prior close, none qualified"
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
@@ -20,6 +20,6 @@
       {"symbol": "APH", "quantity": 0.777081, "asset_class": "equity"}
     ],
     "previous_report_value": 64.09,
-    "previous_report_date": "2026-09-06"
+    "previous_report_date": "2026-09-07"
   }
 }
