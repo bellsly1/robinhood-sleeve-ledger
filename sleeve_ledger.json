@@ -4,13 +4,13 @@
   "sleeve_momentum": {
     "label": "Momentum (trend-following)",
     "starting_value": 64.51,
-    "cash": 51.64,
+    "cash": 0.10,
     "positions": [
-      {"symbol": "CBRS", "quantity": 0.053816, "asset_class": "equity"}
+      {"symbol": "PHVS", "quantity": 1.564468, "asset_class": "equity"}
     ],
     "previous_report_value": 63.35,
     "previous_report_date": "2026-09-08",
-    "last_action": "2026-09-06T20:46:30Z: sold 0.48711 SOL-USD to cash (market order, est. $51.03 credit) -- all four tracked cryptos (BTC/ETH/SOL/XRP) showed negative momentum vs prior close, none qualified"
+    "last_action": "2026-09-08T13:47:10Z: reconciled -- prior CBRS position (0.053816 sh) had been sold via a queued GFD order that filled at market open today ($217.00, +$11.68 credit, unrecorded by prior run); repaired cash to $63.32. Then bought $63.22 of PHVS (1.564468 sh @ $40.4099 avg, market order) -- Quality momentum scan candidate: %chg(1W)=+14.55%, mkt cap $2.47B, avg vol(10) 536K, relative volume 3.60x (highest of 7 qualifying candidates); all 4 tracked cryptos showed negative momentum vs open, none qualified"
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
