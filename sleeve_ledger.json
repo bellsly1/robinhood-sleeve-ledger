@@ -8,9 +8,9 @@
     "positions": [
       {"symbol": "ROIV", "quantity": 1.438981, "asset_class": "equity"}
     ],
-    "previous_report_value": 59.77,
-    "previous_report_date": "2026-09-08",
-    "last_action": "2026-09-08T18:47:00Z: reconciled -- equity/crypto positions matched ledger exactly (PHVS 1.564468 sh, no crypto) before trading, no discrepancy. Market open. PHVS dropped out of Quality momentum scan entirely (mkt cap $2.65B and avg vol(10) 536K still passed, but %chg(1W) fell below +8% threshold after a sharp intraday reversal: open $40.59, high $43.25, now $37.97) -- rotated out. Sold PHVS 1.564468 sh @ $37.9301 avg (proceeds $59.34). Bought ROIV 1.438981 sh @ $41.2375 avg ($59.34) -- highest relative volume (3.40x) combined with strongest %chg(1W) (+18.1%) among 32 qualifying candidates, clearly the strongest signal. Crypto (BTC -0.34%, ETH +0.46%, SOL +0.77%, XRP +3.08% vs open) showed no standout momentum and cash was fully deployed into ROIV. Resulting cash ~$0.10."
+    "previous_report_value": 59.73,
+    "previous_report_date": "2026-09-09",
+    "last_action": "2026-09-09T06:46:00Z: reconciled -- equity/crypto positions matched ledger exactly (ROIV 1.438981 sh, no crypto), no discrepancy. Outside regular market hours (02:45 ET Wed, overnight) -- stock scanning/trading skipped per rules; holding ROIV for reference (last price $41.44, value ~$59.63). Crypto momentum check: BTC +0.66%, ETH +0.44%, SOL +1.20%, XRP +1.28% vs open -- all mild, no standout signal, and no cash to deploy anyway (~$0.00 after buffer). No trade."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
