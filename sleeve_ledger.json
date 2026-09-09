@@ -8,9 +8,9 @@
     "positions": [
       {"symbol": "ROIV", "quantity": 1.438981, "asset_class": "equity"}
     ],
-    "previous_report_value": 59.73,
+    "previous_report_value": 59.93,
     "previous_report_date": "2026-09-09",
-    "last_action": "2026-09-09T06:46:00Z: reconciled -- equity/crypto positions matched ledger exactly (ROIV 1.438981 sh, no crypto), no discrepancy. Outside regular market hours (02:45 ET Wed, overnight) -- stock scanning/trading skipped per rules; holding ROIV for reference (last price $41.44, value ~$59.63). Crypto momentum check: BTC +0.66%, ETH +0.44%, SOL +1.20%, XRP +1.28% vs open -- all mild, no standout signal, and no cash to deploy anyway (~$0.00 after buffer). No trade."
+    "last_action": "2026-09-09T08:45:00Z: reconciled -- equity/crypto positions matched ledger exactly (ROIV 1.438981 sh, no crypto), no discrepancy. Outside regular market hours (04:45 ET Wed, overnight) -- stock scanning/trading skipped per rules; holding ROIV for reference (last price $41.57, value ~$59.83). Crypto momentum check: BTC +1.28%, ETH +1.15%, SOL +1.42%, XRP +1.55% vs open -- all mild/broad-based, no standout signal, and no cash to deploy anyway (~$0.00 after buffer). No trade."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
