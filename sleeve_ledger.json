@@ -19,8 +19,8 @@
     "positions": [
       {"symbol": "APH", "quantity": 0.777081, "asset_class": "equity"}
     ],
-    "previous_report_value": 64.05,
+    "previous_report_value": 64.06,
     "previous_report_date": "2026-09-09",
-    "last_action": "2026-09-09T08:16:00Z: reconciled -- equity/crypto positions matched ledger exactly (APH 0.777081 sh, no crypto), no discrepancy. Outside regular market hours (04:16 ET Wed, overnight) -- stock scanning/trading skipped per rules. For reference only: APH's latest completed daily bar (2026-09-08 close) RSI(14,1d) = 52.7, below the ~55 reversion-realized threshold -- still held, will reassess at next market-hours run. Majors-only crypto oversold scan (BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE, RSI<30) returned 0 matches -- no crypto signal active. No trade."
+    "last_action": "2026-09-09T09:15:00Z: reconciled -- equity/crypto positions matched ledger exactly (APH 0.777081 sh, no crypto), no discrepancy. Outside regular market hours (05:15 ET Wed, pre-market) -- stock scanning/trading skipped per rules; holding APH for reference (last price $82.30, value ~$63.96). Majors-only crypto oversold scan (BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE, RSI<30) returned 0 matches -- no crypto signal active. No trade."
   }
 }
