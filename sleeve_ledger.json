@@ -19,8 +19,8 @@
     "positions": [
       {"symbol": "APH", "quantity": 0.777081, "asset_class": "equity"}
     ],
-    "previous_report_value": 63.60,
+    "previous_report_value": 62.73,
     "previous_report_date": "2026-09-10",
-    "last_action": "2026-09-10T11:17:00Z: reconciled -- equity/crypto positions matched ledger exactly (APH 0.777081 sh, no crypto), no discrepancy (account also holds ROIV, belongs to sleeve_momentum, untouched). Market closed (07:17 ET Thu, before 9:30am open) -- skipped stock scan/RSI check per outside-market-hours rule. No cash to rotate regardless (cash $0.10, at safety buffer). Majors-only crypto oversold scan (BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE, RSI<30) returned 0 matches -- no crypto signal active. Mark-to-market value $63.60 (APH $63.50 @ $81.72 + cash $0.10). No trade."
+    "last_action": "2026-09-10T12:18:00Z: reconciled -- equity/crypto positions matched ledger exactly (APH 0.777081 sh, no crypto), no discrepancy (account also holds ROIV, belongs to sleeve_momentum, untouched). Market closed (08:18 ET Thu, before 9:30am open) -- skipped stock scan per outside-market-hours rule, but checked current APH RSI(14,1d) = 51.70 -- below the ~55 reversion threshold, so held (not yet reverted). No cash to rotate regardless (cash $0.10, at safety buffer). Majors-only crypto oversold scan (BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE, RSI<30) returned 0 matches -- no crypto signal active. Mark-to-market value $62.73 (APH $62.63 @ $80.60 + cash $0.10). No trade."
   }
 }
