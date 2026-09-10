@@ -19,8 +19,8 @@
     "positions": [
       {"symbol": "APH", "quantity": 0.777081, "asset_class": "equity"}
     ],
-    "previous_report_value": 61.94,
+    "previous_report_value": 62.67,
     "previous_report_date": "2026-09-10",
-    "last_action": "2026-09-10T13:19:00Z: reconciled -- equity/crypto positions matched ledger exactly (APH 0.777081 sh, no crypto), no discrepancy (account also holds ROIV, belongs to sleeve_momentum, untouched). Market not yet open (09:19 ET Thu, before 9:30am open) -- skipped stock scan per outside-market-hours rule, but checked current APH RSI(14,1d) = 51.70 -- unchanged from prior check, still below the ~55 reversion threshold, so held (not yet reverted). No cash to rotate regardless (cash $0.10, at safety buffer). Majors-only crypto oversold scan (BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE, RSI<30) returned 0 matches -- no crypto signal active. Mark-to-market value $61.94 (APH $61.84 @ $79.58 premarket + cash $0.10). No trade."
+    "last_action": "2026-09-10T15:16:00Z: reconciled -- equity/crypto positions matched ledger exactly (APH 0.777081 sh, no crypto), no discrepancy (account also holds ROIV, belongs to sleeve_momentum, untouched). Market open (11:16 ET Thu) -- ran Oversold Quality Stocks scan (mkt cap>2B, avg vol10>500k, RSI14<30, 95 matches): APH still appears with live RSI(14,1d,session=all) 19.22, well below the ~55 reversion threshold used for the exit decision (daily closed-bar RSI via indicator API also only 51.70, same conclusion) -- reversion not realized, held. No cash to rotate regardless (cash $0.10, at safety buffer). Majors-only crypto oversold scan (BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE, RSI<30) returned 0 matches -- no crypto signal active. Mark-to-market value $62.67 (APH 0.777081 sh @ $80.52 = $62.57 + cash $0.10). No trade."
   }
 }
