@@ -19,8 +19,8 @@
     "positions": [
       {"symbol": "APH", "quantity": 0.777081, "asset_class": "equity"}
     ],
-    "previous_report_value": 64.48,
+    "previous_report_value": 65.14,
     "previous_report_date": "2026-09-11",
-    "last_action": "2026-09-11T14:16:45Z: reconciled -- equity positions matched ledger exactly (APH 0.777081 sh), no crypto positions (matches ledger), no discrepancy (account also holds ROIV, belongs to sleeve_momentum, untouched). Market open (10:16 ET Fri) -- ran 'Oversold Quality Stocks' scan (mktcap>$2B, avgvol10>500k, RSI<30): 135 matches, incl. APH itself at RSI 18.99 (last $82.85), plus HD (29.39), LIN (28.63), TJX (18.46), SYK (23.01). APH's RSI is deeply oversold, not risen back near/above the ~55 reversion threshold -- reversion not complete, holding. Majors-only crypto oversold scan (BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE, RSI<30) returned 0 matches -- no crypto signal active. Cash $0.10, at safety buffer, no room to trade regardless. Mark-to-market value $64.48 (APH 0.777081 sh @ $82.85 = $64.38 + cash $0.10). No trade."
+    "last_action": "2026-09-11T16:16:14Z: reconciled -- equity positions matched ledger exactly (APH 0.777081 sh), no crypto positions (matches ledger), no discrepancy (account also holds ROIV, belongs to sleeve_momentum, untouched). Market open (12:16 ET Fri) -- ran 'Oversold Quality Stocks' scan (mktcap>$2B, avgvol10>500k, RSI<30): 136 matches. APH's own live RSI is 18.99 (last $83.70) -- deeply oversold, not risen back near/above the ~55 reversion threshold -- reversion not complete, holding. Majors-only crypto oversold scan (BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE, RSI<30) returned 0 matches -- no crypto signal active. Cash $0.10, at safety buffer, no room to trade regardless. Mark-to-market value $65.14 (APH 0.777081 sh @ $83.70 = $65.04 + cash $0.10). No trade."
   }
 }
