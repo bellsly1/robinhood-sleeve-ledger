@@ -19,8 +19,8 @@
     "positions": [
       {"symbol": "APH", "quantity": 0.777081, "asset_class": "equity"}
     ],
-    "previous_report_value": 62.46,
-    "previous_report_date": "2026-09-10",
-    "last_action": "2026-09-11T02:15:00Z: reconciled -- equity/crypto positions matched ledger exactly (APH 0.777081 sh, no crypto), no discrepancy (account also holds ROIV, belongs to sleeve_momentum, untouched). Market closed (22:15 ET Thu, after 4pm close) -- skipped stock scan/trading per rules. Checked APH's live RSI(14,1d,session=all) informationally: 19.22 (unchanged), well below the ~55 reversion threshold -- reversion not realized, holding regardless. Majors-only crypto oversold scan (BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE, RSI<30) returned 0 matches -- no crypto signal active. Cash $0.10, at safety buffer, no room to trade regardless. Mark-to-market value $62.51 (APH 0.777081 sh @ $80.30 = $62.41 + cash $0.10). No trade."
+    "previous_report_value": 62.96,
+    "previous_report_date": "2026-09-11",
+    "last_action": "2026-09-11T06:18:00Z: reconciled -- equity/crypto positions matched ledger exactly (APH 0.777081 sh, no crypto), no discrepancy (account also holds ROIV, belongs to sleeve_momentum, untouched). Market closed (02:18 ET Fri, before 9:30am open) -- skipped stock scan/trading per rules. Checked APH's live RSI(14,1d) informationally: 51.70 (up from 19.22), approaching but not yet above the ~55 reversion threshold -- reversion not complete, holding regardless. Majors-only crypto oversold scan (BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE, RSI<30) returned 0 matches -- no crypto signal active. Cash $0.10, at safety buffer, no room to trade regardless. Mark-to-market value $62.96 (APH 0.777081 sh @ $80.89 = $62.86 + cash $0.10). No trade."
   }
 }
