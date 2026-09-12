@@ -19,8 +19,8 @@
     "positions": [
       {"symbol": "COO", "quantity": 1.227377, "asset_class": "equity"}
     ],
-    "previous_report_value": 66.02,
+    "previous_report_value": 66.23,
     "previous_report_date": "2026-09-12",
-    "last_action": "2026-09-12T02:16:00Z: reconciled -- equity positions matched ledger exactly (COO 1.227377 sh), no crypto positions (matches ledger), no discrepancy (account also holds ROIV, belongs to sleeve_momentum, untouched). Market closed (22:16 ET Fri, well after 4:00pm close) -- skipped stock scanning/trading per rules. Checked held COO's RSI via get_equity_technical_indicators: 14.64 as of 9/11 close (latest available bar, unchanged since last check), still deeply oversold, well below the ~55 reversion threshold -- reversion not realized, held. Majors-only crypto oversold scan ('Sleeve B Majors Crypto Oversold RSI', RSI<30 1d/14, symbols BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE) returned 0 matches -- no crypto signal active. No trade. Mark-to-market value ~$66.02 (COO 1.227377 sh @ $53.70 post-market = $65.91 + cash $0.11)."
+    "last_action": "2026-09-12T07:16:11Z: reconciled -- equity positions matched ledger exactly (COO 1.227377 sh), no crypto positions (matches ledger), no discrepancy (account also holds ROIV, belongs to sleeve_momentum, untouched). Market closed (Sat 03:16 ET) -- skipped stock scanning/trading per rules. Checked held COO's RSI via get_equity_technical_indicators: 14.51 as of 9/11 close (latest available bar, unchanged trend), still deeply oversold, well below the ~55 reversion threshold -- reversion not realized, held. Majors-only crypto oversold scan ('Sleeve B Majors Crypto Oversold RSI', RSI<30 1d/14, symbols BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE) returned 0 matches -- no crypto signal active. No trade. Mark-to-market value ~$66.23 (COO 1.227377 sh @ $53.87 Fri regular close = $66.12 + cash $0.11)."
   }
 }
