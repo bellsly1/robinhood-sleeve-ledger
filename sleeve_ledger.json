@@ -8,9 +8,9 @@
     "positions": [
       {"symbol": "RUM", "quantity": 7.220502, "asset_class": "equity"}
     ],
-    "previous_report_value": 58.85,
+    "previous_report_value": 57.76,
     "previous_report_date": "2026-09-14",
-    "last_action": "2026-09-14T20:46:00Z: reconciled -- equity positions matched ledger exactly (RUM 7.220502 sh), no crypto positions (matches ledger), no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market closed (Mon 16:46 ET, after 4:00pm close) -- skipped stock scanning/trading per rules, just noted current equity holdings. Crypto check (open->mark): BTC +2.28%, ETH +3.07%, SOL +3.75%, XRP +7.49% -- all well below RUM's established 1W momentum signal (~+13% at last scan) and noisy intraday reads, not a clearly stronger candidate; no rotation (avoiding churn). No trade. Mark-to-market value ~$57.67 (RUM 7.220502 sh @ $7.9717 last (post-market) trade = $57.560 + cash $0.107381)."
+    "last_action": "2026-09-14T21:46:00Z: reconciled -- equity positions matched ledger exactly (RUM 7.220502 sh), no crypto positions (matches ledger), no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market closed (Mon 17:46 ET, after 4:00pm close) -- skipped stock scanning/trading per rules, just noted current equity holdings. Crypto check (open->mark): BTC +1.58%, ETH +1.37%, SOL +2.31%, XRP +5.26% -- all well below RUM's established 1W momentum signal and noisy intraday reads, not a clearly stronger candidate; no rotation (avoiding churn). No trade. Mark-to-market value ~$57.76 (RUM 7.220502 sh @ $7.985 last trade = $57.656 + cash $0.107381)."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
