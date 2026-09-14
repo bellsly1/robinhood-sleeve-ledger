@@ -4,13 +4,13 @@
   "sleeve_momentum": {
     "label": "Momentum (trend-following)",
     "starting_value": 64.51,
-    "cash": 0.10,
+    "cash": 0.107381,
     "positions": [
-      {"symbol": "ROIV", "quantity": 1.438981, "asset_class": "equity"}
+      {"symbol": "RUM", "quantity": 7.220502, "asset_class": "equity"}
     ],
     "previous_report_value": 58.79,
     "previous_report_date": "2026-09-14",
-    "last_action": "2026-09-14T11:46:00Z: reconciled -- equity positions matched ledger exactly (ROIV 1.438981 sh), no crypto positions (matches ledger), no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market closed (Mon 07:46 ET, pre-market) -- skipped stock scanning/trading per rules; ROIV last non-reg trade $40.81 (last regular-session trade $40.783 on 9/11, no new regular bar yet). Crypto momentum vs previous close (open_price): BTC +0.31%, ETH -0.03%, SOL +0.56%, XRP +2.06% -- strongest (XRP) still modest and noisy pre-market, not a clear enough edge over the held equity to justify rotating, and cash at safety buffer ($0.10) leaves no room to trade regardless. Held ROIV. Mark-to-market value ~$58.82 (ROIV 1.438981 sh @ $40.81 = $58.72 + cash $0.10). No trade."
+    "last_action": "2026-09-14T13:47:52Z: reconciled -- equity positions matched ledger exactly pre-trade (ROIV 1.438981 sh), no crypto positions (matches ledger), no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market open (Mon 09:47 ET). Ran 'Quality momentum scan' (mkt cap >$2B, %chg 1W close >8%, avg vol(10d) >500k): 2 matches -- SAIL +9.08%/1W (rel vol 0.13, weak) and RUM Group +14.37%/1W (mkt cap $3.56B, avg vol 3.44M, rel vol 2.07, strong). Held ROIV no longer qualifies (1W move well under 8% threshold, absent from scan). Crypto check: BTC +0.90%, ETH ~flat, SOL +0.68%, XRP +1.88% (open->mark) -- all far weaker than RUM's signal. Rotated: sold ROIV 1.438981 sh @ avg $41.1801 = $59.2574 proceeds, bought RUM $59.25 notional @ avg $8.2058 = 7.220502 sh. Resulting cash $0.107381 (old $0.10 + proceeds $59.2574 - $59.25 spent), position RUM 7.220502 sh. Mark-to-market value ~$59.32 (RUM 7.220502 sh @ $8.2058 fill = $59.25 + cash $0.107381; will re-mark next run vs live quote)."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
