@@ -10,7 +10,7 @@
     ],
     "previous_report_value": 57.22,
     "previous_report_date": "2026-09-15",
-    "last_action": "2026-09-15T16:46Z: reconciled -- equity positions matched ledger exactly (NTSK 3.2701 sh) before trading, no crypto positions (matches ledger), no discrepancy (account also holds COO, belongs to sleeve_quant, untouched). Market open (Tue 12:45 ET). Ran 'Quality momentum scan' (STOCK, mkt cap>$2B, %chg 1W close>8%, avg vol(10d)>500k): 43 matches. NTSK still qualified (1W +19.42%) but TENB showed a clearly stronger signal (1W +26.00%, mkt cap $3.86B, avg vol(10d) 5.79M) -- a ~6.6pp / ~34% relative gap, comparable in magnitude to prior rotation decisions and not marginal noise. Rotated: sold NTSK 3.2701 sh @ $17.5201 avg (proceeds $57.2925), bought TENB 1.50565 sh @ $38.05 avg ($57.29). Crypto check (open->mark): BTC -1.71%, ETH -3.13%, SOL -2.40%, XRP -2.24% -- all negative, no crypto signal. New cash $0.105366, position TENB 1.50565 sh."
+    "last_action": "2026-09-15T17:46Z: reconciled -- equity positions matched ledger exactly (TENB 1.50565 sh), no crypto positions (matches ledger), no discrepancy (account also holds COO, belongs to sleeve_quant, untouched). Market open (Tue 13:46 ET). Ran 'Quality momentum scan' (STOCK, mkt cap>$2B, %chg 1W close>8%, avg vol(10d)>500k): 42 matches. TENB remained the clear leader (1W +27.37%, mkt cap $3.86B, avg vol(10d) 5.79M) -- next-best was QLYS at 1W +22.79%, still a meaningful gap below TENB, so held rather than rotating. Crypto check (open->mark): BTC -1.07%, ETH -2.62%, SOL -1.58%, XRP -0.85% -- all negative, no crypto signal. No trade. Cash $0.105366, position TENB 1.50565 sh (mark-to-market ~$57.74 @ $38.35 last)."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
