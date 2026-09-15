@@ -4,13 +4,13 @@
   "sleeve_momentum": {
     "label": "Momentum (trend-following)",
     "starting_value": 64.51,
-    "cash": 0.102887,
+    "cash": 0.105366,
     "positions": [
-      {"symbol": "NTSK", "quantity": 3.2701, "asset_class": "equity"}
+      {"symbol": "TENB", "quantity": 1.50565, "asset_class": "equity"}
     ],
     "previous_report_value": 57.22,
     "previous_report_date": "2026-09-15",
-    "last_action": "2026-09-15T13:47Z: reconciled -- equity positions matched ledger exactly (RUM 7.220502 sh) before trading, no crypto positions (matches ledger), no discrepancy (account also holds COO, belongs to sleeve_quant, untouched). Market open (Tue 09:47 ET). Ran 'Quality momentum scan' (STOCK, mkt cap>$2B, %chg 1W close>8%, avg vol(10d)>500k): 26 matches. RUM still qualified (1W +9.07%) but was near the threshold while several liquid names showed roughly double the weekly momentum (NTSK +16.94%, ZS +16.18%, TENB +15.56%, CRWD +14.69%), a large enough gap to be a real signal rather than noise (relative-volume column was disregarded as unreliable this early in the session -- only ~15min post-open, so it structurally understates true relative volume for every row). Rotated: sold RUM 7.220502 sh @ $7.78 avg (proceeds $56.1755), bought NTSK 3.2701 sh @ $17.1799 avg ($56.18) -- NTSK: mkt cap $6.95B, avg vol(10d) 7.43M, 1W +16.94%, strongest qualifying candidate. Crypto check (open->mark): BTC -1.76%, ETH -2.06%, SOL -1.44%, XRP -0.95% -- all negative, no crypto signal. New cash $0.102887, position NTSK 3.2701 sh."
+    "last_action": "2026-09-15T16:46Z: reconciled -- equity positions matched ledger exactly (NTSK 3.2701 sh) before trading, no crypto positions (matches ledger), no discrepancy (account also holds COO, belongs to sleeve_quant, untouched). Market open (Tue 12:45 ET). Ran 'Quality momentum scan' (STOCK, mkt cap>$2B, %chg 1W close>8%, avg vol(10d)>500k): 43 matches. NTSK still qualified (1W +19.42%) but TENB showed a clearly stronger signal (1W +26.00%, mkt cap $3.86B, avg vol(10d) 5.79M) -- a ~6.6pp / ~34% relative gap, comparable in magnitude to prior rotation decisions and not marginal noise. Rotated: sold NTSK 3.2701 sh @ $17.5201 avg (proceeds $57.2925), bought TENB 1.50565 sh @ $38.05 avg ($57.29). Crypto check (open->mark): BTC -1.71%, ETH -3.13%, SOL -2.40%, XRP -2.24% -- all negative, no crypto signal. New cash $0.105366, position TENB 1.50565 sh."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
