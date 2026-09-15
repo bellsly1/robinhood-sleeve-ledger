@@ -4,13 +4,13 @@
   "sleeve_momentum": {
     "label": "Momentum (trend-following)",
     "starting_value": 64.51,
-    "cash": 0.107381,
+    "cash": 0.102887,
     "positions": [
-      {"symbol": "RUM", "quantity": 7.220502, "asset_class": "equity"}
+      {"symbol": "NTSK", "quantity": 3.2701, "asset_class": "equity"}
     ],
     "previous_report_value": 57.22,
     "previous_report_date": "2026-09-15",
-    "last_action": "2026-09-15T11:46:20Z: reconciled -- equity positions matched ledger exactly (RUM 7.220502 sh), no crypto positions (matches ledger), no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market closed (Tue 07:46 ET, before 9:30am open) -- skipped stock scanning/trading per rules, just noted current equity holdings (RUM still held). Crypto check (open->mark): BTC -0.998%, ETH -0.943%, SOL -0.917%, XRP -1.417% -- all negative, no breakout signal, and ledger cash ($0.107381) is negligible anyway; no rotation (avoiding churn). No trade. Mark-to-market value ~$57.37 (RUM 7.220502 sh @ $7.93 last non-reg trade = $57.259 + cash $0.107381)."
+    "last_action": "2026-09-15T13:47Z: reconciled -- equity positions matched ledger exactly (RUM 7.220502 sh) before trading, no crypto positions (matches ledger), no discrepancy (account also holds COO, belongs to sleeve_quant, untouched). Market open (Tue 09:47 ET). Ran 'Quality momentum scan' (STOCK, mkt cap>$2B, %chg 1W close>8%, avg vol(10d)>500k): 26 matches. RUM still qualified (1W +9.07%) but was near the threshold while several liquid names showed roughly double the weekly momentum (NTSK +16.94%, ZS +16.18%, TENB +15.56%, CRWD +14.69%), a large enough gap to be a real signal rather than noise (relative-volume column was disregarded as unreliable this early in the session -- only ~15min post-open, so it structurally understates true relative volume for every row). Rotated: sold RUM 7.220502 sh @ $7.78 avg (proceeds $56.1755), bought NTSK 3.2701 sh @ $17.1799 avg ($56.18) -- NTSK: mkt cap $6.95B, avg vol(10d) 7.43M, 1W +16.94%, strongest qualifying candidate. Crypto check (open->mark): BTC -1.76%, ETH -2.06%, SOL -1.44%, XRP -0.95% -- all negative, no crypto signal. New cash $0.102887, position NTSK 3.2701 sh."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
