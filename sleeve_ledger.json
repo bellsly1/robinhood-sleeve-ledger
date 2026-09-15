@@ -10,7 +10,7 @@
     ],
     "previous_report_value": 57.56,
     "previous_report_date": "2026-09-14",
-    "last_action": "2026-09-15T00:46:00Z: reconciled -- equity positions matched ledger exactly (RUM 7.220502 sh), no crypto positions (matches ledger), no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market closed (Mon 20:46 ET, well after 4:00pm close) -- skipped stock scanning/trading per rules, just noted current equity holdings (RUM still held, no reason to exit overnight). Crypto check (open->mark): BTC +0.55%, ETH +0.10%, SOL +1.57%, XRP +3.37% -- modest moves, no clear breakout signal, and ledger cash ($0.107381) is negligible anyway; no rotation (avoiding churn). No trade. Mark-to-market value ~$57.76 (RUM 7.220502 sh @ $7.985 last trade = $57.656 + cash $0.107381)."
+    "last_action": "2026-09-15T01:46:00Z: reconciled -- equity positions matched ledger exactly (RUM 7.220502 sh), no crypto positions (matches ledger), no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market closed (Mon 21:46 ET, well after 4:00pm close) -- skipped stock scanning/trading per rules, just noted current equity holdings (RUM still held, no reason to exit overnight). Crypto check (open->mark): BTC +0.50%, ETH +0.14%, SOL +1.33%, XRP +3.58% -- modest moves, no clear breakout signal, and ledger cash ($0.107381) is negligible anyway; no rotation (avoiding churn). No trade. Mark-to-market value ~$57.76 (RUM 7.220502 sh @ $7.985 last trade = $57.656 + cash $0.107381)."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
