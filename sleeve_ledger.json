@@ -19,8 +19,8 @@
     "positions": [
       {"symbol": "COO", "quantity": 1.227377, "asset_class": "equity"}
     ],
-    "previous_report_value": 66.39,
-    "previous_report_date": "2026-09-15",
-    "last_action": "2026-09-16T15:15Z: reconciled -- equity positions matched ledger exactly (COO 1.227377 sh), no crypto positions (matches ledger), no discrepancy (account also holds TENB, belongs to sleeve_momentum, untouched). Market open (Wed 11:15 ET) -- ran 'Sleeve B Oversold Quality Stocks 2' scan (STOCK, mkt cap>$2B, avg vol10>500k, RSI(14,1d)<30): 145 matches (GE 27.2, APH 20.8, TJX 16.9, BKNG 29.3, SBUX 28.5, etc.). Indicator cross-check on held COO: RSI (14, 1d) 14.99 -- still deeply oversold, nowhere near the ~55 reversion threshold, so held rather than taking profit or rotating into a new candidate. Majors-only crypto oversold scan ('Sleeve B Crypto Oversold Majors Check 2', RSI<30 1d/14, symbols BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE) returned 0 matches -- no crypto signal active. No trade (no signal change, low-turnover). Mark-to-market: COO 1.227377 sh @ $54.705 = $67.14, cash $0.113673, sleeve value ~$67.26."
+    "previous_report_value": 67.15,
+    "previous_report_date": "2026-09-16",
+    "last_action": "2026-09-16T16:15Z: reconciled -- equity positions matched ledger exactly (COO 1.227377 sh), no crypto positions (matches ledger), no discrepancy (account also holds TENB, belongs to sleeve_momentum, untouched). Market open (Wed 12:15 ET) -- ran 'Sleeve B Oversold Quality Stocks 2' scan (STOCK, mkt cap>$2B, avg vol10>500k, RSI(14,1d)<30): 144 matches, COO ranked #1 most oversold at RSI 15.03 (JPC 15.29, PFGC 16.20, BURL 16.67, TJX 16.85, etc.). Indicator cross-check on held COO: RSI (14, 1d) 15.03 -- still deeply oversold, nowhere near the ~55 reversion threshold, so held rather than taking profit or rotating into a new candidate (it's already the top-ranked candidate anyway). Majors-only crypto oversold scan ('Sleeve B Crypto Oversold Majors Check 2', RSI<30 1d/14, symbols BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE) returned 0 matches -- no crypto signal active. No trade (no signal change, low-turnover). Mark-to-market: COO 1.227377 sh @ $54.62 = $67.04, cash $0.113673, sleeve value ~$67.15."
   }
 }
