@@ -10,7 +10,7 @@
     ],
     "previous_report_value": 57.14,
     "previous_report_date": "2026-09-15",
-    "last_action": "2026-09-16T04:46Z: reconciled -- equity positions matched ledger exactly (TENB 1.50565 sh), no crypto positions (matches ledger), no discrepancy (account also holds COO, belongs to sleeve_quant, untouched). Market closed (Wed 00:46 ET, pre-open) -- skipped stock scanning per rules, held TENB. Crypto check (open->mark): BTC +0.18%, ETH +0.25%, SOL +0.23%, XRP +0.75% -- all positive but marginal/noise-level, no clear momentum signal, cash near-zero anyway. No trade. Cash $0.105366, position TENB 1.50565 sh (mark-to-market ~$57.18 @ $37.98 last non-reg)."
+    "last_action": "2026-09-16T07:46Z: reconciled -- equity positions matched ledger exactly (TENB 1.50565 sh), no crypto positions (matches ledger), no discrepancy (account also holds COO, belongs to sleeve_quant, untouched). Market closed (Wed 03:46 ET, pre-open) -- skipped stock scanning per rules, held TENB. Crypto check (open->mark): BTC +0.02%, ETH -0.14%, SOL -0.23%, XRP -0.64% -- all flat/negative, no momentum signal, cash near-zero anyway. No trade. Cash $0.105366, position TENB 1.50565 sh (mark-to-market ~$57.47 @ $38.17 last non-reg)."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
