@@ -8,9 +8,9 @@
     "positions": [
       {"symbol": "TENB", "quantity": 1.50565, "asset_class": "equity"}
     ],
-    "previous_report_value": 57.14,
-    "previous_report_date": "2026-09-15",
-    "last_action": "2026-09-16T16:46Z: reconciled -- equity positions matched ledger exactly (TENB 1.50565 sh), no crypto positions (matches ledger), no discrepancy (account also holds COO, belongs to sleeve_quant, untouched). Market open (Wed 12:46 ET) -- ran 'Quality momentum scan' (STOCK, mkt cap>$2B, %Chg 1W close>8%, avg vol10>500k): 43 matches; held TENB ranked #2 by %Chg(1W) at +20.19% (RBRK #1 at +20.32%, a ~0.13pp gap -- too marginal to justify churning out of TENB; TENB rel vol 0.47 vs RBRK 0.32, no candidate had rel vol>1.0 with strong %chg) -- held, no rotation. Crypto check (open->mark): BTC -0.13%, ETH -0.49%, SOL -0.08%, XRP -2.49% -- all negative, no momentum signal. No trade. Cash $0.105366, position TENB 1.50565 sh (mark-to-market ~$54.49 @ $36.19 last trade)."
+    "previous_report_value": 55.23,
+    "previous_report_date": "2026-09-16",
+    "last_action": "2026-09-16T17:46Z: reconciled -- equity positions matched ledger exactly (TENB 1.50565 sh), no crypto positions (matches ledger), no discrepancy (account also holds COO, belongs to sleeve_quant, untouched). Market open (Wed 13:46 ET) -- ran 'Quality momentum scan' (STOCK, mkt cap>$2B, %Chg 1W close>8%, avg vol10>500k): 41 matches; held TENB ranked #2 by %Chg(1W) at +21.55% (EMAT #1 at +23.21%, a ~1.66pp gap, rel vol 1.09 -- but EMAT is an obscure micro-cap barely above the $2B floor at a $3.80 share price with a +14.65% single-day move, a noisy/thin profile rather than a clearly stronger quality signal; not compelling enough to churn out of TENB, which remains a solid #2) -- held, no rotation. Crypto check (open->mark): BTC -0.44%, ETH -0.98%, SOL -0.85%, XRP -3.16% -- all negative, no momentum signal. No trade. Cash $0.105366, position TENB 1.50565 sh (mark-to-market ~$55.12 @ $36.61 last trade)."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
