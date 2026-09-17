@@ -8,9 +8,9 @@
     "positions": [
       {"symbol": "TENB", "quantity": 1.50565, "asset_class": "equity"}
     ],
-    "previous_report_value": 55.44,
+    "previous_report_value": 56.54,
     "previous_report_date": "2026-09-17",
-    "last_action": "2026-09-17T13:46Z: reconciled -- equity positions matched ledger exactly (TENB 1.505650 sh), no crypto positions (matches ledger), no discrepancy (account also holds COO, belongs to sleeve_quant, untouched). Market open (Thu 09:46 ET) -- ran 'Quality momentum scan' (STOCK, %Chg 1W close > 8%, mkt cap > $2B, avg vol(10) > 500k): 56 matches. TENB's own 1W change is 22.3%, among the strongest in the list (only EMAT +32.5% and TEM +29.6% higher, RBRK +22.1% roughly tied) -- clearly still qualifies, no candidate clearly stronger enough to justify churn, so held. Crypto check (open->mark): BTC -0.44%, ETH +0.11%, SOL -0.24%, XRP -0.78% -- flat/negative, no signal, and cash ($0.105366) is negligible regardless, no viable order size. No trade. Cash $0.105366, position TENB 1.505650 sh (mark-to-market $55.28 @ $36.7047 last trade, sleeve value ~$55.38)."
+    "last_action": "2026-09-17T14:45Z: reconciled -- equity positions matched ledger exactly (TENB 1.505650 sh), no crypto positions (matches ledger), no discrepancy (account also holds COO, belongs to sleeve_quant, untouched). Market open (Thu 10:45 ET) -- re-ran 'Quality momentum scan' (STOCK, %Chg 1W close > 8%, mkt cap > $2B, avg vol(10) > 500k): 72 matches. TENB's own 1W change rose to 24.3%, still among the stronger names (EMAT +35.4%, TEM +35.1%, IOVA +26.3% somewhat higher; RBRK +24.0%, S +20.3% roughly tied or below) -- clearly still qualifies, no candidate clearly stronger enough to justify churn (EMAT is a thin micro-cap, TEM was already passed on last run), so held. Crypto check (open->mark): BTC +0.33%, ETH +1.30%, SOL +1.49%, XRP +0.47% -- mild positive drift, no strong signal, and cash ($0.105366) is negligible regardless (below any viable order minimum after the $0.10 buffer). No trade. Cash $0.105366, position TENB 1.505650 sh (mark-to-market $56.43 @ $37.48 last trade, sleeve value ~$56.54)."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
