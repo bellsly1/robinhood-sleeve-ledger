@@ -4,13 +4,13 @@
   "sleeve_momentum": {
     "label": "Momentum (trend-following)",
     "starting_value": 64.51,
-    "cash": 0.107787,
+    "cash": 0.106394,
     "positions": [
-      {"symbol": "SDGR", "quantity": 1.799457, "asset_class": "equity"}
+      {"symbol": "TEM", "quantity": 0.666082, "asset_class": "equity"}
     ],
-    "previous_report_value": 52.32,
+    "previous_report_value": 51.72,
     "previous_report_date": "2026-09-18",
-    "last_action": "2026-09-18T16:45Z: reconciled -- equity positions matched ledger exactly (SDGR 1.799457 sh), no crypto positions (matches ledger), no discrepancy (account also holds COO, belongs to sleeve_quant, untouched). Market open (Fri 12:45 ET) -- re-ran 'Quality momentum scan' (STOCK, %chg 1W close >8%, mkt cap >$2B, avg vol10 >500k), 55 matches; SDGR still held and still clearly strongest at +52.5% 1W (next-best TEM +29.7%, TWST +27.4%, RUM +27.3%, PS +25.7%) -- no candidate close enough to justify churn, HELD position unchanged. Crypto check (open->mark): BTC +4.64%, ETH +4.88%, SOL +6.94%, XRP +4.42% -- positive but cash negligible ($0.11), no action. Cash $0.107787, position SDGR 1.799457 sh @ last $29.015, sleeve value ~$52.32."
+    "last_action": "2026-09-18T17:47Z: reconciled -- equity positions matched ledger exactly (SDGR 1.799457 sh) before trading, no crypto positions (matches ledger), no discrepancy (account also holds COO, belongs to sleeve_quant, untouched). Market open (Fri 13:47 ET) -- re-ran 'Quality momentum scan' (STOCK, %chg 1W close >8%, mkt cap >$2B, avg vol10 >500k), 57 matches; SDGR had DROPPED OUT of the scan entirely (down -4.9% on the day to $28.68, no longer clearing the 8% 1W threshold) while TEM was now the top qualifier at +31.08% 1W (next-best EMAT +29.55%, RUM +26.99%, TWST +25.93%, PS +25.67%) -- clear rotation signal, not marginal. ROTATED: sold SDGR 1.799457 sh @ avg $28.6801 = $51.6086 proceeds; bought TEM $51.61 notional @ avg $77.4829 = 0.666082 sh. Crypto check (open->mark): BTC +4.46%, ETH +4.82%, SOL +7.49%, XRP +4.60% -- positive but cash negligible, no action. Cash $0.106394, position TEM 0.666082 sh @ last $77.41, sleeve value ~$51.70."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
