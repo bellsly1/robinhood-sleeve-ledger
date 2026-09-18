@@ -19,8 +19,8 @@
     "positions": [
       {"symbol": "COO", "quantity": 1.227377, "asset_class": "equity"}
     ],
-    "previous_report_value": 66.13,
+    "previous_report_value": 66.45,
     "previous_report_date": "2026-09-18",
-    "last_action": "2026-09-18T02:15Z: reconciled -- equity positions matched ledger exactly (COO 1.227377 sh), no crypto positions (matches ledger), no discrepancy (account also holds TEM, belongs to sleeve_momentum, untouched). Market closed (Thu 22:15 ET, past 4pm close) -- skipped stock scan/RSI check/trading per rules; held existing COO position unchanged. Majors-only crypto oversold scan (reused 'Sleeve B Crypto Oversold Majors Check 5', RSI<30 1d/14, symbols BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE) returned 0 matches -- no crypto signal active. No trade (no signal change, low-turnover, market closed). Mark-to-market: COO 1.227377 sh @ $53.79 (after-hours) = $66.02, cash $0.113673, sleeve value ~$66.13."
+    "last_action": "2026-09-18T07:15Z: reconciled -- equity positions matched ledger exactly (COO 1.227377 sh), no crypto positions (matches ledger), no discrepancy (account also holds TEM, belongs to sleeve_momentum, untouched). Market closed (Fri 03:15 ET, pre-open) -- skipped stock scan/RSI check/trading per rules; held existing COO position unchanged. Majors-only crypto oversold scan (reused 'Sleeve B Crypto Oversold Majors Check 5', RSI<30 1d/14, symbols BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE) returned 0 matches -- no crypto signal active. No trade (no signal change, low-turnover, market closed). Mark-to-market: COO 1.227377 sh @ $54.05 (overnight) = $66.34, cash $0.113673, sleeve value ~$66.45."
   }
 }
