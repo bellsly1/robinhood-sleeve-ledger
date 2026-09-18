@@ -8,9 +8,9 @@
     "positions": [
       {"symbol": "TEM", "quantity": 0.693029, "asset_class": "equity"}
     ],
-    "previous_report_value": 55.27,
+    "previous_report_value": 55.22,
     "previous_report_date": "2026-09-18",
-    "last_action": "2026-09-18T01:46Z: reconciled -- equity positions matched ledger exactly (TEM 0.693029 sh), no crypto positions (matches ledger), no discrepancy (account also holds COO, belongs to sleeve_quant, untouched). Market closed (Thu 21:46 ET, past 4pm close) -- skipped stock scan/trading per rules; noted current holding TEM 0.693029 sh (after-hours mark $79.60, ~$55.17). Crypto check (open->mark): BTC +0.38%, ETH +0.84%, SOL +2.41%, XRP +0.18% -- mild broad-based uptick, SOL relatively strongest but not a strong actionable signal, and cash negligible ($0.107087) regardless, no crypto trade possible or warranted. No trade. Cash $0.107087, position TEM 0.693029 sh, sleeve value ~$55.27."
+    "last_action": "2026-09-18T02:46Z: reconciled -- equity positions matched ledger exactly (TEM 0.693029 sh), no crypto positions (matches ledger), no discrepancy (account also holds COO, belongs to sleeve_quant, untouched). Market closed (Thu 22:46 ET, past 4pm close) -- skipped stock scan/trading per rules; held current position TEM 0.693029 sh (after-hours last $79.53, ~$55.12). Crypto check (open->mark): BTC +0.64%, ETH +1.08%, SOL +2.66%, XRP +0.30% -- mild broad uptick, SOL relatively strongest but not a strong actionable breakout, and cash negligible ($0.107087) regardless, no crypto trade possible or warranted. No trade. Cash $0.107087, position TEM 0.693029 sh, sleeve value ~$55.22."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
