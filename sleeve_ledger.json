@@ -12,9 +12,9 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 52.22,
+    "previous_report_value": 52.31,
     "previous_report_date": "2026-09-21",
-    "last_action": "2026-09-21T15:46Z: reconciled -- equity positions matched ledger exactly (WBD 1.706018 sh), no crypto positions, no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market OPEN (Mon 11:46 ET). Re-ran 'Quality momentum scan' (STOCK, %Chg 1W close >8%, mkt cap >$2B, avg vol(10d) >500k): 20 matches; WBD remained the only one with relative volume >1.0 (2.67x, up from 1.95x last run, %1W +9.89%) -- signal strengthened, not weakened, so held rather than rotated (next closest was ARM at 0.99x, below threshold). Crypto check (open->mark): BTC +5.74%, SOL +5.71%, XRP +5.13%, ETH +3.07% -- broad uptick but diffuse across all four, no standout vs. WBD's dominant and strengthening relative volume. HELD WBD. Cash $0.103827, position WBD 1.706018 sh @ avg $30.6972 (last trade $30.55), sleeve value ~$52.22."
+    "last_action": "2026-09-21T16:46Z: reconciled -- equity positions matched ledger exactly (WBD 1.706018 sh), no crypto positions, no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market OPEN (Mon 12:46 ET). Re-ran 'Quality momentum scan' (STOCK, %Chg 1W close >8%, mkt cap >$2B, avg vol(10d) >500k): 23 matches; WBD remained the strongest by relative volume (3.19x, up from 2.67x last run, %1W +10.07%) -- next closest was ARM at 1.19x, well below WBD's dominant reading. Signal strengthened further, so held rather than rotated. Crypto check (open->mark): BTC +5.51%, SOL +5.36%, XRP +4.51%, ETH +3.54% -- broad uptick but diffuse across all four, no standout vs. WBD's dominant and strengthening relative volume. HELD WBD. Cash $0.103827, position WBD 1.706018 sh @ avg $30.70 (last trade $30.60), sleeve value ~$52.31."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
