@@ -4,17 +4,17 @@
   "sleeve_momentum": {
     "label": "Momentum (trend-following)",
     "starting_value": 64.51,
-    "cash": 0.106394,
+    "cash": 0.103827,
     "positions": [
       {
-        "symbol": "TEM",
-        "quantity": 0.666082,
+        "symbol": "WBD",
+        "quantity": 1.706018,
         "asset_class": "equity"
       }
     ],
     "previous_report_value": 52.50,
     "previous_report_date": "2026-09-21",
-    "last_action": "2026-09-21T13:46Z: reconciled -- equity positions matched ledger exactly (TEM 0.666082 sh), no crypto positions (matches ledger), no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market OPEN (Mon 09:46 ET). Ran 'Quality momentum scan' (STOCK, %Chg 1W close >8%, mkt cap >$2B, avg vol(10d) >500k): 8 matches (ARM, MSTR, RKLB, MXL, ALM, GRAL, LUNR, XXI), all with relative volume well below 1.0 (0.03-0.32) -- no standout signal, and TEM itself no longer clears the 1W>8% screen. Not rotating: no candidate is clearly stronger given weak relative volume across the board, and cash is negligible ($0.106394, below any tradable minimum) so a new entry isn't affordable regardless. TEM still up modestly today (+1.14%, $78.73 last vs $77.84 Fri close) with no breakdown signal, so held rather than force-sold to cash. Crypto check (open->mark): BTC +4.70%, ETH +2.41%, SOL +5.32%, XRP +4.56% -- continued broad uptick but cash too small to act on. HELD TEM, no rotation, no trade. Cash $0.106394, position TEM 0.666082 sh @ last $78.73, sleeve value ~$52.55."
+    "last_action": "2026-09-21T14:46Z: reconciled -- equity positions matched ledger exactly (TEM 0.666082 sh) before trading, no crypto positions, no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market OPEN (Mon 10:46 ET). Ran 'Quality momentum scan' (STOCK, %Chg 1W close >8%, mkt cap >$2B, avg vol(10d) >500k): 12 matches; WBD stood out as the only one with relative volume >1.0 (1.95x, %1W +10.52%, mkt cap $69.7B) -- a clear signal vs. the noisy sub-1.0 relative volume seen in prior runs. TEM no longer cleared the 1W>8% screen and was only up modestly (+0.90% today), so rotated: SOLD TEM 0.666082 sh @ avg $78.6201 (proceeds $52.3674), then BOUGHT WBD $52.37 notional -> 1.706018 sh @ avg $30.6972. Crypto check (open->mark): BTC +5.27%, ETH +2.51%, SOL +5.59%, XRP +4.84% -- broad uptick but weaker/less distinct than WBD's equity signal, and cash was needed for the equity rotation. ROTATED TEM->WBD. Cash $0.103827, position WBD 1.706018 sh @ avg $30.6972 (~$52.37), sleeve value ~$52.47."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
