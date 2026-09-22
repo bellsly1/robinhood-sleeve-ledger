@@ -14,7 +14,7 @@
     ],
     "previous_report_value": 52.64,
     "previous_report_date": "2026-09-22",
-    "last_action": "2026-09-22T05:45Z: reconciled -- equity positions matched ledger exactly (WBD 1.706018 sh), no crypto positions, no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market CLOSED (Tue 01:45 ET, before 9:30am open) -- stock scanning/trading skipped per rules. WBD last trade $30.795, essentially flat vs previous close $30.80. Crypto check (open->mark): SOL +0.11%, ETH -0.13%, BTC -0.23%, XRP -0.24% -- prior uptick has faded to flat/slightly negative, nothing qualifies, and ledger cash ($0.10) is too small to fund any rotation regardless. HELD WBD. Cash $0.103827, position WBD 1.706018 sh @ avg $30.70 (last trade $30.795), sleeve value ~$52.64."
+    "last_action": "2026-09-22T10:46Z: reconciled -- equity positions matched ledger exactly (WBD 1.706018 sh), no crypto positions, no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market CLOSED (Tue 06:46 ET, before 9:30am open) -- stock scanning/trading skipped per rules. WBD last trade $30.795, essentially flat vs previous close $30.80. Crypto check (open->mark): XRP +0.86%, BTC +0.14%, ETH +0.01%, SOL -0.13% -- no clearly strong signal, and ledger cash ($0.10) is too small to fund any rotation regardless. HELD WBD. Cash $0.103827, position WBD 1.706018 sh @ avg $30.70 (last trade $30.795), sleeve value ~$52.64."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
