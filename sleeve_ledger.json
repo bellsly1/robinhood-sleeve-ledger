@@ -12,9 +12,9 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 52.68,
-    "previous_report_date": "2026-09-22",
-    "last_action": "2026-09-23T07:46Z: reconciled -- equity positions matched ledger exactly (WBD 1.706018 sh), no crypto positions, no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market CLOSED (Wed 03:46 ET, well before 9:30am open) -- per rules, skipped stock scanning/trading entirely outside regular hours; WBD last non-reg trade $30.77 (last regular-session trade $30.82). Crypto check (open->mark): XRP +0.01%, SOL -1.08%, ETH -1.18%, BTC -0.64% -- all flat-to-negative, no momentum signal; also a rotation would require selling WBD first (blocked, market closed) and cash alone ($0.10) can't fund a new position. HELD WBD -- no trade. Cash $0.103827, position WBD 1.706018 sh @ avg $30.70 (mark $30.77), sleeve value ~$52.60."
+    "previous_report_value": 52.62,
+    "previous_report_date": "2026-09-23",
+    "last_action": "2026-09-23T08:45Z: reconciled -- equity positions matched ledger exactly (WBD 1.706018 sh), no crypto positions, no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market CLOSED (Wed 04:45 ET, well before 9:30am open) -- per rules, skipped stock scanning/trading entirely outside regular hours; WBD last non-reg trade $30.78 (last regular-session close $30.82). Crypto check (open->mark): XRP -0.73%, SOL -1.03%, BTC -0.73%, ETH -1.14% -- all negative, no momentum signal; also a rotation would require selling WBD first (blocked, market closed) and cash alone ($0.10) can't fund a new position. HELD WBD -- no trade. Cash $0.103827, position WBD 1.706018 sh @ avg $30.70 (mark $30.78), sleeve value ~$52.62."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
