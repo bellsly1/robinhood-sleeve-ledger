@@ -12,9 +12,9 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 52.68,
+    "previous_report_value": 52.19,
     "previous_report_date": "2026-09-23",
-    "last_action": "2026-09-23T18:46Z: reconciled -- equity positions matched ledger exactly (WBD 1.706018 sh), no crypto positions, no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market OPEN (Wed 14:46 ET). Ran 'Quality momentum scan' (STOCK, %chg 1W close >8%, mktcap>$2B, avg vol 10d>500k): 70 matches. WBD still qualified but was lukewarm (1W chg +10.49%, day -0.37%, rel vol 0.60 -- below-average volume). FSLY was clearly stronger: 1W chg +23.91%, day +13.36%, rel vol 1.19 (above-average volume, mktcap $4.16B) -- a clean, non-marginal rotation signal (2x the weekly momentum, sharply up today vs WBD flat/down). Crypto check (open->mark): BTC -2.86%, ETH -3.97%, SOL -4.10%, XRP -7.62% -- all negative, no signal. ROTATED: sold WBD 1.706018 sh @ avg $30.7127 = $52.396419 proceeds; bought FSLY $52.39 notional @ avg $29.5739 = 1.771494 sh. Cash $0.110261, position FSLY 1.771494 sh @ avg $29.5739, sleeve value ~$52.50."
+    "last_action": "2026-09-23T21:46Z: reconciled -- equity positions matched ledger exactly (FSLY 1.771494 sh), no crypto positions, no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market CLOSED (Wed 17:46 ET, after 4:00pm close) -- skipped stock scanning/trading per rule, noted current holdings only. Crypto check (open->mark): BTC -2.53%, ETH -3.44%, SOL -3.77%, XRP -7.11% -- all negative, no signal. HELD FSLY -- no trade. Mark-to-market: FSLY 1.771494 sh @ $29.40 (after-hours) = $52.08, cash $0.110261, sleeve value ~$52.19."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
