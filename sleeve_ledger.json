@@ -12,9 +12,9 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 52.19,
+    "previous_report_value": 51.63,
     "previous_report_date": "2026-09-23",
-    "last_action": "2026-09-23T21:46Z: reconciled -- equity positions matched ledger exactly (FSLY 1.771494 sh), no crypto positions, no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market CLOSED (Wed 17:46 ET, after 4:00pm close) -- skipped stock scanning/trading per rule, noted current holdings only. Crypto check (open->mark): BTC -2.53%, ETH -3.44%, SOL -3.77%, XRP -7.11% -- all negative, no signal. HELD FSLY -- no trade. Mark-to-market: FSLY 1.771494 sh @ $29.40 (after-hours) = $52.08, cash $0.110261, sleeve value ~$52.19."
+    "last_action": "2026-09-23T22:45Z: reconciled -- equity positions matched ledger exactly (FSLY 1.771494 sh), no crypto positions, no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market CLOSED (Wed 18:45 ET, after 4:00pm close) -- skipped stock scanning/trading per rule, noted current holdings only. Crypto check (open->mark): BTC -2.47%, ETH -3.00%, SOL -3.40%, XRP -7.14% -- all negative, no signal. HELD FSLY -- no trade. Mark-to-market: FSLY 1.771494 sh @ $29.081 (after-hours) = $51.52, cash $0.110261, sleeve value ~$51.63."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
