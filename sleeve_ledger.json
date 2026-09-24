@@ -4,17 +4,17 @@
   "sleeve_momentum": {
     "label": "Momentum (trend-following)",
     "starting_value": 64.51,
-    "cash": 0.110261,
+    "cash": 0.099972,
     "positions": [
       {
-        "symbol": "FSLY",
-        "quantity": 1.771494,
+        "symbol": "P",
+        "quantity": 0.367641,
         "asset_class": "equity"
       }
     ],
     "previous_report_value": 50.31,
     "previous_report_date": "2026-09-24",
-    "last_action": "2026-09-24T12:46Z: reconciled -- equity positions matched ledger exactly (FSLY 1.771494 sh), no crypto positions, no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market CLOSED (Thu 08:46 ET, before 9:30am open) -- skipped stock scanning/trading per rule, noted current holdings only. Crypto check (open->mark): BTC -0.61%, ETH -1.30%, SOL -1.14%, XRP -1.47% -- all negative, no rotation signal. HELD FSLY -- no trade. Mark-to-market: FSLY 1.771494 sh @ $28.34 (pre-market) = $50.20, cash $0.110261, sleeve value ~$50.31."
+    "last_action": "2026-09-24T13:47Z: reconciled -- equity positions matched ledger exactly (FSLY 1.771494 sh) before trading, no crypto positions, no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market OPEN (Thu 9:45am ET). Ran 'Quality momentum scan' (STOCK, %chg 1W close >8%, mkt cap >$2B, avg vol10 >500k): 63 matches. FSLY still technically passed (1W +11.7%) but was down 3 straight sessions incl. -10.1% today after bearish analyst notes (BofA/RBC underperform-ish, lackluster investor-day financial update) -- momentum reversal, not marginal noise. ROTATED into P (Everpure): +16%+ today on bullish catalysts (BofA target $150->$180, Needham $140->$150, Barclays ->$132, avg rating buy), 1W +21.6%, highest relative volume among large-cap qualifiers, mkt cap $36.5B -- clearly stronger than FSLY. Sold FSLY 1.771494 sh @ $26.6101 = $47.1396; bought P 0.367641 sh @ $128.2499 = $47.1499. Crypto check (open->mark): BTC +0.03%, ETH -0.45%, SOL +0.04%, XRP +0.30% -- all flat/mixed, no signal. Mark-to-market post-trade: P 0.367641 sh @ $128.25 = $47.15, cash $0.099972, sleeve value ~$47.25."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
