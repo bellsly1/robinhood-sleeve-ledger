@@ -12,9 +12,9 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 50.31,
+    "previous_report_value": 47.36,
     "previous_report_date": "2026-09-24",
-    "last_action": "2026-09-24T13:47Z: reconciled -- equity positions matched ledger exactly (FSLY 1.771494 sh) before trading, no crypto positions, no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market OPEN (Thu 9:45am ET). Ran 'Quality momentum scan' (STOCK, %chg 1W close >8%, mkt cap >$2B, avg vol10 >500k): 63 matches. FSLY still technically passed (1W +11.7%) but was down 3 straight sessions incl. -10.1% today after bearish analyst notes (BofA/RBC underperform-ish, lackluster investor-day financial update) -- momentum reversal, not marginal noise. ROTATED into P (Everpure): +16%+ today on bullish catalysts (BofA target $150->$180, Needham $140->$150, Barclays ->$132, avg rating buy), 1W +21.6%, highest relative volume among large-cap qualifiers, mkt cap $36.5B -- clearly stronger than FSLY. Sold FSLY 1.771494 sh @ $26.6101 = $47.1396; bought P 0.367641 sh @ $128.2499 = $47.1499. Crypto check (open->mark): BTC +0.03%, ETH -0.45%, SOL +0.04%, XRP +0.30% -- all flat/mixed, no signal. Mark-to-market post-trade: P 0.367641 sh @ $128.25 = $47.15, cash $0.099972, sleeve value ~$47.25."
+    "last_action": "2026-09-24T14:47Z: reconciled -- equity positions matched ledger exactly (P 0.367641 sh), no crypto positions, no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market OPEN (Thu 10:47am ET). Re-ran 'Quality momentum scan' (STOCK, %chg 1W close >8%, mkt cap >$2B, avg vol10 >500k): 64 matches. P still clearly the strongest holding: +17.4% today, 1W +23.6%, relative volume 1.31 -- highest of all 64 matches by a wide margin (next-best NBIS at 0.91), mkt cap $32.5B. No candidate is clearly stronger, so HELD P -- no rotation (avoiding churn on a position still leading the pack). Crypto check (open->mark): BTC +0.48%, ETH +0.08%, SOL +0.97%, XRP +1.51% -- all mild/mixed, no signal, and cash ($0.099972) is too small to deploy regardless. No trade. Mark-to-market: P 0.367641 sh @ $128.555 = $47.26, cash $0.099972, sleeve value ~$47.36."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
