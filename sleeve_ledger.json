@@ -12,9 +12,9 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 45.78,
+    "previous_report_value": 45.69,
     "previous_report_date": "2026-09-25",
-    "last_action": "2026-09-25T02:46Z: reconciled -- equity positions matched ledger exactly (P 0.367641 sh), no crypto positions, no discrepancy (account also holds COO belonging to sleeve_quant, untouched). Market CLOSED (Thu 10:46pm ET, past 4:00pm close) -- skipped stock scanning per rules; equity holding unchanged. Crypto check (open->mark): BTC +0.52%, ETH +0.18%, SOL +2.30%, XRP +2.41% -- SOL/XRP modestly stronger but cash ($0.099972) is below the $0.10 safety buffer so no trade is possible regardless. HELD P -- no trade. Mark-to-market: P 0.367641 sh @ $124.25 (after-hours last trade, 10:44pm ET) = $45.68, cash $0.099972, sleeve value ~$45.78."
+    "last_action": "2026-09-25T03:45Z: reconciled -- equity positions matched ledger exactly (P 0.367641 sh), no crypto positions, no discrepancy (account also holds COO belonging to sleeve_quant, untouched). Market CLOSED (Thu 11:45pm ET, past 4:00pm close) -- skipped stock scanning per rules; equity holding unchanged. Crypto check (open->mark): BTC +0.29%, ETH -0.02%, SOL +1.62%, XRP +2.32% -- SOL/XRP modestly stronger but cash ($0.099972) is below the $0.10 safety buffer so no trade is possible regardless. HELD P -- no trade. Mark-to-market: P 0.367641 sh @ $124.00 (after-hours last trade, 11:39pm ET) = $45.59, cash $0.099972, sleeve value ~$45.69."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
