@@ -12,9 +12,9 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 45.69,
+    "previous_report_value": 46.09,
     "previous_report_date": "2026-09-25",
-    "last_action": "2026-09-25T13:46Z: reconciled -- equity positions matched ledger exactly (P 0.367641 sh), no crypto positions, no discrepancy (account also holds COO belonging to sleeve_quant, untouched). Market OPEN (Fri 9:46am ET). P 1-week momentum: close $104.14 (09/18) -> $125.74 (last trade) = +20.7%, well above the 8% threshold -- still clearly qualifies, no rotation candidate would be 'clearly stronger' enough to justify churning. Crypto check (open->mark): BTC -0.55%, ETH +0.32%, SOL +1.90%, XRP +3.39% -- no position held there, and cash ($0.099972) is below the $0.10 safety buffer so no trade is possible regardless. HELD P -- no trade. Mark-to-market: P 0.367641 sh @ $125.739 (last trade, 9:46am ET) = $46.23, cash $0.099972, sleeve value ~$46.33."
+    "last_action": "2026-09-25T14:48Z: reconciled -- equity positions matched ledger exactly (P 0.367641 sh), no crypto positions, no discrepancy (account also holds COO belonging to sleeve_quant, untouched). Market OPEN (Fri 10:48am ET). P 1-week momentum: close $103.99 (09/17) -> $121.88 (official close 09/24) = +17.2%, or vs last trade $125.09 = +20.3%, well above the 8% threshold -- still clearly qualifies. Quality momentum scan (86 matches) showed P at #8 (+20.0% 1W); stronger raw movers (GRAL +48.7%, SECZ +37.9%, VICR +27.1%, MRNA +26.0%, VKTX +23.2%, INOD +21.8%, RMBS +20.2%) all had relative volume <0.29 (well under the 1.0 preference, weak conviction) vs P's own established 5-day uptrend -- not judged clearly stronger enough to justify churning out of an already-qualifying position. Crypto check (open->mark): BTC -0.56%, ETH +0.36%, SOL +2.53%, XRP +3.24% -- no position held there, and cash ($0.099972) is below the $0.10 safety buffer so no trade is possible regardless. HELD P -- no trade. Mark-to-market: P 0.367641 sh @ $125.09 (last trade, 10:48am ET) = $45.99, cash $0.099972, sleeve value ~$46.09."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
