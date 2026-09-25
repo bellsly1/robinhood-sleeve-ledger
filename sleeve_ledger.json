@@ -27,8 +27,8 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 68.15,
+    "previous_report_value": 68.14,
     "previous_report_date": "2026-09-25",
-    "last_action": "2026-09-25T11:17Z: reconciled -- equity positions matched ledger exactly (COO 1.227377 sh), no crypto positions (matches ledger), no discrepancy (account also holds P 0.367641 sh, belongs to sleeve_momentum, untouched). Market CLOSED (Fri 7:17am ET, before 9:30am open) -- skipped stock scanning per rules. Checked existing COO position's RSI: 30.24 (14, 1d, last daily bar 09-24), still oversold but not yet reverted, well below the ~55 take-profit threshold -- no sell signal. Majors-only crypto oversold scan ('Sleeve B Crypto Oversold Majors Check 8', RSI<30 1d/14, symbols BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE) returned 0 matches -- no crypto signal active. HELD COO -- no trade (RSI not reverted, no crypto signal, low-turnover rule, cash near-zero regardless). Mark-to-market: COO 1.227377 sh @ $55.43 (last non-reg trade, 7:03am ET) = $68.03, cash $0.113673, sleeve value ~$68.15."
+    "last_action": "2026-09-25T12:17Z: reconciled -- equity positions matched ledger exactly (COO 1.227377 sh), no crypto positions (matches ledger), no discrepancy (account also holds P 0.367641 sh, belongs to sleeve_momentum, untouched). Market CLOSED (Fri 8:17am ET, before 9:30am open) -- skipped stock scanning per rules. Checked existing COO position's RSI: 30.24 (14, 1d, last daily bar 09-24), still oversold but not yet reverted, well below the ~55 take-profit threshold -- no sell signal. Majors-only crypto oversold scan ('Sleeve B Crypto Oversold Majors Check 8', RSI<30 1d/14, symbols BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE) returned 0 matches -- no crypto signal active. HELD COO -- no trade (RSI not reverted, no crypto signal, low-turnover rule, cash near-zero regardless). Mark-to-market: COO 1.227377 sh @ $55.42 (last non-reg trade, 7:39am ET) = $68.02, cash $0.113673, sleeve value ~$68.14."
   }
 }
