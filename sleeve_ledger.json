@@ -12,9 +12,9 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 45.40,
+    "previous_report_value": 55.55,
     "previous_report_date": "2026-09-28",
-    "last_action": "2026-09-28T16:46Z (~12:46pm Mon ET): reconciled -- equity positions matched ledger exactly (KOD 0.616197 sh), no crypto positions (matches ledger), no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market OPEN (Mon regular session). Re-ran 'Quality momentum scan' (STOCK, mkt cap>2B, %chg 1W close>8%, avg vol 10d>500k): 3 matches -- KOD (%chg 1W +170.8%, rel volume 11.7x, mkt cap $2.03B), AMC (%chg 1W +11.7%, rel volume 2.1x, mkt cap $2.62B), MAAS (%chg 1W +16.9%, rel volume 0.71x, weak). KOD remains the clear leader by a wide margin and still qualifies -- no rotation warranted. Crypto check (open->mark, informational): BTC +0.39%, ETH +1.14%, SOL -0.59%, XRP +0.56% -- no signal, and negligible cash to deploy regardless. HELD KOD -- no trade. Mark-to-market: KOD 0.616197 sh @ $87.625 = $54.00, cash $0.107797, sleeve value ~$54.11."
+    "last_action": "2026-09-28T17:46Z (~1:46pm Mon ET): reconciled -- equity positions matched ledger exactly (KOD 0.616197 sh), no crypto positions (matches ledger), no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market OPEN (Mon regular session). Re-ran 'Quality momentum scan' (STOCK, mkt cap>2B, %chg 1W close>8%, avg vol 10d>500k): 3 matches -- KOD (%chg 1W +177.8%, rel volume 13.1x, mkt cap $2.06B), MAAS (%chg 1W +15.5%, rel volume 1.25x), AMC (%chg 1W +14.3%, rel volume 2.7x, mkt cap $2.37B). KOD remains the dominant leader by a wide margin and still qualifies -- no rotation warranted. Crypto check (open->mark, informational): BTC +0.74%, ETH +1.75%, SOL -0.02%, XRP +0.90% -- no signal, and negligible cash to deploy regardless. HELD KOD -- no trade. Mark-to-market: KOD 0.616197 sh @ $89.975 = $55.44, cash $0.107797, sleeve value ~$55.55."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
