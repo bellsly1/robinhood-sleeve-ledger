@@ -12,9 +12,9 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 58.12,
+    "previous_report_value": 55.21,
     "previous_report_date": "2026-09-28",
-    "last_action": "2026-09-28T19:46Z (~3:46pm Mon ET): reconciled -- equity positions matched ledger exactly (KOD 0.616197 sh), no crypto positions (matches ledger), no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market OPEN (Mon regular session). Re-ran 'Quality momentum scan' (STOCK, mkt cap>2B, %chg 1W close>8%, avg vol 10d>500k): 7 matches -- KOD (%chg 1W +191.3%, rel volume 15.9x, mkt cap $2.03B) remains the dominant leader by a wide margin, next best MAAS (%chg 1W +14.1%, rel volume 1.90x); others (LQDA, BB, ABCL, HHH, AMC) weaker still. No rotation warranted. Crypto check (mark vs open, informational): BTC +0.02%, ETH +0.84%, SOL -1.16%, XRP -0.22% -- no signal, and negligible cash to deploy regardless. HELD KOD -- no trade. Mark-to-market: KOD 0.616197 sh @ $94.1494 = $58.01, cash $0.107797, sleeve value ~$58.12."
+    "last_action": "2026-09-28T20:46Z (~4:46pm Mon ET): reconciled -- equity positions matched ledger exactly (KOD 0.616197 sh), no crypto positions (matches ledger), no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market CLOSED (past 4:00pm ET regular session) -- stock scanning/trading skipped per rules. Crypto check (mark vs open, informational): BTC +0.14%, ETH +1.06%, SOL -0.93%, XRP -0.08% -- no signal strong enough to warrant deploying into crypto, and cash is negligible ($0.11) regardless. HELD KOD -- no trade (can't trade equities after hours anyway). Mark-to-market: KOD 0.616197 sh @ $89.4299 (last non-reg trade) = $55.11, cash $0.107797, sleeve value ~$55.21."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
