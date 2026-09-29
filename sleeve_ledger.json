@@ -14,7 +14,7 @@
     ],
     "previous_report_value": 53.44,
     "previous_report_date": "2026-09-29",
-    "last_action": "2026-09-29T12:46Z (~8:46am Tue ET): reconciled -- equity positions matched ledger exactly (KOD 0.616197 sh), no crypto positions (matches ledger), no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market CLOSED (pre-market, before 9:30am ET) -- stock scanning/trading skipped per rules. Crypto check (mark vs open, informational): BTC +1.45%, ETH +2.68%, SOL +2.24%, XRP +4.08% -- all positive, XRP/ETH strongest, but cash is negligible ($0.11) so no meaningful rotation possible regardless. HELD KOD -- no trade. Mark-to-market: KOD 0.616197 sh @ $86.50 (last non-reg trade) = $53.33, cash $0.107797, sleeve value ~$53.44."
+    "last_action": "2026-09-29T13:46Z (~9:46am Tue ET): reconciled -- equity positions matched ledger exactly (KOD 0.616197 sh), no crypto positions (matches ledger), no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market OPEN (regular hours) -- ran 'Quality momentum scan' (mkt cap>2B, %Chg 1W close>8%, avg vol 10d>500k): 5 matches (CCL +11.3% 1W, KOD +163.8% 1W, IOVA +23.5% 1W, ABCL +14.1% 1W, AMC +10.0% 1W). KOD remains a scan constituent and by far the strongest 1W performer of the group -- still clearly qualifies, no candidate is meaningfully stronger, so no rotation. Crypto check (mark vs open, informational): BTC +1.39%, ETH +2.31%, SOL +2.79%, XRP +4.06% -- all positive but cash is negligible ($0.11), no meaningful rotation possible regardless. HELD KOD -- no trade. Mark-to-market: KOD 0.616197 sh @ $83.80 (live) = $51.64, cash $0.107797, sleeve value ~$51.75."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
