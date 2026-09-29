@@ -27,8 +27,8 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 69.28,
+    "previous_report_value": 69.46,
     "previous_report_date": "2026-09-29",
-    "last_action": "2026-09-29T18:17Z (~2:17pm Tue ET): reconciled -- equity positions matched ledger exactly (COO 1.227377 sh), no crypto positions (matches ledger), no discrepancy (account also holds KOD 0.616197 sh, belongs to sleeve_momentum, untouched). Market OPEN (regular hours) -- ran 'Sleeve B Oversold Quality Stocks 2' scan (mkt cap>2B, STOCK, avg vol 10d>500k, RSI<30 1d/14): 238 matches, but COO itself still doesn't qualify -- its RSI is ~35.1 (2026-09-28 close, confirmed via direct RSI lookup), still well below the ~55 take-profit/reversion threshold, so no exit signal yet. Majors-only crypto oversold scan (reused 'Sleeve B Crypto Oversold Majors Check 8', RSI<30 1d/14, symbols BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE) returned 0 matches -- no crypto signal active. HELD COO -- no trade (low-turnover: reversion not yet realized, no rotation warranted). Mark-to-market: COO 1.227377 sh @ $56.35 (live) = $69.16, cash $0.113673, sleeve value ~$69.28."
+    "last_action": "2026-09-29T19:17Z (~3:17pm Tue ET): reconciled -- equity positions matched ledger exactly (COO 1.227377 sh), no crypto positions (matches ledger), no discrepancy (account also holds KOD 0.616197 sh, belongs to sleeve_momentum, untouched). Market OPEN (regular hours) -- ran 'Sleeve B Oversold Quality Stocks 2' scan (mkt cap>2B, STOCK, avg vol 10d>500k, RSI<30 1d/14): 248 matches, but COO itself still doesn't qualify -- its RSI is ~35.1 (2026-09-28 close, confirmed via direct RSI lookup), still well below the ~55 take-profit/reversion threshold, so no exit signal yet. Majors-only crypto oversold scan (reused 'Sleeve B Crypto Oversold Majors Check 8', RSI<30 1d/14, symbols BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE) returned 0 matches -- no crypto signal active. HELD COO -- no trade (low-turnover: reversion not yet realized, no rotation warranted). Mark-to-market: COO 1.227377 sh @ $56.5001 (live) = $69.35, cash $0.113673, sleeve value ~$69.46."
   }
 }
