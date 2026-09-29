@@ -12,9 +12,9 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 53.44,
+    "previous_report_value": 55.74,
     "previous_report_date": "2026-09-29",
-    "last_action": "2026-09-29T17:45Z (~1:45pm Tue ET): reconciled -- equity positions matched ledger exactly (KOD 0.616197 sh), no crypto positions (matches ledger), no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market OPEN (regular hours) -- reran 'Quality momentum scan' (mkt cap>2B, %Chg 1W close>8%, avg vol 10d>500k): 7 matches (CCL +11.9% 1W, TTAN +8.1% 1W, KOD +178.3% 1W, IOVA +35.8% 1W, HAFN +8.4% 1W, ABCL +15.2% 1W, ADRX +8.0% 1W). KOD remains a scan constituent and by far the strongest 1W performer of the group (next best IOVA +35.8%) -- still clearly qualifies, no candidate is meaningfully stronger, so no rotation. Crypto check (mark vs open, informational): BTC +0.12%, ETH +0.41%, SOL +0.04%, XRP -0.42% -- flat, and cash is negligible ($0.11) so no meaningful rotation possible regardless. HELD KOD -- no trade. Mark-to-market: KOD 0.616197 sh @ $89.958 (live) = $55.43, cash $0.107797, sleeve value ~$55.54."
+    "last_action": "2026-09-29T18:46Z (~2:46pm Tue ET): reconciled -- equity positions matched ledger exactly (KOD 0.616197 sh), no crypto positions (matches ledger), no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market OPEN (regular hours) -- reran 'Quality momentum scan' (mkt cap>2B, %Chg 1W close>8%, avg vol 10d>500k): 7 matches (CCL +13.2% 1W, KOD +179.1% 1W, IOVA +33.8% 1W, HAFN +8.2% 1W, ABCL +16.1% 1W, WING +9.0% 1W, MBX +8.1% 1W). KOD remains a scan constituent and by far the strongest 1W performer of the group (next best IOVA +33.8%) -- still clearly qualifies, no candidate is meaningfully stronger, so no rotation. Crypto check (mark vs open, informational): BTC +0.71%, ETH +1.17%, SOL +1.17%, XRP +0.79% -- mild broad gains, and cash is negligible ($0.11) so no meaningful rotation possible regardless. HELD KOD -- no trade. Mark-to-market: KOD 0.616197 sh @ $90.285 (live) = $55.63, cash $0.107797, sleeve value ~$55.74."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
