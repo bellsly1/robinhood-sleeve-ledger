@@ -12,9 +12,9 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 61.00,
+    "previous_report_value": 61.35,
     "previous_report_date": "2026-10-01",
-    "last_action": "2026-10-01T16:45Z (~12:45pm Thu ET): reconciled -- equity positions matched ledger exactly (KOD 0.616197 sh), no crypto positions (matches ledger), no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market OPEN (regular hours). KOD last trade $98.86 vs prior close $94.80 (+4.3% today), well above avg cost $76.63 (+29.0%) -- momentum still intact, no reason to rotate even if cash allowed it. Cash is $0.107797, below any workable order size after the $0.10 safety buffer ($0.007797 left) -- no stock or crypto trade possible regardless of scan/signal. Crypto check (mark vs open, informational): BTC +0.80%, ETH -0.35%, SOL -1.02%, XRP -1.03% -- mixed/flat, no signal, moot given cash. HELD KOD -- no trade. Mark-to-market: KOD 0.616197 sh @ $98.86 = $60.92, cash $0.107797, sleeve value ~$61.03."
+    "last_action": "2026-10-01T18:46Z (~2:46pm Thu ET): reconciled -- equity positions matched ledger exactly (KOD 0.616197 sh), no crypto positions (matches ledger), no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market OPEN (regular hours). Ran 'Quality momentum scan' (STOCK, mkt cap>$2B, %chg 1W close>8%, avg vol(10)>500k): 43 matches; KOD itself is in the list with %Change(1W)=+207% -- by far the strongest candidate in the scan, so no rotation case even ignoring cash. KOD last trade $99.385 vs prior close $94.80 (+4.8% today), well above avg cost $76.63 (+29.6%) -- momentum intact. Cash is $0.107797, below any workable order size after the $0.10 safety buffer ($0.007797 left) -- no stock or crypto trade possible regardless of signal. Crypto check (mark vs open, informational): BTC +1.47%, ETH +0.41%, SOL +0.01%, XRP +0.30% -- mild positive, no strong signal, moot given cash. HELD KOD -- no trade. Mark-to-market: KOD 0.616197 sh @ $99.385 = $61.24, cash $0.107797, sleeve value ~$61.35."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
