@@ -12,9 +12,9 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 61.21,
+    "previous_report_value": 61.60,
     "previous_report_date": "2026-10-02",
-    "last_action": "2026-10-02T09:46Z (5:46am Fri ET): reconciled -- equity positions matched ledger exactly (KOD 0.616197 sh), no crypto positions (matches ledger), no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market CLOSED (pre-market, before 9:30am ET open) -- skipped stock scanning/trading per protocol; noting current equity holding only. KOD last non-reg trade $99.10 (regular-session close $98.40, prior close $98.46), avg cost $76.63 (+29.3%) -- momentum intact, no action needed regardless. Crypto check (mark vs open, informational): BTC +1.01%, ETH +1.03%, SOL +0.48%, XRP +1.87% -- broad-based uptick, not an actionable rotation signal, and sleeve has no cash to deploy regardless. Cash is $0.107797, below any workable order size after the $0.10 safety buffer -- no trade possible regardless of signal. HELD KOD -- no trade. Mark-to-market: KOD 0.616197 sh @ $99.10 = $61.08, cash $0.107797, sleeve value ~$61.19."
+    "last_action": "2026-10-02T12:46Z (8:46am Fri ET): reconciled -- equity positions matched ledger exactly (KOD 0.616197 sh), no crypto positions (matches ledger), no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market CLOSED (pre-market, before 9:30am ET open) -- skipped stock scanning/trading per protocol; noting current equity holding only. KOD last non-reg (premarket) trade $99.79 (regular-session close $98.40, prior close $98.46), avg cost $76.63 (+30.2%) -- momentum intact, no action needed regardless. Crypto check (mark vs open, informational): BTC +1.41%, ETH +1.11%, SOL +0.84%, XRP +2.31% -- broad-based uptick, not an actionable rotation signal, and sleeve has no cash to deploy regardless. Cash is $0.107797, below any workable order size after the $0.10 safety buffer -- no trade possible regardless of signal. HELD KOD -- no trade. Mark-to-market: KOD 0.616197 sh @ $99.79 = $61.49, cash $0.107797, sleeve value ~$61.60."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
