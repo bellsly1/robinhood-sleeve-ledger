@@ -12,9 +12,9 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 55.43,
+    "previous_report_value": 57.76,
     "previous_report_date": "2026-10-02",
-    "last_action": "2026-10-02T22:45Z (6:45pm Fri ET): reconciled -- equity positions matched ledger exactly (KOD 0.616197 sh), no crypto positions (matches ledger), no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market CLOSED (regular hours ended 4:00pm ET) -- stock scanning skipped per rules; noting current holding only. KOD last non-reg trade $93.5635 (as of 5:38pm ET; prior close $98.46, -4.96%), avg cost $76.63. Crypto check (mark vs open, informational): BTC -1.14%, ETH -1.95%, SOL -2.26%, XRP -1.94% -- all negative, non-actionable. Cash $0.107797, below any workable order size after the $0.10 buffer -- no trade possible regardless. HELD KOD -- no trade. Mark-to-market: KOD 0.616197 sh @ $93.5635 = $57.65, cash $0.107797, sleeve value ~$57.76."
+    "last_action": "2026-10-03T02:46Z (10:46pm Fri ET): reconciled -- equity positions matched ledger exactly (KOD 0.616197 sh), no crypto positions (matches ledger), no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market CLOSED (regular hours ended 4:00pm ET) -- stock scanning skipped per rules; noting current holding only. KOD last non-reg trade $94.7653 (as of 7:51pm ET; prior close $98.46, -3.75%), avg cost $76.63. Crypto check (mark vs open, informational): BTC -0.96%, ETH -1.39%, SOL -1.77%, XRP -1.40% -- all negative, non-actionable. Cash $0.107797, below any workable order size after the $0.10 buffer -- no trade possible regardless. HELD KOD -- no trade. Mark-to-market: KOD 0.616197 sh @ $94.7653 = $58.39, cash $0.107797, sleeve value ~$58.50."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
