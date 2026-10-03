@@ -14,7 +14,7 @@
     ],
     "previous_report_value": 58.50,
     "previous_report_date": "2026-10-03",
-    "last_action": "2026-10-03T15:46Z (11:46am Sat ET): reconciled -- equity positions matched ledger exactly (KOD 0.616197 sh), no crypto positions (matches ledger), no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market CLOSED (Saturday, outside regular hours) -- stock scanning skipped per rules; noting current holding only. Crypto check (mark vs open, informational): BTC +0.17%, ETH -0.03%, SOL +0.25%, XRP +0.21% -- all flat/noise, non-actionable (no rotation signal). Cash $0.107797, below any workable order size after the $0.10 buffer -- no trade possible regardless. HELD KOD -- no trade. Mark-to-market: KOD 0.616197 sh @ ~$94.77 (last traded) = ~$58.40, cash $0.107797, sleeve value ~$58.50."
+    "last_action": "2026-10-03T16:46Z (12:46pm Sat ET): reconciled -- equity positions matched ledger exactly (KOD 0.616197 sh), no crypto positions (matches ledger), no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market CLOSED (Saturday, outside regular hours) -- stock scanning skipped per rules; noting current holding only. Crypto check (mark vs open, informational): BTC +0.17%, ETH -0.02%, SOL +0.38%, XRP +0.02% -- all flat/noise, non-actionable (no rotation signal). Cash $0.107797, below any workable order size after the $0.10 buffer -- no trade possible regardless. HELD KOD -- no trade. Mark-to-market: KOD 0.616197 sh @ $94.7653 (last non-reg trade) = $58.39, cash $0.107797, sleeve value ~$58.50."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
