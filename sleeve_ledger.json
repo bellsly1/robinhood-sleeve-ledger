@@ -14,7 +14,7 @@
     ],
     "previous_report_value": 48.92,
     "previous_report_date": "2026-10-05",
-    "last_action": "2026-10-05T20:45Z (4:45pm ET Mon): reconciled -- equity positions matched ledger exactly (PCVX 0.674017 sh), no crypto positions (matches ledger), no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market CLOSED (regular hours ended 4:00pm ET) -- skipped stock scan/trading per rules; noted current equity holding only. Crypto check (mark vs today's open): BTC -0.30%, ETH -0.05%, SOL +0.10%, XRP -0.40% -- all roughly flat, no clear momentum signal. HELD PCVX -- no trade. Mark-to-market: PCVX 0.674017 sh @ $71.00 (post-market last) = $47.85, cash $0.10816725, sleeve value ~$47.96."
+    "last_action": "2026-10-05T21:46Z (5:46pm ET Mon): reconciled -- equity positions matched ledger exactly (PCVX 0.674017 sh), no crypto positions (matches ledger), no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market CLOSED (regular hours ended 4:00pm ET) -- skipped stock scan/trading per rules; noted current equity holding only. Crypto check (mark vs today's open): BTC -0.20%, ETH -0.01%, SOL +0.21%, XRP -0.36% -- all roughly flat, no clear momentum signal. HELD PCVX -- no trade. Mark-to-market: PCVX 0.674017 sh @ $71.24 (post-market last) = $48.02, cash $0.10816725, sleeve value ~$48.12."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
