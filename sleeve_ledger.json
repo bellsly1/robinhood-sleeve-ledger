@@ -12,9 +12,9 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 42.57,
+    "previous_report_value": 42.69,
     "previous_report_date": "2026-10-06",
-    "last_action": "2026-10-06T22:46Z (6:46pm ET Tue): reconciled -- equity positions matched ledger exactly (CEG 0.143526 sh), no crypto positions, no discrepancy (account also held COO 1.227377 sh, belongs to sleeve_quant, untouched). Market CLOSED (regular hours ended 4:00pm ET) -- skipped stock scan/trading per rule; noted current equity holding only (CEG, extended-hours trade $296.04, +10.6% vs prior close $267.62). Crypto check (mark vs today's open): BTC +0.10%, ETH -0.07%, SOL +0.91%, XRP +0.12% -- mild, mixed-sign, no outlier; cash (~$0.08) negligible regardless; no crypto trade. HELD CEG -- no trade. Mark-to-market: CEG 0.143526 sh @ $296.04 = $42.49, cash $0.08204324, sleeve value ~$42.57."
+    "last_action": "2026-10-06T23:46Z (7:46pm ET Tue): reconciled -- equity positions matched ledger exactly (CEG 0.143526 sh), no crypto positions, no discrepancy (account also held COO 1.227377 sh, belongs to sleeve_quant, untouched). Market CLOSED (regular hours ended 4:00pm ET) -- skipped stock scan/trading per rule; noted current equity holding only (CEG, extended-hours trade $296.85, +10.9% vs prior close $267.62). Crypto check (mark vs today's open): BTC +0.12%, ETH +0.04%, SOL +0.69%, XRP +0.01% -- mild, no outlier; cash (~$0.08) negligible regardless; no crypto trade. HELD CEG -- no trade. Mark-to-market: CEG 0.143526 sh @ $296.85 = $42.61, cash $0.08204324, sleeve value ~$42.69."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
