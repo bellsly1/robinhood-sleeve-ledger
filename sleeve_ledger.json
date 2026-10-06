@@ -4,17 +4,17 @@
   "sleeve_momentum": {
     "label": "Momentum (trend-following)",
     "starting_value": 64.51,
-    "cash": 0.10816725,
+    "cash": 0.08204324,
     "positions": [
       {
-        "symbol": "PCVX",
-        "quantity": 0.674017,
+        "symbol": "CEG",
+        "quantity": 0.143526,
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 49.09,
+    "previous_report_value": 44.88,
     "previous_report_date": "2026-10-06",
-    "last_action": "2026-10-06T13:50Z (9:50am ET Tue): reconciled -- equity positions matched ledger exactly (PCVX 0.674017 sh), no crypto positions (matches ledger), no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market OPEN (regular hours) -- ran stock momentum scan (STOCK, %Chg 1W close>8%, mkt cap>$2B, avg vol 10d>500k): 58 matches. Only one candidate had relative volume >1.0 (preferred threshold): OPCH (rel vol 6.6x, 1W +37%, today +32.9% to $31.06) -- but web research showed this is an announced $32.05/sh cash buyout (McKesson/CD&R, ~$5.8B deal, announced 10/5), i.e. capped merger-arb, not genuine price momentum -- excluded as not a valid rotation candidate (deal risk vs ~3% capped upside is a different risk profile than this sleeve trades). All other candidates had relative volume <1.0 (next-best CEG 0.84, MRVL 0.80) -- no clearly-stronger alternative to current holding. PCVX itself down -10% today (to $66.42) on a $1B dilutive secondary offering (dual stock + convertible notes) announced after Monday's close, not a trend-reversal signal; still +17.6% on the week, still passes scan filters, analyst targets ($89-$125) remain well above current price. Crypto check (mark vs today's open): BTC +1.01%, ETH +0.73%, SOL +0.86%, XRP +1.07% -- mild, uniform, no outlier; cash ($0.11) negligible regardless. HELD PCVX -- no trade. Mark-to-market: PCVX 0.674017 sh @ $66.42 = $44.77, cash $0.10816725, sleeve value ~$44.88."
+    "last_action": "2026-10-06T14:48Z (10:48am ET Tue): reconciled -- equity positions matched ledger exactly (PCVX 0.674017 sh) before trading, no crypto positions, no discrepancy (account also held COO 1.227377 sh, belongs to sleeve_quant, untouched). Market OPEN (regular hours) -- ran stock momentum scan (STOCK, %Chg 1W close>8%, mkt cap>$2B, avg vol 10d>500k): 53 matches. PCVX continued its decline from this morning's -10% to -12.6% today (2nd straight double-digit drop, ~-24% cumulative since Friday's close, now $64.47-64.65) on continued pressure from Sunday's $1B dilutive secondary -- still technically passed the 1W filter (+14.2%) but relative volume was weak (0.18), i.e. the decline lacked volume confirmation and the trend had clearly reversed over two sessions, not just one noisy day. Candidates with relative volume >1.0: CEG (1.57x, 1W +17.6%, today +13.1% to $302.83, mkt cap $92B), NTSK (1.12x), XNDU (1.10x), FRSH (1.45x), ASTS (1.05x). CEG was clearly strongest -- highest relative volume, strong 1W and daily momentum both confirmed by volume, much larger/more liquid than PCVX -- judged a genuine momentum breakout (AI/power-demand driven), not noise. ROTATED: sold PCVX 0.674017 sh @ avg $64.47 = $43.45; bought CEG $43.48 notional @ avg $302.94 = 0.143526 sh. Crypto check (mark vs today's open): BTC +0.90%, ETH +0.56%, SOL +1.20%, XRP +1.16% -- mild, uniform, no outlier; cash (~$0.08) negligible regardless; no crypto trade. New position: CEG 0.143526 sh. Mark-to-market: CEG 0.143526 sh @ $302.94 = $43.48, cash $0.08204324, sleeve value ~$43.56."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
