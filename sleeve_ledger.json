@@ -27,8 +27,8 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 71.45,
+    "previous_report_value": 69.67,
     "previous_report_date": "2026-10-07",
-    "last_action": "2026-10-07T02:17Z (10:17pm ET Tue): reconciled -- equity positions matched ledger exactly (COO 1.227377 sh), no crypto positions (matches ledger), no discrepancy (account also holds CEG 0.143526 sh, belongs to sleeve_momentum, untouched). Market CLOSED (regular hours ended 4:00pm ET) -- skipped stock scan/trading per rule. COO RSI(14,1d)=37.20 (as of 10/6 close), still not reverted (~55 threshold), so held rather than rotating (low-turnover rule). COO last trade $56.42 regular / $58.12 extended hours (prior close $56.43). Majors-only crypto oversold scan (RSI<30 1d/14, symbols BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE) returned 0 matches -- no crypto signal active. HELD COO -- no trade. Mark-to-market: COO 1.227377 sh @ $58.12 (most recent trade, extended hours) = $71.34, cash $0.113673, sleeve value ~$71.45."
+    "last_action": "2026-10-07T06:17Z (2:17am ET Wed): reconciled -- equity positions matched ledger exactly (COO 1.227377 sh), no crypto positions (matches ledger), no discrepancy (account also holds CEG 0.143526 sh, belongs to sleeve_momentum, untouched). Market CLOSED (regular hours 9:30am-4:00pm ET) -- skipped stock scan/trading per rule. COO RSI(14,1d)=37.21 (as of 10/6 close), still not reverted (~55 threshold), so held rather than rotating (low-turnover rule). COO last trade $56.42 regular / $56.67 overnight (prior close $56.43). Majors-only crypto oversold scan (RSI<30 1d/14, symbols BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE) returned 0 matches -- no crypto signal active. HELD COO -- no trade. Mark-to-market: COO 1.227377 sh @ $56.67 (most recent trade, overnight session) = $69.55, cash $0.113673, sleeve value ~$69.67."
   }
 }
