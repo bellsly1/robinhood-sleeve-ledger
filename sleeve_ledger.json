@@ -27,8 +27,8 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 67.13,
+    "previous_report_value": 66.29,
     "previous_report_date": "2026-10-08",
-    "last_action": "2026-10-08T14:18Z (10:18am ET Thu): reconciled -- equity positions matched ledger exactly (COO 1.227377 sh), no crypto positions (matches ledger), no discrepancy (account also holds CEG 0.143526 sh, belongs to sleeve_momentum, untouched). Market OPEN (regular hours) -- ran oversold quality-stock scan (STOCK, mkt cap > $2B, avg vol(10d) > 500k, RSI(14,1d) < 30): 201 matches; COO itself has rotated OUT of the list (RSI ~31.7 as of 10/7 close, just above the <30 threshold) but is still well below the ~55 take-profit level, so reversion is not yet complete. Majors-only crypto oversold scan (RSI<30 1d/14, symbols BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE) returned 0 matches -- no crypto signal active. HELD COO -- no trade (reversion not complete; low-turnover rule, no action without an actual signal change). Mark-to-market: COO 1.227377 sh @ $54.47 = $66.85, cash $0.113673, sleeve value ~$66.96."
+    "last_action": "2026-10-08T16:17Z (12:17pm ET Thu): reconciled -- equity positions matched ledger exactly (COO 1.227377 sh), no crypto positions (matches ledger), no discrepancy (account also holds CEG 0.143526 sh, belongs to sleeve_momentum, untouched). Market OPEN (regular hours) -- ran oversold quality-stock scan (STOCK, mkt cap > $2B, avg vol(10d) > 500k, RSI(14,1d) < 30): 185 matches; COO still not in list (RSI ~31.69 as of 10/7 close, just above the <30 threshold) but still well below the ~55 take-profit level, so reversion is not yet complete. Majors-only crypto oversold scan (RSI<30 1d/14, symbols BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE) returned 0 matches -- no crypto signal active. HELD COO -- no trade (reversion not complete; low-turnover rule, no action without an actual signal change). Mark-to-market: COO 1.227377 sh @ $53.92 = $66.17, cash $0.113673, sleeve value ~$66.29."
   }
 }
