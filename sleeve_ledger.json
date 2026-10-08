@@ -14,7 +14,7 @@
     ],
     "previous_report_value": 41.68,
     "previous_report_date": "2026-10-07",
-    "last_action": "2026-10-08T00:46Z (8:46pm ET Wed): reconciled -- equity positions matched ledger exactly (CEG 0.143526 sh), no crypto positions, no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market CLOSED (after regular hours) -- skipped stock scanning per rules; noted current equity holding only (CEG last non-reg $299.07, down from prior close $299.59). Crypto check (mark vs today's open): BTC -1.08%, ETH -1.52%, SOL -1.79%, XRP -3.11% -- all negative, no bullish signal. Cash ($0.082) also far below any viable order size. HELD CEG -- no trade. Mark-to-market: CEG 0.143526 sh @ $299.07 = $42.92, cash $0.08204324, sleeve value ~$43.01."
+    "last_action": "2026-10-08T02:46Z (10:46pm ET Wed): reconciled -- equity positions matched ledger exactly (CEG 0.143526 sh), no crypto positions, no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market CLOSED (after regular hours) -- skipped stock scanning per rules; noted current equity holding only (CEG last non-reg $299.73, down slightly from prior close $299.59). Crypto check (mark vs prior close): BTC -1.07%, ETH -1.05%, SOL -1.34%, XRP -2.61% -- all negative, no bullish signal. Cash ($0.082) also far below any viable order size. HELD CEG -- no trade. Mark-to-market: CEG 0.143526 sh @ $299.73 = $43.02, cash $0.08204324, sleeve value ~$43.10."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
