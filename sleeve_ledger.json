@@ -4,17 +4,17 @@
   "sleeve_momentum": {
     "label": "Momentum (trend-following)",
     "starting_value": 64.51,
-    "cash": 0.08204324,
+    "cash": 0.10353523,
     "positions": [
       {
-        "symbol": "CEG",
-        "quantity": 0.143526,
+        "symbol": "MPC",
+        "quantity": 0.087653,
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 43.17,
+    "previous_report_value": 40.75,
     "previous_report_date": "2026-10-08",
-    "last_action": "2026-10-08T18:46Z (2:46pm ET Thu): reconciled -- equity positions matched ledger exactly (CEG 0.143526 sh), no crypto positions, no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market OPEN (regular hours) -- re-ran 'Quality momentum scan' (STOCK, %chg 1W close > 8%, mkt cap > $2B, avg vol(10d) > 500k): 71 matches. CEG still qualifies (1W chg +10.04%, mkt cap $106.1B, avg vol(10d) 4.44M, rel vol 0.60), last $283.35 (-5.42% today vs prior close $299.59 -- continued sharp intraday drop). No candidate in the match set is clearly stronger: largest-cap alternatives (PBR mkt cap $149.0B 1W +14.3% rel vol 0.76; ITUB mkt cap $113.1B 1W +14.7% rel vol 0.71) have lower relative volume than CEG and are foreign ADRs with different risk profile -- not clearly stronger, held to avoid churning. Crypto check (mark vs today's open): BTC -1.56%, ETH -4.59%, SOL -6.78%, XRP -3.93% -- all negative, no bullish signal, sleeve holds no crypto. Cash ($0.082) also far below any viable order size regardless. HELD CEG -- no trade. Mark-to-market: CEG 0.143526 sh @ $283.35 = $40.67, cash $0.08204324, sleeve value ~$40.75."
+    "last_action": "2026-10-08T19:47Z (3:47pm ET Thu): reconciled -- equity positions matched ledger exactly (CEG 0.143526 sh), no crypto positions, no discrepancy (account also held COO 1.227377 sh, belongs to sleeve_quant, untouched). Market OPEN (regular hours, 3:47pm ET) -- re-ran 'Quality momentum scan' (STOCK, %chg 1W close > 8%, mkt cap > $2B, avg vol(10d) > 500k): 76 matches. CEG's rel vol had dropped to 0.68 (from 0.60 prior check, still weak) while continuing a second straight day of sharp intraday selling (-5.22% today, after -5.42% yesterday) despite 1W chg still positive (+10.27%, a lagging artifact of an earlier spike). Found clearly stronger US candidates with rel vol now >1.0 (confirming active demand, unlike CEG): MPC (mkt cap $124.2B, 1W +10.12%, rel vol 1.10, today +5.16%) and VLO (mkt cap $122.1B, 1W +9.40%, rel vol 1.12, today +4.81%); foreign ADRs (PBR.A $149.0B 1W+13.2% relvol 1.06, ITUB) again excluded per established policy (different risk profile). Rotated into MPC (larger mkt cap, higher 1W momentum, strong today vs CEG's breakdown) -- not marginal churn, a real regime change in relative strength and volume confirmation. Crypto check (mark vs today's open): BTC -1.25%, ETH -4.01%, SOL -5.78%, XRP -3.09% -- all negative, no bullish signal, sleeve holds no crypto. TRADED: sold CEG 0.143526 sh @ avg $284.1401 = $40.7815 proceeds; bought MPC $40.76 notional (0.087653 sh @ avg $465.0114). Resulting cash $0.10353523, position MPC 0.087653 sh. Mark-to-market: MPC 0.087653 sh @ $465.0114 = $40.76, cash $0.10353523, sleeve value ~$40.86."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
