@@ -12,9 +12,9 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 40.75,
+    "previous_report_value": 40.57,
     "previous_report_date": "2026-10-09",
-    "last_action": "2026-10-09T04:46Z (12:46am ET Fri): reconciled -- equity positions matched ledger exactly (MPC 0.087653 sh), no crypto positions, no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market CLOSED (regular hours 9:30am-4:00pm ET; checked at 12:46am ET) -- skipped stock scanning/trading per policy; held existing MPC position as-is. Crypto check (mark vs today's open): BTC -0.09%, ETH -0.20%, SOL -0.42%, XRP -0.23% -- all negative, no bullish signal, sleeve holds no crypto. HELD MPC -- no trade (market closed, no crypto signal). Mark-to-market: MPC 0.087653 sh @ $460.51 (last non-reg trade) = $40.37, cash $0.10353523, sleeve value ~$40.47."
+    "last_action": "2026-10-09T05:47Z (01:47am ET Fri): reconciled -- equity positions matched ledger exactly (MPC 0.087653 sh), no crypto positions, no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market CLOSED (regular hours 9:30am-4:00pm ET; checked at 01:47am ET) -- skipped stock scanning/trading per policy; held existing MPC position as-is. Crypto check (mark vs today's open): BTC +0.08%, ETH +0.08%, SOL +0.11%, XRP +0.20% -- all barely positive, too marginal/noisy to count as a bullish signal, sleeve holds no crypto. HELD MPC -- no trade (market closed, no clear crypto signal). Mark-to-market: MPC 0.087653 sh @ $461.66 (last non-reg trade) = $40.47, cash $0.10353523, sleeve value ~$40.57."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
