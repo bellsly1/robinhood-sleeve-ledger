@@ -4,17 +4,17 @@
   "sleeve_momentum": {
     "label": "Momentum (trend-following)",
     "starting_value": 64.51,
-    "cash": 0.10426693,
+    "cash": 0.10806936,
     "positions": [
       {
-        "symbol": "LI",
-        "quantity": 3.522855,
+        "symbol": "MNSO",
+        "quantity": 4.174760,
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 41.0,
+    "previous_report_value": 40.85,
     "previous_report_date": "2026-10-09",
-    "last_action": "2026-10-09T17:47Z (1:47pm ET Fri): reconciled -- equity positions matched ledger exactly (LI 3.522855 sh), no crypto positions, no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market OPEN (regular hours) -- re-ran 'Quality momentum scan' (STOCK, %Change 1W close >0.08, market cap >$2B, avg vol 10d >500k): 114 matches. LI still qualified (1W chg +8.1%) and remained the single strongest signal with the HIGHEST relative volume in the whole scan (1.93x, vs next-best MNSO 1.77x, CCI 1.76x, FSLY 1.71x, CLOV 1.46x, BEKE 1.27x) -- no clearly stronger alternative, so held, no rotation. Crypto check (mark vs today's open): BTC +0.31%, ETH -0.33%, SOL -0.73%, XRP -0.61% -- no breakout signal, no action. NO TRADE. Mark-to-market: LI 3.522855 sh @ $11.565 = $40.74, cash $0.10426693, sleeve value ~$40.85."
+    "last_action": "2026-10-09T18:47Z (2:47pm ET Fri): reconciled -- equity positions matched ledger exactly (LI 3.522855 sh), no crypto positions, no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market OPEN (regular hours) -- re-ran 'Quality momentum scan' (STOCK, %Change 1W close >0.08, market cap >$2B, avg vol 10d >500k): 112 matches, LI NO LONGER among them (fundamentals show LI mkt cap $12.6B and avg vol ~2.9M both comfortably above thresholds, so its 1W %chg must have dropped below the +8% cutoff) -- LI no longer qualifies, so ROTATED. Top qualifiers by relative volume: MNSO 2.06x (1W +10.0%, mktcap $2.65B), FSLY 2.03x (1W +16.0%), CCI 1.97x (1W +16.8%). Selected MNSO as strongest signal by relative volume (consistent with prior selection methodology) and sufficiently above the momentum threshold. SOLD LI 3.522855 sh @ avg $11.5315 = $40.624 proceeds. BOUGHT MNSO $40.62 notional @ avg $9.7299 = 4.174760 sh. Crypto check (mark vs today's open): BTC +0.01%, ETH -0.46%, SOL -1.02%, XRP -0.71% -- no breakout signal, no action. Mark-to-market: MNSO 4.174760 sh @ $9.73 = $40.62, cash $0.10806936, sleeve value ~$40.73."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
