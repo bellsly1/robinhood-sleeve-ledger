@@ -12,9 +12,9 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 40.47,
+    "previous_report_value": 40.88,
     "previous_report_date": "2026-10-09",
-    "last_action": "2026-10-09T11:46Z (07:46am ET Fri): reconciled -- equity positions matched ledger exactly (MPC 0.087653 sh), no crypto positions, no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market CLOSED (regular hours 9:30am-4:00pm ET; checked at 07:46am ET) -- skipped stock scanning/trading per policy; held existing MPC position as-is. Crypto check (mark vs today's open): BTC +1.27%, ETH +0.86%, SOL +1.21%, XRP +0.63% -- broadly positive but not a clear standout breakout, and sleeve has no spendable cash to rotate ($0.10) nor can MPC be sold pre-market; held per anti-churn policy. HELD MPC -- no trade (market closed, no actionable crypto signal). Mark-to-market: MPC 0.087653 sh @ $459.17 (last non-reg trade) = $40.25, cash $0.10353523, sleeve value ~$40.35."
+    "last_action": "2026-10-09T13:47Z (09:47am ET Fri): reconciled -- equity positions matched ledger exactly (MPC 0.087653 sh), no crypto positions, no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market OPEN (regular hours) -- ran stock momentum scan 'Quality momentum scan' (STOCK, %Change 1W close >0.08, market cap >$2B, avg vol 10d >500k): 111 matches. MPC itself still qualifies (1W chg +10.1%, cap $116B, avg vol 2.08M >> threshold). Top % movers (XP +45%, OPCH +37%, INTR +35%, PTC +35%) had weaker relative volume today (~0.03-0.06) than or similar to MPC (~0.065) -- all relative-volume readings were suppressed market-wide this early (~17min into session, partial-day volume vs full-day avg), so no clean confirmed breakout stood out as clearly stronger; treated large 1W% gaps as likely already-priced-in/noisy rather than fresh momentum. Crypto check (mark vs today's open): BTC +0.16%, ETH -0.37%, SOL -0.85%, XRP -1.29% -- no positive breakout signal. HELD MPC -- no trade (still qualifies, no clearly stronger candidate, anti-churn). Mark-to-market: MPC 0.087653 sh @ $465.2013 = $40.78, cash $0.10353523, sleeve value ~$40.88."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
