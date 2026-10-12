@@ -14,7 +14,7 @@
     ],
     "previous_report_value": 41.06,
     "previous_report_date": "2026-10-12",
-    "last_action": "2026-10-12T08:46Z (4:46am ET Mon): reconciled -- equity positions matched ledger exactly (MNSO 4.174760 sh), no crypto positions, no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market CLOSED (pre-market, opens 9:30am ET) -- skipped stock scanning/trading per rules; MNSO remains the held equity position, most recent (non-reg) trade $9.81 (regular-session close Fri 2026-10-09 was $9.60). Crypto check (mark vs prior-day/session open): BTC +0.04%, ETH +0.34%, SOL +0.15%, XRP +0.13% -- negligible moves, no clear breakout, cash balance ($0.11) also far too small to fund any crypto entry regardless. HELD MNSO, no crypto entry -- no trade. Mark-to-market: MNSO 4.174760 sh @ $9.81 = $40.9544, cash $0.10806936, sleeve value ~$41.06."
+    "last_action": "2026-10-12T10:46Z (6:46am ET Mon): reconciled -- equity positions matched ledger exactly (MNSO 4.174760 sh), no crypto positions, no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market CLOSED (pre-market, opens 9:30am ET) -- skipped stock scanning/trading per rules; MNSO remains the held equity position, most recent (non-reg) trade $9.75 (regular-session close Fri 2026-10-09 was $9.60). Crypto check (mark vs session open): BTC -0.04%, ETH +0.51%, SOL +0.15%, XRP +0.09% -- negligible moves, no clear breakout, cash balance ($0.11) also far too small to fund any crypto entry regardless. HELD MNSO, no crypto entry -- no trade. Mark-to-market: MNSO 4.174760 sh @ $9.75 = $40.7039, cash $0.10806936, sleeve value ~$40.81."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
