@@ -4,17 +4,17 @@
   "sleeve_momentum": {
     "label": "Momentum (trend-following)",
     "starting_value": 64.51,
-    "cash": 0.10806936,
+    "cash": 0.10540634,
     "positions": [
       {
-        "symbol": "MNSO",
-        "quantity": 4.174760,
+        "symbol": "CCC",
+        "quantity": 5.286561,
         "asset_class": "equity"
       }
     ],
     "previous_report_value": 41.06,
     "previous_report_date": "2026-10-12",
-    "last_action": "2026-10-12T12:49Z (8:49am ET Mon): reconciled -- equity positions matched ledger exactly (MNSO 4.174760 sh), no crypto positions, no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market CLOSED (pre-market, opens 9:30am ET) -- skipped stock scanning/trading per rules; MNSO remains the held equity position, most recent (non-reg) trade $9.75 (regular-session close Fri 2026-10-09 was $9.60). Crypto check (mark vs session open): BTC -0.74%, ETH -0.32%, SOL -0.98%, XRP -0.91% -- all negative, no breakout signal, cash balance ($0.11) also far too small to fund any crypto entry regardless. HELD MNSO, no crypto entry -- no trade. Mark-to-market: MNSO 4.174760 sh @ $9.75 = $40.7039, cash $0.10806936, sleeve value ~$40.81."
+    "last_action": "2026-10-12T14:49Z (10:49am ET Mon): reconciled -- equity positions matched ledger exactly (MNSO 4.174760 sh) before trading, no crypto positions, no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market OPEN (regular session). Momentum scan (STOCK, %Change(1W,close)>8%, mkt cap>$2B, avg vol(10d)>500k) via preview_scan: MNSO checked directly no longer qualifies (%chg 1W close only 1.15%, relvol 0.16 -- momentum clearly faded from the breakout that triggered the original entry); scan returned exactly one qualifying candidate, CCC Intelligent Solutions (%chg 1W close 9.47%, mkt cap $4.13B, avg vol(10d) 9.9M, relvol 0.43). ROTATED: sold MNSO 4.174760 sh @ avg $9.7101 (proceeds $40.5373, filled), bought CCC $40.54 notional @ avg $7.6685 -> 5.286561 sh (filled). Crypto check (mark vs session open): BTC -1.19%, ETH -1.01%, SOL -2.64%, XRP -2.20% -- all negative, no entry signal, moot anyway (cash is now $0.105, far too small). Mark-to-market: CCC 5.286561 sh @ $7.665 = $40.5007, cash $0.10540634, sleeve value ~$40.61."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
