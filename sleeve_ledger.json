@@ -4,17 +4,17 @@
   "sleeve_momentum": {
     "label": "Momentum (trend-following)",
     "starting_value": 64.51,
-    "cash": 0.10540634,
+    "cash": 0.10532031,
     "positions": [
       {
-        "symbol": "CCC",
-        "quantity": 5.286561,
+        "symbol": "FIGS",
+        "quantity": 2.283486,
         "asset_class": "equity"
       }
     ],
     "previous_report_value": 41.06,
     "previous_report_date": "2026-10-12",
-    "last_action": "2026-10-12T17:47Z (1:47pm ET Mon): reconciled -- equity positions matched ledger exactly (CCC 5.286561 sh), no crypto positions, no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market OPEN (regular session). Momentum scan (Quality momentum scan, scan_id 0207fc3b-f94d-40ae-9bbb-957474b51e08: STOCK, %Change(1W,close)>8%, mkt cap>$2B, avg vol(10d)>500k) via run_scan: 2 matches -- CCC still qualifies (%chg 1W close 9.33%, mkt cap $4.13B, avg vol(10d) 9.9M, relvol 1.01) and FIGS also qualifies (%chg 1W close 11.03%, mkt cap $2.62B, avg vol(10d) 3.6M, relvol 1.41). FIGS edge widened slightly vs last check but still not a clear, decisive breakout over CCC (both comfortably above threshold) -- avoided churning on a marginal/noisy gap. Crypto check (mark vs session open): BTC -1.37%, ETH -1.59%, SOL -3.81%, XRP -3.22% -- all negative, no entry signal, moot anyway (cash $0.105 far too small). HELD CCC -- no trade. Mark-to-market: CCC 5.286561 sh @ $7.675 = $40.5744, cash $0.10540634, sleeve value ~$40.68."
+    "last_action": "2026-10-12T18:47Z (2:47pm ET Mon): reconciled -- equity positions matched ledger exactly (CCC 5.286561 sh) before trading, no crypto positions, no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market OPEN (regular session). Momentum scan (Quality momentum scan, scan_id 0207fc3b-f94d-40ae-9bbb-957474b51e08) via run_scan: 3 matches -- CCC %chg(1W close) 10.04%, mkt cap $4.13B, relvol 1.17 (held); FIGS %chg(1W close) 12.96%, mkt cap $2.62B, relvol 1.71; FICO %chg(1W close) 9.49%, mkt cap $14.4B, relvol 1.08. FIGS's edge over CCC has now widened for 2 consecutive checks (9.33%->10.04% for CCC vs 11.03%->12.96% for FIGS; relvol 1.01->1.17 vs 1.41->1.71) -- no longer marginal, so ROTATED CCC -> FIGS. Sold CCC 5.286561 sh @ avg $7.7101 (order 6acd2b36, filled) = $40.7599 proceeds; bought FIGS with $40.76 market dollar order (order 6acd2b47, filled) = 2.283486 sh @ avg $17.8499. Crypto check (mark vs session open): BTC -1.38%, ETH -1.33%, SOL -3.60%, XRP -3.21% -- all negative, no entry signal, moot anyway (cash ~$0.105 far too small). Mark-to-market: FIGS 2.283486 sh @ $17.845 = $40.7488, cash $0.10532031, sleeve value ~$40.85."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
