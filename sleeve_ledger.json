@@ -12,9 +12,9 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 41.06,
+    "previous_report_value": 41.0,
     "previous_report_date": "2026-10-12",
-    "last_action": "2026-10-12T21:46Z (5:46pm ET Mon): reconciled -- equity positions matched ledger exactly (FIGS 2.283486 sh), no crypto positions, no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market CLOSED (regular session ended 4:00pm ET; FIGS trading in extended hours) -- skipped stock scan per rule, holding FIGS, no stock trade possible/attempted. Crypto check (mark vs session open): BTC -1.34%, ETH -2.31%, SOL -4.38%, XRP -4.03% -- all negative, no entry signal, moot anyway (cash ~$0.105 far too small to fund any position). HELD FIGS -- no trade. Mark-to-market: FIGS 2.283486 sh @ $17.9562 (extended-hours last) = $41.0027, cash $0.10532031, sleeve value ~$41.11."
+    "last_action": "2026-10-12T23:46Z (7:46pm ET Mon): reconciled -- equity positions matched ledger exactly (FIGS 2.283486 sh), no crypto positions, no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market CLOSED (regular session ended 4:00pm ET; FIGS trading in extended hours) -- skipped stock scan per rule, holding FIGS, no stock trade possible/attempted. Crypto check (mark vs session open): BTC -2.12%, ETH -3.84%, SOL -5.39%, XRP -4.63% -- all negative, no entry signal, moot anyway (cash ~$0.105 far too small to fund any position). HELD FIGS -- no trade. Mark-to-market: FIGS 2.283486 sh @ $17.91 (extended-hours last) = $40.8972, cash $0.10532031, sleeve value ~$41.00."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
