@@ -27,8 +27,8 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 68.65,
+    "previous_report_value": 68.37,
     "previous_report_date": "2026-10-13",
-    "last_action": "2026-10-13T04:16Z (12:16am ET Tue): reconciled -- equity positions matched ledger exactly (COO 1.227377 sh), no crypto positions, no discrepancy (account also holds FIGS 2.283486 sh, belongs to sleeve_momentum, untouched). Market CLOSED (before pre-market open) -- skipped stock scan/trading per rule. COO RSI (14,1d, latest bar 2026-10-12) = 31.50, essentially unchanged from prior reads (~31.0-31.5) -- still oversold, reversion not yet realized (would need ~55), no signal change; moot anyway since market closed. Majors-only crypto oversold scan (RSI<30 1d/14, symbols BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE) via saved scan 298ef866-5441-4089-9efd-de8d5109826f: 0 matches, no crypto signal active. HELD COO -- no trade (patient, low-turnover; no actual signal change, and market closed for stocks anyway). Mark-to-market: COO 1.227377 sh @ $55.84 (last extended-hours trade) = $68.5367, cash $0.113673, sleeve value ~$68.65."
+    "last_action": "2026-10-13T06:16Z (2:16am ET Tue): reconciled -- equity positions matched ledger exactly (COO 1.227377 sh), no crypto positions, no discrepancy (account also holds FIGS 2.283486 sh, belongs to sleeve_momentum, untouched). Market CLOSED (pre-market not yet open) -- skipped stock scan/trading per rule. COO RSI (14,1d, latest bar 2026-10-12) = 31.00, essentially unchanged from prior reads (~31.0-31.5) -- still oversold, reversion not yet realized (would need ~55), no signal change; moot anyway since market closed. Majors-only crypto oversold scan (RSI<30 1d/14, symbols BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE) via saved scan 298ef866-5441-4089-9efd-de8d5109826f: 0 matches, no crypto signal active. HELD COO -- no trade (patient, low-turnover; no actual signal change, and market closed for stocks anyway). Mark-to-market: COO 1.227377 sh @ $55.61 (last extended-hours trade) = $68.2544, cash $0.113673, sleeve value ~$68.37."
   }
 }
