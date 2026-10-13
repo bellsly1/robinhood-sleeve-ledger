@@ -12,9 +12,9 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 41.10,
+    "previous_report_value": 40.48,
     "previous_report_date": "2026-10-13",
-    "last_action": "2026-10-13T22:46Z (6:46pm ET Tue): reconciled -- equity positions matched ledger exactly (EFXT 1.474575 sh), no crypto positions, no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market CLOSED (after 4pm ET) -- skipped stock scanning/trading per rules; noted current equity holding only. Crypto check (mark vs session open): BTC +0.26%, ETH +0.13%, SOL -0.56%, XRP +0.19% -- all negligible, no actionable signal, moot regardless (cash negligible, $0.106236). Held EFXT, no trade. Mark-to-market: EFXT 1.474575 sh @ $27.80 (last non-reg trade) = $40.99, cash $0.106236, sleeve value ~$41.10."
+    "last_action": "2026-10-13T23:45Z (7:45pm ET Tue): reconciled -- equity positions matched ledger exactly (EFXT 1.474575 sh), no crypto positions, no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market CLOSED (after 4pm ET) -- skipped stock scanning/trading per rules; noted current equity holding only. Crypto check (mark vs session open): BTC -0.06%, ETH -0.27%, SOL -0.56%, XRP -0.08% -- all negligible, no actionable signal, moot regardless (cash negligible, $0.106236). Held EFXT, no trade. Mark-to-market: EFXT 1.474575 sh @ $27.3736 (last non-reg trade) = $40.38, cash $0.106236, sleeve value ~$40.48."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
