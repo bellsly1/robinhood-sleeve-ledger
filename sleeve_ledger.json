@@ -4,17 +4,17 @@
   "sleeve_momentum": {
     "label": "Momentum (trend-following)",
     "starting_value": 64.51,
-    "cash": 0.10532031,
+    "cash": 0.106236,
     "positions": [
       {
-        "symbol": "FIGS",
-        "quantity": 2.283486,
+        "symbol": "EFXT",
+        "quantity": 1.474575,
         "asset_class": "equity"
       }
     ],
     "previous_report_value": 40.9,
     "previous_report_date": "2026-10-13",
-    "last_action": "2026-10-13T15:47Z (11:47am ET Tue): reconciled -- equity positions matched ledger exactly (FIGS 2.283486 sh), no crypto positions, no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market OPEN (regular hours). Ran momentum scan (Quality momentum scan: STOCK, %Chg 1W close >8%, mkt cap >$2B, avg vol(10d) >500k): 11 matches -- FIGS +13.2%/relvol 0.34 (TOP by 1W change), EFXT +12.6%/relvol 4.60, CCC +10.6%, FRMI +10.3%/relvol 3.51, PARR +9.0%, FICO +9.4%, CHA +9.4%, STGW +9.4%, DHT +8.6%, DK +8.6%, MANH +8.4%. FIGS now ranks #1 by 1W change among all qualifiers (up from #2 an hour ago); despite modest relative volume vs EFXT/FRMI, no rotation is justified. Cash ($0.10532031) also far too small to fund any new position regardless. Crypto check (mark vs session open): BTC -0.04%, ETH +0.01%, SOL -0.57%, XRP -0.19% -- all negative/negligible, no signal, and moot (cash too small). HELD FIGS -- no trade. Mark-to-market: FIGS 2.283486 sh @ $17.865 (last trade) = $40.7945, cash $0.10532031, sleeve value ~$40.90 (down from ~$41.31 an hour ago on FIGS price dip from $18.045 to $17.865)."
+    "last_action": "2026-10-13T16:48Z (12:48pm ET Tue): reconciled -- equity positions matched ledger exactly before trade (FIGS 2.283486 sh), no crypto positions, no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market OPEN (regular hours). Re-ran momentum scan (Quality momentum scan): 10 matches -- EFXT +14.27%/relvol 5.48 (now TOP), FRMI +14.14%/relvol 3.83, FIGS +12.55%/relvol 0.37 (fell to #3, down from #1 an hour ago), CCC +11.75%, CHA +10.4%, STGW +8.61%, DHT +8.34%, FICO +8.31%, DK +8.20%, PARR +8.13%. FIGS no longer leads on 1W change AND lost on relative volume by a wide margin to both EFXT and FRMI -- a clear, non-marginal reversal (not just noisy jitter), so ROTATED: sold all FIGS (2.283486 sh @ avg $17.7452 = $40.5209) and bought EFXT (chosen over FRMI: similar 1W change but EFXT has higher relvol confirmation, a more moderate single-day move (+14.1% vs FRMI's speculative +20.5% single-day spike at a $3.92 price), and a steadier $27.47 price vs FRMI's low-priced/choppy profile) with $40.52, filled 1.474575 sh @ avg $27.4791. Crypto check (mark vs session open): BTC +0.19%, ETH +0.39%, SOL +0.21%, XRP +0.36% -- all small positive, no actionable signal, moot regardless (cash negligible). Mark-to-market: EFXT 1.474575 sh @ $27.47 = $40.4947, cash $0.106236, sleeve value ~$40.60."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
