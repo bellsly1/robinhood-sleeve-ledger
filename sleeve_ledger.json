@@ -4,17 +4,11 @@
   "sleeve_momentum": {
     "label": "Momentum (trend-following)",
     "starting_value": 64.51,
-    "cash": 0.106236,
-    "positions": [
-      {
-        "symbol": "EFXT",
-        "quantity": 1.474575,
-        "asset_class": "equity"
-      }
-    ],
-    "previous_report_value": 40.36,
+    "cash": 38.339312,
+    "positions": [],
+    "previous_report_value": 38.55,
     "previous_report_date": "2026-10-14",
-    "last_action": "2026-10-14T18:46Z (2:46pm ET Wed): reconciled -- equity positions matched ledger exactly (EFXT 1.474575 sh), no crypto positions, no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market OPEN -- re-ran saved scan 'Quality momentum scan' (0207fc3b-f94d-40ae-9bbb-957474b51e08): 9 matches. EFXT still qualifies (1W +8.63%, mktcap $3.34B, avgvol10 763k) -- held. No candidate clearly stronger: LQDA 1W +22.90% rel vol 2.26 remains the same event-driven spike flagged in prior runs, not a sustained trend; FIGS +14.39% (rel vol 0.38), LW +10.57% (rel vol 0.75), CHA +9.07% (rel vol 0.27), VFC +9.10% (rel vol 0.70), CCC +8.90% (rel vol 0.38), BBWI +8.33% (rel vol 0.93), CF +8.29% (rel vol 0.54) all weak-conviction/marginal (rel vol <1.0). Also moot regardless given negligible cash to deploy ($0.106236). Crypto check (mark vs session open): BTC -2.50%, ETH -3.52%, SOL -3.51%, XRP -3.61% -- all negative, no actionable signal. Held EFXT, no trade. Mark-to-market: EFXT 1.474575 sh @ $26.07 (last trade) = $38.44, cash $0.106236, sleeve value ~$38.55."
+    "last_action": "2026-10-14T19:46Z (3:46pm ET Wed): reconciled -- equity positions matched ledger exactly pre-trade (EFXT 1.474575 sh), no crypto positions, no discrepancy (account also holds COO 1.227377 sh, belongs to sleeve_quant, untouched). Market OPEN -- re-ran saved scan 'Quality momentum scan' (0207fc3b-f94d-40ae-9bbb-957474b51e08): 9 matches, EFXT no longer among them (dropped out after a sharp intraday reversal: last $25.90 vs prior close $27.54, -5.95% on the day, pulling its 1W close change below the +8% qualifying threshold it met last run at +8.63%). Per rule (hold only while still qualifying), SOLD all 1.474575 EFXT sh at market, filled @ avg $25.9282, $0 fees, proceeds $38.233076. Checked remaining 9 candidates for a clearly-stronger rotation target: none qualified -- LQDA (1W +23.78%, rel vol 2.43) is the same event-driven spike flagged and excluded in prior runs, not a sustained trend; BBWI (1W +8.22%, rel vol 1.17) only marginally above threshold; CHWY, LW, VFC, OLLI, CCC, FIGS, CHA all rel vol <1.0 (weak conviction). Moved to cash rather than rotate. Crypto check (mark vs session open): BTC -2.37%, ETH -3.33%, SOL -3.35%, XRP -3.42% -- all negative, no actionable signal. Resulting: cash $38.339312 (0.106236 prior + 38.233076 proceeds), no positions, sleeve value ~$38.34."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
