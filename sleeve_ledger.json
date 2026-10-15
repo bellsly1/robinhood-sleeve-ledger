@@ -8,7 +8,7 @@
     "positions": [],
     "previous_report_value": 38.339312,
     "previous_report_date": "2026-10-15",
-    "last_action": "2026-10-15T07:46Z (3:46am ET Thu 10/15): reconciled -- equity positions hold only COO 1.227377 sh (sleeve_quant, untouched), no crypto positions -- matches ledger (sleeve_momentum in cash, no positions), no discrepancy. Market CLOSED (overnight, well outside 9:30am-4:00pm ET) -- skipped stock scan per rule, no equity holdings to carry. Crypto check (mark vs prior close): BTC +0.53%, ETH +0.56%, SOL +0.13%, XRP +0.15% -- mild broad-based uptick but small and correlated across majors (market-wide move, not a standout), well within noise. Nothing clearly qualifies. HELD CASH, no trade. Cash $38.339312, no positions, sleeve value ~$38.34."
+    "last_action": "2026-10-15T09:46Z (5:46am ET Thu 10/15): reconciled -- equity positions hold only COO 1.227377 sh (sleeve_quant, untouched), no crypto positions -- matches ledger (sleeve_momentum in cash, no positions), no discrepancy. Market CLOSED (pre-market, well outside 9:30am-4:00pm ET) -- skipped stock scan per rule, no equity holdings to carry. Crypto check (mark vs prior close): BTC +0.38%, ETH +0.41%, SOL +0.36%, XRP +0.97% -- XRP modestly ahead of the pack but still under 1% and this early (pre-market, thin volume) -- not a clear enough signal to deploy cash. HELD CASH, no trade. Cash $38.339312, no positions, sleeve value ~$38.34."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
