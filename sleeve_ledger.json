@@ -21,8 +21,8 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 67.16,
-    "previous_report_date": "2026-10-14",
-    "last_action": "2026-10-14T19:17Z (3:17pm ET Wed): reconciled -- equity positions matched ledger exactly (COO 1.227377 sh), no crypto positions, no discrepancy (account also holds EFXT 1.474575 sh, belongs to sleeve_momentum, untouched). Market OPEN -- COO RSI(14,1d) = 34.65 (last completed daily bar still 10/13, unchanged from prior run), not yet back near/above ~55, so reversion not realized -- HELD, no profit-take. Stock oversold scan (STOCK, mktcap>2B, avgvol10>500k, RSI<30) via saved scan fc986f77-7889-4635-948e-4dfde47e87ba: 110 matches (BMY RSI 27.1, BNY RSI 24.4, KKR RSI 29.4, BCS RSI 28.7, CMCSA RSI 28.7, CTVA RSI 9.4, AXSM RSI 17.5, +103 more); COO no longer appears (RSI risen past 30) -- not rotating since already-held COO has not reverted to ~55 yet; low-turnover discipline, no signal change to act on. Majors-only crypto oversold scan (RSI<30 1d/14, symbols BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE) via saved scan 298ef866-5441-4089-9efd-de8d5109826f: 0 matches, no crypto signal active. HELD COO -- no trade. Mark-to-market: COO 1.227377 sh @ $54.63 (last trade) = $67.05, cash $0.113673, sleeve value ~$67.16."
+    "previous_report_value": 67.47,
+    "previous_report_date": "2026-10-15",
+    "last_action": "2026-10-15T01:40Z (9:40pm ET Wed 10/14): reconciled -- equity positions matched ledger exactly (COO 1.227377 sh), no crypto positions, no discrepancy. Market CLOSED (past 4:00pm ET regular close) -- skipped stock scan/trading per rule; COO RSI(14,1d) = 34.65 (unchanged from prior run, last completed daily bar 10/14), still well below the ~55 reversion threshold regardless. Majors-only crypto oversold scan (RSI<30 1d/14, symbols BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE) via saved scan 298ef866-5441-4089-9efd-de8d5109826f: 0 matches, no crypto signal active. HELD COO -- no trade. Mark-to-market: COO 1.227377 sh @ $54.88 (last trade) = $67.36, cash $0.113673, sleeve value ~$67.47."
   }
 }
