@@ -27,8 +27,8 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 70.79,
+    "previous_report_value": 70.60,
     "previous_report_date": "2026-10-16",
-    "last_action": "2026-10-16T13:17Z (9:17am ET Fri 10/16): reconciled -- equity positions matched ledger exactly (COO 1.227377 sh, INFY untouched/sleeve_momentum), no crypto positions, no discrepancy. Market CLOSED (9:17am ET, before 9:30am open) -- skipped stock scan/trading per rules. Held position COO RSI(14,1d) = 48.08 (last completed daily bar still 10/15, unchanged since last run), below the ~55 reversion threshold, no exit signal yet. Majors-only crypto oversold scan (RSI<30 1d/14, symbols BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE) via saved scan 298ef866-5441-4089-9efd-de8d5109826f: 0 matches, no crypto signal active. No cash to deploy regardless ($0.113673). HELD COO -- no trade, low-turnover discipline (no signal change since last run). Mark-to-market: COO 1.227377 sh @ $57.60 (last non-reg trade) = $70.68, cash $0.113673, sleeve value ~$70.79."
+    "last_action": "2026-10-16T14:17Z (10:17am ET Fri 10/16): reconciled -- equity positions matched ledger exactly (COO 1.227377 sh, INFY untouched/sleeve_momentum), no crypto positions, no discrepancy. Market OPEN (10:17am ET). Ran saved stock oversold scan f3d89737-56e6-4646-bd00-386cc29e4a2c (STOCK, mktcap>$2B, avgvol10>500k, RSI(14,1d)<30): 66 matches (BAC, MS, PNC, BCS, DB, STT, RKLB, FER, etc., RSI roughly 9-30) -- COO not among them (not newly oversold). Held position COO RSI(14,1d) = 48.08 (last completed daily bar 10/15), still below the ~55 reversion threshold, no exit signal yet. Majors-only crypto oversold scan (RSI<30 1d/14, symbols BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE) via saved scan 298ef866-5441-4089-9efd-de8d5109826f: 0 matches, no crypto signal active. No cash to deploy regardless ($0.113673). HELD COO -- no trade, low-turnover discipline (no signal change). Mark-to-market: COO 1.227377 sh @ $57.43 (last trade) = $70.49, cash $0.113673, sleeve value ~$70.60."
   }
 }
