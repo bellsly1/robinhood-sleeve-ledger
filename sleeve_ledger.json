@@ -14,7 +14,7 @@
     ],
     "previous_report_value": 39.27,
     "previous_report_date": "2026-10-17",
-    "last_action": "2026-10-18T01:46Z (9:46pm ET Sat 10/17): reconciled -- equity positions hold COO 1.227377 sh (sleeve_quant, untouched) and INFY 3.196889 sh -- matched ledger exactly, no discrepancy. No crypto positions, matches ledger. Market CLOSED (Saturday night) -- skipped stock scanning/trading, just confirmed INFY holding. Crypto check (mark vs prior-close open_price): BTC +0.36%, ETH -0.37%, SOL -0.76%, XRP -0.39% -- no breakout clears a momentum signal (all moves negligible/noisy). No spare cash to deploy regardless ($0.109312). HELD INFY -- no trade. Cash $0.109312 (unchanged), position INFY 3.196889 sh. Mark-to-market: INFY @ $12.25 (last trade, unchanged since Fri close) = $39.16 + $0.109312 cash = sleeve value ~$39.27."
+    "last_action": "2026-10-18T02:46Z (10:46pm ET Sat 10/17): reconciled -- equity positions hold COO 1.227377 sh (sleeve_quant, untouched) and INFY 3.196889 sh -- matched ledger exactly, no discrepancy. No crypto positions, matches ledger. Market CLOSED (Saturday night) -- skipped stock scanning/trading, just confirmed INFY holding. Crypto check (mark vs prior-close open_price): BTC +0.24%, ETH -0.62%, SOL -1.19%, XRP -0.97% -- no breakout clears a momentum signal (all moves negligible/noisy). No spare cash to deploy regardless ($0.109312). HELD INFY -- no trade. Cash $0.109312 (unchanged), position INFY 3.196889 sh. Mark-to-market: INFY @ $12.25 (last trade, unchanged since Fri close) = $39.16 + $0.109312 cash = sleeve value ~$39.27."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
