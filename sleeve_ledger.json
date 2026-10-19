@@ -27,8 +27,8 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 71.17,
+    "previous_report_value": 71.15,
     "previous_report_date": "2026-10-19",
-    "last_action": "2026-10-19T13:19Z (9:19am ET Mon 10/19): reconciled -- equity positions matched ledger exactly (COO 1.227377 sh, INFY untouched/sleeve_momentum), no crypto positions, no discrepancy. Market still CLOSED (pre-market, 9:19am ET, 11 min before 9:30am open) -- skipped stock scanning/trading per rules. COO RSI(14,1d) = 49.2, below the ~55 take-profit threshold -- reversion not yet complete. Majors-only crypto oversold scan (RSI<30 1d/14, symbols BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE) via saved scan 298ef866-5441-4089-9efd-de8d5109826f: 0 matches, no crypto signal active. No cash to deploy regardless ($0.113673). HELD COO -- no trade, low-turnover discipline (no signal change, market closed). Mark-to-market: COO 1.227377 sh @ $57.89 (last non-reg trade, 8:25am ET) = $71.05, cash $0.113673, sleeve value ~$71.17."
+    "last_action": "2026-10-19T15:18Z (11:18am ET Mon 10/19): reconciled -- equity positions matched ledger exactly (COO 1.227377 sh; IRON 0.541188 sh sleeve_momentum, untouched), no crypto positions, no discrepancy. Market OPEN (11:18am ET). Oversold quality stock scan (STOCK, mktcap>$2B, avgvol10d>500k, RSI<30, saved scan fc986f77-7889-4635-948e-4dfde47e87ba): 115 matches (not individually reviewed since already holding COO in cash-deployed state). COO RSI(14,1d) = 50.25 -- risen from 49.2 but still below the ~55 take-profit threshold, reversion not yet complete. Majors-only crypto oversold scan (RSI<30 1d/14, symbols BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE) via saved scan 298ef866-5441-4089-9efd-de8d5109826f: 0 matches, no crypto signal active. No cash to deploy regardless ($0.113673). HELD COO -- no trade, low-turnover discipline (no signal change). Mark-to-market: COO 1.227377 sh @ $57.88 = $71.04, cash $0.113673, sleeve value ~$71.15."
   }
 }
