@@ -12,9 +12,9 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 42.33,
+    "previous_report_value": 42.48,
     "previous_report_date": "2026-10-19",
-    "last_action": "2026-10-19T17:46Z (1:46pm ET Mon 10/19): reconciled -- equity positions matched ledger exactly (IRON 0.541188 sh; COO 1.227377 sh sleeve_quant, untouched), no crypto positions, no discrepancy. Market OPEN (1:46pm ET). Ran 'Quality momentum scan' (STOCK, %Chg 1W close>8%, mktcap>$2B, avgvol10d>500k): 11 matches. IRON (Disc Medicine) remains the clear standout: +37.3% 1W, relative volume 11.84x -- far above every other match (next-best AMRO 14.4%/10.88x rel vol, CLF 15.1%/2.29x rel vol, rest <1.6x rel vol). Crypto check (mark vs prior-close): BTC -0.73%, ETH -1.11%, SOL -1.18%, XRP -0.71% -- all negative, no signal. HELD IRON -- no trade, current holding still the strongest qualifying signal by a wide margin, avoiding churn. Cash $0.102526, position IRON 0.541188 sh. Mark-to-market: IRON @ $78.02 = $42.22 + $0.102526 cash = sleeve value ~$42.33."
+    "last_action": "2026-10-19T18:47Z (2:47pm ET Mon 10/19): reconciled -- equity positions matched ledger exactly (IRON 0.541188 sh; COO 1.227377 sh sleeve_quant, untouched), no crypto positions, no discrepancy. Market OPEN (2:47pm ET). Re-ran 'Quality momentum scan' (STOCK, %Chg 1W close>8%, mktcap>$2B, avgvol10d>500k): 11 matches. IRON (Disc Medicine) remains the clear standout: +37.8% 1W, relative volume 12.51x -- far above every other match (next-best CLF 18.0%/2.60x rel vol, AMRO 14.1%/11.18x rel vol, rest <2x rel vol). Crypto check (mark vs prior-close): BTC -0.69%, ETH -0.93%, SOL -1.15%, XRP -0.44% -- all negative, no signal. HELD IRON -- no trade, current holding still the strongest qualifying signal by a wide margin, avoiding churn. Cash $0.102526, position IRON 0.541188 sh. Mark-to-market: IRON @ $78.31 = $42.38 + $0.102526 cash = sleeve value ~$42.48."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
