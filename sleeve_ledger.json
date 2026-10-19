@@ -4,17 +4,17 @@
   "sleeve_momentum": {
     "label": "Momentum (trend-following)",
     "starting_value": 64.51,
-    "cash": 0.109312,
+    "cash": 0.102526,
     "positions": [
       {
-        "symbol": "INFY",
-        "quantity": 3.196889,
+        "symbol": "IRON",
+        "quantity": 0.541188,
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 38.89,
+    "previous_report_value": 38.73,
     "previous_report_date": "2026-10-19",
-    "last_action": "2026-10-19T11:47Z (7:47am ET Mon 10/19): reconciled -- equity positions hold COO 1.227377 sh (sleeve_quant, untouched) and INFY 3.196889 sh -- matched ledger exactly, no discrepancy. No crypto positions, matches ledger. Market CLOSED (pre-market, 7:47am ET, before 9:30am open) -- skipped stock scanning/trading. Crypto check (mark vs prior-close open_price): BTC -0.27%, ETH -0.14%, SOL -0.50%, XRP -0.58% -- all negative/sub-1%, no breakout/momentum signal. Negligible spare cash regardless ($0.109312). HELD INFY -- no trade (no stronger candidate, low-turnover discipline, market closed). Cash $0.109312 (unchanged), position INFY 3.196889 sh. Mark-to-market: INFY @ $12.19 (last non-reg-hours trade, 7:47am ET) = $38.97 + $0.109312 cash = sleeve value ~$39.08."
+    "last_action": "2026-10-19T13:48Z (9:48am ET Mon 10/19): reconciled -- equity positions matched ledger exactly (INFY 3.196889 sh; COO 1.227377 sh sleeve_quant, untouched), no crypto positions. Market OPEN (9:48am ET). Ran 'Quality momentum scan' (STOCK, %Chg 1W close>8%, mktcap>$2B, avgvol10d>500k): 5 matches -- CLF, APLD, AXTI, PBLS, IRON. INFY no longer qualifies (below thresholds, down to $12.08). IRON (Disc Medicine) was the clear standout: +24.5% 1W, relative volume 4.47x (only match >1.0x) vs the others' sub-1.0x relative volume -- a genuine breakout, not noise. Crypto check (mark vs prior-close): BTC -0.18%, ETH -0.43%, SOL -0.37%, XRP -0.28% -- all negative, no signal. ROTATED: sold INFY 3.196889 sh @ avg $12.0815 (~$38.62), bought IRON 0.541188 sh @ avg $71.3799 (~$38.63). Cash $0.102526, position IRON 0.541188 sh. Mark-to-market: IRON @ $71.38 = $38.63 + $0.102526 cash = sleeve value ~$38.73."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
