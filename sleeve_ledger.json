@@ -12,9 +12,9 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 42.72,
+    "previous_report_value": 41.30,
     "previous_report_date": "2026-10-20",
-    "last_action": "2026-10-20T11:47Z (7:47am ET Tue 10/20): reconciled -- equity positions matched ledger exactly (IRON 0.541188 sh; COO 1.227377 sh sleeve_quant, untouched), no crypto positions, no discrepancy. Market CLOSED (7:47am ET, pre-open) -- stock scanning/trading skipped per rules, equity holdings unchanged. Crypto check (mark vs today's open): BTC -0.78%, ETH -1.27%, SOL -1.20%, XRP -0.76% -- all negative, no bullish signal. HELD IRON -- no trade. Cash $0.102526, position IRON 0.541188 sh. Mark-to-market: IRON @ $78.75 (last non-reg print) = $42.62 + $0.102526 cash = sleeve value ~$42.72."
+    "last_action": "2026-10-20T13:46Z (9:46am ET Tue 10/20): reconciled -- equity positions matched ledger exactly (IRON 0.541188 sh; COO 1.227377 sh sleeve_quant, untouched), no crypto positions, no discrepancy. Market OPEN (9:46am ET). Ran 'Quality momentum scan' (STOCK, mkt cap>$2B, %Chg 1W close>8%, avg vol 10d>500k): 17 matches. IRON still qualifies (1W +35.0%, mkt cap $3.04B, avg vol 1.50M) though today -2.76% and relative volume only 0.02x (early session). Strongest alternative BRZE (1W +54.6%, today +51.0%, relative volume 15.0x) was NOT rotated into -- treated as an extreme single-day earnings-type gap (event/mean-reversion risk) rather than a clean sustained trend, so not 'clearly stronger' in the trend-following sense; avoided churning into a parabolic spike per the anti-churn rule. Crypto check (mark vs today's open): BTC -0.41%, ETH -0.60%, SOL -0.75%, XRP -0.38% -- all negative, no bullish signal. HELD IRON -- no trade. Cash $0.102526, position IRON 0.541188 sh. Mark-to-market: IRON @ $76.125 (last trade) = $41.1979 + $0.102526 cash = sleeve value ~$41.30."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
