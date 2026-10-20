@@ -27,8 +27,8 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 71.93,
+    "previous_report_value": 72.61,
     "previous_report_date": "2026-10-20",
-    "last_action": "2026-10-20T07:17Z (3:17am ET Tue 10/20): reconciled -- equity positions matched ledger exactly (COO 1.227377 sh; IRON 0.541188 sh sleeve_momentum, untouched), no crypto positions, no discrepancy. Market CLOSED (3:17am ET) -- stock scanning/trading skipped per rules. COO RSI(14,1d) = 50.2, below the ~55 take-profit threshold, so would be held regardless. Majors-only crypto oversold scan (RSI<30 1d/14, symbols BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE) via saved scan 298ef866-5441-4089-9efd-de8d5109826f: 0 matches, no crypto signal active. No cash to deploy regardless ($0.113673). HELD COO -- no trade. Mark-to-market: COO 1.227377 sh @ $58.51 (last non-reg print) = $71.81, cash $0.113673, sleeve value ~$71.93."
+    "last_action": "2026-10-20T18:15Z (2:15pm ET Tue 10/20): reconciled -- equity positions matched ledger exactly (COO 1.227377 sh; IRON 0.541188 sh sleeve_momentum, untouched), no crypto positions, no discrepancy. Market OPEN (2:15pm ET). COO RSI(14,1d) = 51.1, below the ~55 take-profit threshold, so held. Oversold quality stock scan (mkt cap>$2B, avg vol 10d>500k, RSI<30) via saved scan fc986f77-7889-4635-948e-4dfde47e87ba: 98 matches (e.g. BAC RSI 21.5, MS RSI 23.5, DB RSI 20.0), but no cash to deploy regardless. Majors-only crypto oversold scan (RSI<30 1d/14, symbols BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE) via saved scan 298ef866-5441-4089-9efd-de8d5109826f: 0 matches, no crypto signal active. No cash to deploy regardless ($0.113673). HELD COO -- no trade. Mark-to-market: COO 1.227377 sh @ $59.07 = $72.50, cash $0.113673, sleeve value ~$72.61."
   }
 }
