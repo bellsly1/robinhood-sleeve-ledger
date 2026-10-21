@@ -14,7 +14,7 @@
     ],
     "previous_report_value": 41.57,
     "previous_report_date": "2026-10-21",
-    "last_action": "2026-10-21T20:46Z (4:46pm ET Wed 10/21): reconciled -- equity positions matched ledger exactly (IRON 0.541188 sh; BAC 1.425488 sh sleeve_quant, untouched), no crypto positions, no discrepancy. Market CLOSED (past 4:00pm ET) -- skipped stock scanning/trading, just noting current equity holding (IRON). Crypto check (mark vs today's open): BTC +2.43%, ETH +2.09%, SOL +2.30%, XRP +4.23% -- modest upward drift, but cash ($0.102526) is effectively zero and far below any viable crypto order minimum, so no trade possible regardless of signal strength. HELD IRON -- no trade. Cash $0.102526, position IRON 0.541188 sh. Mark-to-market: IRON @ $76.00 (last non-reg trade, 4:28pm ET) = $41.13 + $0.102526 cash = sleeve value ~$41.23."
+    "last_action": "2026-10-21T23:46Z (7:46pm ET Wed 10/21): reconciled -- equity positions matched ledger exactly (IRON 0.541188 sh; BAC 1.425488 sh sleeve_quant, untouched), no crypto positions, no discrepancy. Market CLOSED (past 4:00pm ET) -- skipped stock scanning/trading, just noting current equity holding (IRON). Crypto check (mark vs today's open): BTC +1.88%, ETH +1.27%, SOL +1.01%, XRP +2.43% -- modest upward drift, but cash ($0.102526) is effectively zero and far below any viable crypto order minimum, so no trade possible regardless of signal strength. HELD IRON -- no trade. Cash $0.102526, position IRON 0.541188 sh. Mark-to-market: IRON @ $76.20 (last non-reg trade, 5:38pm ET) = $41.24 + $0.102526 cash = sleeve value ~$41.34."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
