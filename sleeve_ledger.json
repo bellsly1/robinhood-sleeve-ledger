@@ -12,9 +12,9 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 41.04,
+    "previous_report_value": 41.07,
     "previous_report_date": "2026-10-22",
-    "last_action": "2026-10-22T15:48Z (11:48am ET Thu 10/22): reconciled -- equity positions matched ledger exactly (BRZE 0.893474 sh; BAC 1.425488 sh sleeve_quant, untouched), no crypto positions, no discrepancy. Market OPEN. Momentum scan (saved scan 0207fc3b-f94d-40ae-9bbb-957474b51e08, STOCK, %Chg 1W close>0.08, mktcap>2B, avgvol10>500k): 141 matches. BRZE still clearly strongest (1W +56.1%, next best IRON +33.8%) -- HELD, no rotation (avoiding churn on a weaker alternative). Crypto check (mark vs today's open): BTC -1.76%, ETH -2.13%, SOL -1.11%, XRP -1.99% -- all negative, no crypto candidate. Cash $0.107986, position BRZE 0.893474 sh. Mark-to-market: BRZE @ $45.805 = $40.93 + $0.107986 cash = sleeve value ~$41.03."
+    "last_action": "2026-10-22T17:46Z (1:46pm ET Thu 10/22): reconciled -- equity positions matched ledger exactly (BRZE 0.893474 sh; BAC 1.425488 sh sleeve_quant, untouched), no crypto positions, no discrepancy. Market OPEN. Momentum scan (saved scan 0207fc3b-f94d-40ae-9bbb-957474b51e08, STOCK, %Chg 1W close>0.08, mktcap>2B, avgvol10>500k): 150 matches. BRZE still clearly strongest (1W +56.3%, next best IRON +32.6%) -- HELD, no rotation (avoiding churn on a weaker alternative). Crypto check (mark vs today's open): BTC -1.96%, ETH -2.57%, SOL -1.62%, XRP -2.50% -- all negative, no crypto candidate. Cash $0.107986, position BRZE 0.893474 sh. Mark-to-market: BRZE @ $45.85 = $40.97 + $0.107986 cash = sleeve value ~$41.07."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
