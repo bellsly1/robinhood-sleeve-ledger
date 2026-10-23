@@ -27,8 +27,8 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 72.92,
+    "previous_report_value": 72.49,
     "previous_report_date": "2026-10-23",
-    "last_action": "2026-10-23T04:17Z (12:17am ET Fri 10/23): reconciled -- equity positions matched ledger exactly (BAC 1.425488 sh; BRZE 0.893474 sh sleeve_momentum, untouched), no crypto positions, no discrepancy. Market CLOSED (before 9:30am ET) -- skipped stock scan/trading. Checked BAC RSI (1d/14): ~25.3, still oversold and not yet reverted (need ~55) -- HELD. Majors-only crypto oversold scan (RSI<30 1d/14, symbols BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE, reused saved scan 1dcedbfd-ced9-41b0-8d43-b1ea5675d498): 0 matches, no crypto signal active. Cash $0.107132, position BAC 1.425488 sh. Mark-to-market: BAC @ $51.08 (last non-reg trade) = $72.81 + $0.107132 cash = sleeve value ~$72.92."
+    "last_action": "2026-10-23T15:18Z (11:18am ET Fri 10/23): reconciled -- equity positions matched ledger exactly (BAC 1.425488 sh; BRZE 0.893474 sh sleeve_momentum, untouched), no crypto positions, no discrepancy. Market OPEN -- ran stock oversold scan 'Sleeve B oversold stock scan' (STOCK, mkt cap>$2B, avg vol(10d)>500k, RSI(14,1d)<30): 103 matches, held BAC still among them at RSI ~28.1 (not yet reverted, need ~55) -- HELD, no rotation. Majors-only crypto oversold scan (RSI<30 1d/14, symbols BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE, reused saved scan 1dcedbfd-ced9-41b0-8d43-b1ea5675d498): 0 matches, no crypto signal active. Cash $0.107132, position BAC 1.425488 sh. Mark-to-market: BAC @ $50.775 (live) = $72.38 + $0.107132 cash = sleeve value ~$72.49."
   }
 }
