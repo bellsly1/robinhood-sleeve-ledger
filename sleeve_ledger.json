@@ -12,9 +12,9 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 40.99,
-    "previous_report_date": "2026-10-22",
-    "last_action": "2026-10-23T00:46Z (8:46pm ET Thu 10/22): reconciled -- equity positions matched ledger exactly (BRZE 0.893474 sh; BAC 1.425488 sh sleeve_quant, untouched), no crypto positions, no discrepancy. Market CLOSED (after 4:00pm ET) -- skipped stock scan/trading, holding BRZE as-is. Crypto check (mark vs today's open): BTC -1.78%, ETH -2.13%, SOL -1.50%, XRP -2.57% -- all negative, no crypto candidate. Cash $0.107986, position BRZE 0.893474 sh. Mark-to-market: BRZE @ $45.59 (after-hours) = $40.73 + $0.107986 cash = sleeve value ~$40.84."
+    "previous_report_value": 41.11,
+    "previous_report_date": "2026-10-23",
+    "last_action": "2026-10-23T01:46Z (9:46pm ET Thu 10/22): reconciled -- equity positions matched ledger exactly (BRZE 0.893474 sh; BAC 1.425488 sh sleeve_quant, untouched), no crypto positions, no discrepancy. Market CLOSED (after 4:00pm ET) -- skipped stock scan/trading, holding BRZE as-is. Crypto check (mark vs today's open): BTC -1.68%, ETH -1.87%, SOL -1.17%, XRP -2.17% -- all negative, no crypto candidate. Cash $0.107986, position BRZE 0.893474 sh. Mark-to-market: BRZE @ $45.89 (last trade) = $41.00 + $0.107986 cash = sleeve value ~$41.11."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
