@@ -29,6 +29,6 @@
     ],
     "previous_report_value": 72.41,
     "previous_report_date": "2026-10-24",
-    "last_action": "2026-10-24T21:15Z (5:15pm ET Sat 10/24): reconciled -- equity positions matched ledger exactly (BAC 1.425488 sh; BRZE 0.893474 sh sleeve_momentum, untouched), no crypto positions, no discrepancy. Market CLOSED (Saturday, outside 9:30am-4:00pm ET Mon-Fri) -- skipped stock scan/trading per rules; held BAC, no rotation. Majors-only crypto oversold scan (RSI<30 1d/14, symbols BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE, scan 3ac54545-03da-43ad-a187-e4d06b5d0a7a): 0 matches, no crypto signal active. No trade placed. Cash $0.107132, position BAC 1.425488 sh. Mark-to-market: BAC @ $50.72 (last extended-hours trade 10/23) = $72.30 + $0.107132 cash = sleeve value ~$72.41."
+    "last_action": "2026-10-25T00:15Z (8:15pm ET Sat 10/24): reconciled -- equity positions matched ledger exactly (BAC 1.425488 sh; BRZE 0.893474 sh sleeve_momentum, untouched), no crypto positions, no discrepancy. Market CLOSED (Saturday, outside 9:30am-4:00pm ET Mon-Fri) -- skipped stock scan/trading per rules; held BAC, no rotation. Majors-only crypto oversold scan (RSI<30 1d/14, symbols BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE, scan 3ac54545-03da-43ad-a187-e4d06b5d0a7a): 0 matches, no crypto signal active. No trade placed. Cash $0.107132, position BAC 1.425488 sh. Mark-to-market: BAC @ $50.72 (last extended-hours trade 10/23) = $72.30 + $0.107132 cash = sleeve value ~$72.41."
   }
 }
