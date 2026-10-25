@@ -12,9 +12,9 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 41.04,
+    "previous_report_value": 41.03,
     "previous_report_date": "2026-10-25",
-    "last_action": "2026-10-25T12:46Z (8:46am ET Sun 10/25): reconciled -- equity positions matched ledger exactly (BRZE 0.893474 sh; BAC 1.425488 sh sleeve_quant, untouched), no crypto positions, no discrepancy. Market CLOSED (Sunday, outside 9:30am-4:00pm ET Mon-Fri) -- skipped stock scan/trading per rules; equity holdings unchanged (BRZE 0.893474 sh). Crypto momentum check (mark vs prev close): BTC -0.53%, ETH -1.23%, SOL -1.49%, XRP -1.11% -- all negative, no signal (sleeve cash only $0.108, negligible to deploy anyway), no rotation. Held BRZE position. Cash $0.107986, position BRZE 0.893474 sh. Mark-to-market: BRZE @ $45.8113 (last non-reg trade 10/23, unchanged, market closed since Fri) = $40.93 + $0.107986 cash = sleeve value ~$41.04."
+    "last_action": "2026-10-25T13:46Z (9:46am ET Sun 10/25): reconciled -- equity positions matched ledger exactly (BRZE 0.893474 sh; BAC 1.425488 sh sleeve_quant, untouched), no crypto positions, no discrepancy. Market CLOSED (Sunday, outside 9:30am-4:00pm ET Mon-Fri) -- skipped stock scan/trading per rules; equity holdings unchanged (BRZE 0.893474 sh). Crypto momentum check (mark vs open): BTC -0.57%, ETH -1.09%, SOL -1.32%, XRP -0.99% -- all negative, no signal (sleeve cash only $0.108, negligible to deploy anyway), no rotation. Held BRZE position. Cash $0.107986, position BRZE 0.893474 sh. Mark-to-market: BRZE @ $45.8113 (last non-reg trade 10/23, unchanged, market closed since Fri) = $40.93 + $0.107986 cash = sleeve value ~$41.03."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
