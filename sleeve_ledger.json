@@ -4,17 +4,17 @@
   "sleeve_momentum": {
     "label": "Momentum (trend-following)",
     "starting_value": 64.51,
-    "cash": 0.101315,
+    "cash": 0.134815,
     "positions": [
       {
-        "symbol": "RRC",
-        "quantity": 0.778942,
+        "symbol": "SGRY",
+        "quantity": 1.774018,
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 40.96,
+    "previous_report_value": 41.02,
     "previous_report_date": "2026-10-26",
-    "last_action": "2026-10-26T13:48Z (9:48am ET Mon 10/26): reconciled -- equity positions matched ledger exactly (BRZE 0.893474 sh; BAC 1.425488 sh sleeve_quant, untouched), no crypto positions, no discrepancy. Market OPEN. Ran stock momentum scan (STOCK, %Chg 1W close>8%, mktcap>$2B, avgvol10d>500k): 3 matches -- ORKA (+9.3%, relvol 0.26), RRC (+15.2%, relvol 1.35, mktcap $10.6B), SGRY (+23.6%, relvol 0/stale, skipped). Checked held BRZE: no longer qualifies (1W chg -0.21%, relvol 0.10) -- momentum gone. Rotated: sold BRZE 0.893474 sh @ avg $45.7801 = $40.9033 proceeds; bought RRC $40.91 notional (dollar-based mkt buy) = 0.778942 sh @ avg $52.5199. Crypto check (mark vs open): BTC +0.10%, ETH +0.10%, SOL +0.69%, XRP +0.60% -- all mild, no signal, and cash was committed to the equity rotation. Cash $0.101315, position RRC 0.778942 sh. Mark-to-market: RRC @ $52.52 = $40.92 + $0.101315 cash = sleeve value ~$41.02."
+    "last_action": "2026-10-26T14:47Z (10:47am ET Mon 10/26): reconciled -- equity positions matched ledger exactly (RRC 0.778942 sh; BAC 1.425488 sh sleeve_quant, untouched), no crypto positions, no discrepancy. Market OPEN. Re-ran stock momentum scan (Quality momentum scan, scan_id 0207fc3b-f94d-40ae-9bbb-957474b51e08): 3 matches -- RRC (+15.4%, relvol 2.93, mktcap $10.6B, still held), ORKA (+10.4%, relvol 1.01, mktcap $5.3B), SGRY (+46.4%, relvol 11.9, mktcap $2.06B -- no longer stale, now has real volume). SGRY clearly stronger than held RRC (3x the % change, 4x the relvol), not a marginal difference, so rotated: sold RRC 0.778942 sh @ avg $52.5501 = $40.9335 proceeds; bought SGRY $40.90 notional (dollar-based mkt buy) = 1.774018 sh @ avg $23.055. Crypto check (mark vs open): BTC +0.46%, ETH +0.62%, SOL +1.33%, XRP +1.46% -- all mild, no signal, cash committed to equity rotation. Cash $0.134815, position SGRY 1.774018 sh. Mark-to-market: SGRY @ $23.055 = $40.90 + $0.134815 cash = sleeve value ~$41.03."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
