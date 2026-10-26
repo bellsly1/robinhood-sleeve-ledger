@@ -4,17 +4,17 @@
   "sleeve_momentum": {
     "label": "Momentum (trend-following)",
     "starting_value": 64.51,
-    "cash": 0.107986,
+    "cash": 0.101315,
     "positions": [
       {
-        "symbol": "BRZE",
-        "quantity": 0.893474,
+        "symbol": "RRC",
+        "quantity": 0.778942,
         "asset_class": "equity"
       }
     ],
     "previous_report_value": 40.96,
     "previous_report_date": "2026-10-26",
-    "last_action": "2026-10-26T12:52Z (8:52am ET Mon 10/26): reconciled -- equity positions matched ledger exactly (BRZE 0.893474 sh; BAC 1.425488 sh sleeve_quant, untouched), no crypto positions, no discrepancy. Market CLOSED (pre-market, before 9:30am ET) -- skipped stock scan/trading per rules; equity holdings unchanged (BRZE 0.893474 sh). Crypto momentum check (mark vs open): BTC +0.95%, ETH +0.99%, SOL +1.45%, XRP +1.58% -- all mildly positive but sleeve cash is only $0.108, negligible to deploy, no rotation. Held BRZE position. Cash $0.107986, position BRZE 0.893474 sh. Mark-to-market: BRZE @ $45.83 (last non-reg trade 10/26 08:00 ET, most recent available, market closed) = $40.95 + $0.107986 cash = sleeve value ~$41.06."
+    "last_action": "2026-10-26T13:48Z (9:48am ET Mon 10/26): reconciled -- equity positions matched ledger exactly (BRZE 0.893474 sh; BAC 1.425488 sh sleeve_quant, untouched), no crypto positions, no discrepancy. Market OPEN. Ran stock momentum scan (STOCK, %Chg 1W close>8%, mktcap>$2B, avgvol10d>500k): 3 matches -- ORKA (+9.3%, relvol 0.26), RRC (+15.2%, relvol 1.35, mktcap $10.6B), SGRY (+23.6%, relvol 0/stale, skipped). Checked held BRZE: no longer qualifies (1W chg -0.21%, relvol 0.10) -- momentum gone. Rotated: sold BRZE 0.893474 sh @ avg $45.7801 = $40.9033 proceeds; bought RRC $40.91 notional (dollar-based mkt buy) = 0.778942 sh @ avg $52.5199. Crypto check (mark vs open): BTC +0.10%, ETH +0.10%, SOL +0.69%, XRP +0.60% -- all mild, no signal, and cash was committed to the equity rotation. Cash $0.101315, position RRC 0.778942 sh. Mark-to-market: RRC @ $52.52 = $40.92 + $0.101315 cash = sleeve value ~$41.02."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
