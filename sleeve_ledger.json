@@ -12,9 +12,9 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 41.38,
+    "previous_report_value": 41.50,
     "previous_report_date": "2026-10-26",
-    "last_action": "2026-10-26T20:46Z (4:46pm ET Mon 10/26): reconciled -- equity positions matched ledger exactly (SGRY 1.774018 sh; BAC 1.425488 sh sleeve_quant, untouched), no crypto positions, no discrepancy. Market CLOSED (after 4pm ET) -- skipped stock scan/trading per rules, just noted current equity holding SGRY. Crypto check (mark vs open): BTC +0.28%, ETH +0.19%, SOL +0.02%, XRP +0.98% -- all mild, no signal. Held SGRY, no trade. Cash $0.134815, position SGRY 1.774018 sh. Mark-to-market: SGRY @ $23.25 = $41.2459 + $0.134815 cash = sleeve value ~$41.38."
+    "last_action": "2026-10-26T21:46Z (5:46pm ET Mon 10/26): reconciled -- equity positions matched ledger exactly (SGRY 1.774018 sh; BAC 1.425488 sh sleeve_quant, untouched), no crypto positions, no discrepancy. Market CLOSED (after 4pm ET) -- skipped stock scan/trading per rules, just noted current equity holding SGRY. Crypto check (mark vs open): BTC +0.66%, ETH +0.47%, SOL +0.49%, XRP +1.30% -- all mild, no signal strong enough to rotate out of SGRY. Held SGRY, no trade. Cash $0.134815, position SGRY 1.774018 sh. Mark-to-market: SGRY @ $23.32 (after-hours) = $41.3665 + $0.134815 cash = sleeve value ~$41.50."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
