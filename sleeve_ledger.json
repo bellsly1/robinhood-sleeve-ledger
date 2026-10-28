@@ -4,17 +4,17 @@
   "sleeve_momentum": {
     "label": "Momentum (trend-following)",
     "starting_value": 64.51,
-    "cash": 0.108651,
+    "cash": 0.102119,
     "positions": [
       {
-        "symbol": "SOFI",
-        "quantity": 2.569687,
+        "symbol": "TWST",
+        "quantity": 0.250693,
         "asset_class": "equity"
       }
     ],
     "previous_report_value": 42.46,
     "previous_report_date": "2026-10-28",
-    "last_action": "2026-10-28T16:46Z (12:46pm ET Wed 10/28): reconciled -- equity positions matched ledger exactly (SOFI 2.569687 sh; BAC 1.425488 sh sleeve_quant, untouched), no crypto positions, no discrepancy. Market OPEN (regular hours). Re-ran momentum scan 'Quality momentum scan' (STOCK, %Chg 1W close >8%, mktcap >$2B, avgvol10d >500k): 156 matches. SOFI still qualifies: 1W chg +15.12%, 1D +2.59% (last $16.825 vs prior close $16.40), relative volume still low (0.25). Among candidates with relative volume >1.0: GMAB (1W +31.1%, 1D +28.6%, relvol 3.94), AXGN (1W +27.4%, 1D +29.4%, relvol 2.40), and STLA (1W +17.9%, 1D +15.6%, relvol 1.67) all had the large majority of their weekly gain occur in today's single session -- earnings/news-spike pattern, not sustained multi-day trend -- so avoided chasing. VRT (1W +21.7%, 1D +13.4%) and SKHY (1W +19.6%, 1D +12.7%) similarly front-loaded today. TWST (1W +25.6%, 1D +9.9%, relvol 1.20) and LCII (1W +14.3%, 1D +7.9%, relvol 1.88) were more balanced but still weaker 1W change than SOFI or still majority single-day. None presented a clearly stronger sustained trend than SOFI's steady multi-day build; avoided churning. Crypto (mark vs open): BTC -0.85%, ETH -1.31%, SOL -1.18%, XRP -2.10% -- all negative, no signal. HELD SOFI, no trade. Cash $0.108651, position SOFI 2.569687 sh. Mark-to-market: SOFI @ $16.825 = $43.235 + $0.108651 cash = sleeve value ~$43.34."
+    "last_action": "2026-10-28T17:48Z (1:48pm ET Wed 10/28): reconciled -- equity positions matched ledger exactly (SOFI 2.569687 sh; BAC 1.425488 sh sleeve_quant, untouched), no crypto positions, no discrepancy. Market OPEN (regular hours). Re-ran 'Quality momentum scan': 165 matches. SOFI 1W chg +15.46%, 1D +2.90% ($16.875), relvol still low (0.29). TWST stood out as clearly stronger: 1W +23.98%, 1D +8.52% (only ~35% of the week's gain from today -- sustained multi-day build, not a news spike), relvol 1.27 (healthy, not an extreme single-day blowout like GMAB 1W+33.5%/relvol4.24 or AXGN 1W+26.1%/relvol2.62 which were ~90%+ single-day and avoided), mktcap $10.6B, avgvol10d 2.25M. TWST's weekly momentum materially exceeds SOFI's (~55% relative outperformance) with better volume participation -- rotated. Crypto (mark vs open): BTC -0.50%, ETH -0.83%, SOL -0.55%, XRP -1.39% -- all negative, no signal. SOLD SOFI 2.569687 sh @ avg $16.875 = $43.363468 proceeds. BOUGHT TWST $43.37 notional @ avg $173.00 = 0.250693 sh. Cash $0.102119, position TWST 0.250693 sh. Mark-to-market: TWST @ $173.00 = $43.37 + $0.102119 cash = sleeve value ~$43.47."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
