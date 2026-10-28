@@ -14,7 +14,7 @@
     ],
     "previous_report_value": 42.35,
     "previous_report_date": "2026-10-28",
-    "last_action": "2026-10-28T04:46Z (12:46am ET Wed 10/28): reconciled -- equity positions matched ledger exactly (SOFI 2.569687 sh; BAC 1.425488 sh sleeve_quant, untouched), no crypto positions, no discrepancy. Market CLOSED (12:46am ET, well before 9:30am open) -- stock scanning/trading skipped per rules; SOFI held as-is with no scan re-run. Crypto check (mark vs open): BTC -0.14%, ETH -0.07%, SOL +0.19%, XRP -0.41% -- all flat/negative, none stronger than SOFI's current uptrend. HELD, no trade. Cash $0.108651, position SOFI 2.569687 sh. Mark-to-market: SOFI @ $16.44 (after-hours) = $42.2457 + $0.108651 cash = sleeve value ~$42.35."
+    "last_action": "2026-10-28T05:47Z (1:47am ET Wed 10/28): reconciled -- equity positions matched ledger exactly (SOFI 2.569687 sh; BAC 1.425488 sh sleeve_quant, untouched), no crypto positions, no discrepancy. Market CLOSED (1:47am ET, well before 9:30am open) -- stock scanning/trading skipped per rules; SOFI held as-is with no scan re-run. Crypto check (mark vs prior close): BTC -0.20%, ETH -0.27%, SOL -0.17%, XRP -0.74% -- all negative, none stronger than SOFI's current uptrend. HELD, no trade. Cash $0.108651, position SOFI 2.569687 sh. Mark-to-market: SOFI @ $16.44 (after-hours) = $42.2457 + $0.108651 cash = sleeve value ~$42.35."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
