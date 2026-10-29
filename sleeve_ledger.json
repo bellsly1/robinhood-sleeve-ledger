@@ -14,7 +14,7 @@
     ],
     "previous_report_value": 42.46,
     "previous_report_date": "2026-10-28",
-    "last_action": "2026-10-29T01:46Z (9:46pm ET Wed 10/28): reconciled -- equity positions matched ledger exactly (TWST 0.250693 sh; BAC 1.425488 sh sleeve_quant, untouched), no crypto positions, no discrepancy. Market CLOSED (regular hours ended 4:00pm ET) -- stock scanning/trading skipped per rules, TWST not re-screened this run. Crypto momentum (mark vs prior-day open, midnight ET boundary): BTC -0.76%, ETH -1.26%, SOL -1.42%, XRP -2.10% -- all negative, no signal. HELD TWST, no trade. Cash $0.102119 (unchanged), position TWST 0.250693 sh (unchanged). Mark-to-market: TWST @ $172.09 (after-hours) = $43.1418 + $0.102119 cash = sleeve value ~$43.24."
+    "last_action": "2026-10-29T02:46Z (10:46pm ET Wed 10/28): reconciled -- equity positions matched ledger exactly (TWST 0.250693 sh; BAC 1.425488 sh sleeve_quant, untouched), no crypto positions, no discrepancy. Market CLOSED (regular hours ended 4:00pm ET) -- stock scanning/trading skipped per rules, TWST not re-screened this run. Crypto momentum (mark vs prior-day open, midnight ET boundary): BTC -1.70%, ETH -2.59%, SOL -2.38%, XRP -3.52% -- all negative, no signal. HELD TWST, no trade. Cash $0.102119 (unchanged), position TWST 0.250693 sh (unchanged). Mark-to-market: TWST @ $170.20 (after-hours) = $42.6679 + $0.102119 cash = sleeve value ~$42.77."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
