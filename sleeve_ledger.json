@@ -14,7 +14,7 @@
     ],
     "previous_report_value": 39.02,
     "previous_report_date": "2026-10-31",
-    "last_action": "2026-10-31T11:46Z (7:46am ET Sat 10/31): reconciled -- equity positions matched ledger exactly (REGN 0.042024 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market CLOSED (weekend) -- skipped stock scanning/trading per rules; held REGN. Crypto checked vs today's open (BTC +0.57%, ETH +0.47%, SOL -0.21%, XRP -0.02%) -- all moves small/mixed, no clear momentum signal, no trade. Cash $0.107217, position REGN 0.042024 sh. Mark-to-market: REGN @ $926.00 (after-hours last) = $38.91 + $0.107217 cash = sleeve value ~$39.02."
+    "last_action": "2026-10-31T16:46Z (12:46pm ET Sat 10/31): reconciled -- equity positions matched ledger exactly (REGN 0.042024 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market CLOSED (weekend) -- skipped stock scanning/trading per rules; held REGN. Crypto checked vs today's open (BTC +0.60%, ETH +0.60%, SOL -0.16%, XRP +0.44%) -- all moves small/mixed, no clear momentum signal, no trade. Cash $0.107217, position REGN 0.042024 sh. Mark-to-market: REGN @ $926.00 (after-hours last) = $38.91 + $0.107217 cash = sleeve value ~$39.02."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
