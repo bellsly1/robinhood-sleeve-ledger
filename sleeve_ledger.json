@@ -27,8 +27,8 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 73.32,
-    "previous_report_date": "2026-10-30",
-    "last_action": "2026-10-30T12:28Z (8:28am ET Fri 10/30): reconciled -- equity positions matched ledger exactly (BAC 1.425488 sh; TWST 0.250693 sh sleeve_momentum, untouched), zero crypto positions, no discrepancy. Market CLOSED (regular hours 9:30am-4pm ET, pre-market) -- skipped stock scanning/trading per rules; held BAC without re-checking RSI since stock exit logic is gated to market hours. Majors-only crypto oversold scan (saved scan 'Sleeve B - Majors Crypto Oversold RSI<30', scan_id 932bbb70-bfe2-4add-9128-6f3162c6211d: BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE, RSI<30 1d/14): 0 matches, no crypto signal active. No trade placed -- HELD BAC. Cash $0.107132, position BAC 1.425488 sh. Mark-to-market: BAC @ $51.3631 (pre-market last trade) = $73.22 + $0.107132 cash = sleeve value ~$73.32."
+    "previous_report_value": 71.45,
+    "previous_report_date": "2026-10-31",
+    "last_action": "2026-10-31T01:16Z (9:16pm ET Fri 10/30): reconciled -- equity positions matched ledger exactly (BAC 1.425488 sh; REGN 0.042024 sh sleeve_momentum, untouched), zero crypto positions, no discrepancy. Market CLOSED (regular hours 9:30am-4pm ET ended) -- skipped stock scanning/trading per rules; held BAC without re-checking RSI since stock exit logic is gated to market hours. Majors-only crypto oversold scan (saved scan 'Sleeve B - Majors Crypto Oversold RSI', scan_id 932bbb70-bfe2-4add-9128-6f3162c6211d: BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE, RSI<30 1d/14): 0 matches, no crypto signal active. No trade placed -- HELD BAC. Cash $0.107132, position BAC 1.425488 sh. Mark-to-market: BAC @ $50.05 (after-hours last) = $71.35 + $0.107132 cash = sleeve value ~$71.45."
   }
 }
