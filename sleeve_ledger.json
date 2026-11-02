@@ -4,17 +4,17 @@
   "sleeve_momentum": {
     "label": "Momentum (trend-following)",
     "starting_value": 64.51,
-    "cash": 0.107217,
+    "cash": 0.096983,
     "positions": [
       {
-        "symbol": "REGN",
-        "quantity": 0.042024,
+        "symbol": "IDXX",
+        "quantity": 0.062624,
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 38.86,
+    "previous_report_value": 40.70,
     "previous_report_date": "2026-11-02",
-    "last_action": "2026-11-02T15:02Z (10:02am ET Mon 11/2): reconciled -- equity positions matched ledger exactly (REGN 0.042024 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market OPEN (regular hours) -- ran Quality momentum scan (STOCK, %Chg 1W close>8%, mkt cap>$2B, avg vol 10d>500k): 7 matches (IDXX, RIVN, TEM, NXT, WING, ALK, ENPH), but ALL with relative volume <0.4 (well below the >1.0 preference) -- weak/unconfirmed signals, and the 1W filter is noisy on a Monday reset (effectively today's move only). REGN itself did not qualify (week-to-date only +4.1%, since the 1W window just reset) but remains up intraday and above momentum entry $916.86 (now $965.99). No clearly stronger candidate -- held REGN, avoiding churn. Crypto checked vs today's open (BTC -0.83%, ETH -0.32%, SOL -0.84%, XRP -0.30%) -- no breakout signal, and cash ($0.107217) is too small to trade regardless -- no trade. Cash $0.107217, position REGN 0.042024 sh. Mark-to-market: REGN @ $965.99 = $40.59 + $0.107217 cash = sleeve value ~$40.70."
+    "last_action": "2026-11-02T16:21Z (11:21am ET Mon 11/2): reconciled -- equity positions matched ledger exactly (REGN 0.042024 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market OPEN (regular hours) -- re-ran momentum scan (STOCK, %Chg 1W close>8%, mkt cap>$2B, avg vol 10d>500k): 19 matches, several now with relative volume >1.0 (IDXX 3.84x/+17.2% 1W, TEM 2.05x/+9.0%, LOAR 1.88x/+9.1%, RIVN 1.31x/+12.0%, BILI 1.30x/+8.1%, WING 1.24x/+11.9%, NXT 1.21x/+16.1%, NWL 1.17x/+13.0%) -- a clear improvement vs the prior run's sub-0.4 relative volumes. REGN's own 1W change had cooled to just +4.0% with relative volume only 1.39x, no longer qualifying and clearly weaker than the top candidate. ROTATED: sold REGN (0.042024 sh @ $965.1572 avg, proceeds $40.5598) and bought IDXX ($40.57 market order, filled 0.062624 sh @ $647.831 avg) -- IDXX's volume-confirmed breakout (3.84x relative volume, +17.2% 1W) was judged clearly stronger, not marginal/noisy, justifying the rotation. Crypto checked (BTC -1.26%, ETH -0.98%, SOL -1.62%, XRP -0.38% vs today's open) -- all red, no breakout signal. Cash $0.096983, position IDXX 0.062624 sh. Mark-to-market: IDXX @ $647.84 = $40.58 + $0.096983 cash = sleeve value ~$40.68."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
