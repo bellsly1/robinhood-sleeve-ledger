@@ -14,7 +14,7 @@
     ],
     "previous_report_value": 42.18,
     "previous_report_date": "2026-11-02",
-    "last_action": "2026-11-03T06:46Z (1:46am ET Tue 11/3): reconciled -- equity positions matched ledger exactly (IDXX 0.062624 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market CLOSED (regular hours 9:30am-4:00pm ET) -- skipped stock scanning/trading per policy, continued holding IDXX. Crypto checked vs today's open (BTC -0.45%, ETH -0.47%, SOL -0.71%, XRP -0.40%) -- all red, no breakout signal, no crypto position held or opened. No trade placed -- HELD IDXX. Cash $0.096983, position IDXX 0.062624 sh. Mark-to-market: IDXX @ $677.33 (after-hours) = $42.43 + $0.096983 cash = sleeve value ~$42.52."
+    "last_action": "2026-11-03T09:46Z (4:46am ET Tue 11/3): reconciled -- equity positions matched ledger exactly (IDXX 0.062624 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market CLOSED (regular hours 9:30am-4:00pm ET) -- skipped stock scanning/trading per policy, continued holding IDXX. Crypto checked vs today's open (BTC +0.15%, ETH +0.44%, SOL +0.12%, XRP +0.23%) -- all mild green, no clear breakout signal, no crypto position held or opened. No trade placed -- HELD IDXX. Cash $0.096983, position IDXX 0.062624 sh. Mark-to-market: IDXX @ $671.69 (pre-market) = $42.07 + $0.096983 cash = sleeve value ~$42.16."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
