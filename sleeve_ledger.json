@@ -4,17 +4,17 @@
   "sleeve_momentum": {
     "label": "Momentum (trend-following)",
     "starting_value": 64.51,
-    "cash": 0.096983,
+    "cash": 0.104418,
     "positions": [
       {
-        "symbol": "IDXX",
-        "quantity": 0.062624,
+        "symbol": "DUOL",
+        "quantity": 0.257433,
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 42.3,
-    "previous_report_date": "2026-11-03",
-    "last_action": "2026-11-04T14:46Z (9:46am ET Wed 11/4): reconciled -- equity positions matched ledger exactly (IDXX 0.062624 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market OPEN (regular hours) -- ran 'Quality momentum scan' (STOCK, market cap>2B, %Change 1W close>0.08, avg vol 10d>500k): 202 matches. IDXX still qualifies strongly (1W change +26.0%, last $694.56, up +3.35% today vs prior close $672.04). A few names (NXT +35.7%, GPK +32.0%, ENPH +31.9%, YOU +30.6%) screened modestly higher, but none showed relative volume >1.0 (all <0.5, likely noisy this early in the session) -- not a clearly-stronger signal worth churning into, especially given cash is effectively zero. Crypto vs today's midnight-ET open: BTC +2.46%, ETH +3.19%, SOL +2.51%, XRP +2.72% -- broadly green, no standout breakout, and cash ($0.096983) is below the $0.10 buffer so no new position could be funded regardless. No trade placed -- HELD IDXX. Cash $0.096983, position IDXX 0.062624 sh. Mark-to-market: IDXX @ $694.56 = $43.49 + $0.096983 cash = sleeve value ~$43.59."
+    "previous_report_value": 43.59,
+    "previous_report_date": "2026-11-04",
+    "last_action": "2026-11-04T15:48Z (10:48am ET Wed 11/4): reconciled -- equity positions matched ledger exactly (IDXX 0.062624 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market OPEN (regular hours) -- ran 'Quality momentum scan' (STOCK, market cap>2B, %Change 1W close>0.08, avg vol 10d>500k): 193 matches. IDXX still technically qualified (1W change +25.0%) but relative volume had faded to 0.21 (well below its 10-day average), signaling the move was stale/losing conviction. Several candidates showed clearly stronger, volume-confirmed momentum: DUOL (1W +27.7%, relvol 1.21), RIOT (+22.4%, relvol 1.10), LIVN (+18.9%, relvol 1.08), FSLR (+16.5%, relvol 1.26) -- all with relvol >1.0 for the first time in this sleeve's runs. ROTATED: sold IDXX 0.062624 sh @ avg $689.9501 (proceeds $43.2074, order 6aeb53c5-d4ce-4386-9a22-1da8a098250d, filled), bought DUOL $43.20 notional @ avg $167.8102 = 0.257433 sh (order 6aeb53d8-c022-4e90-9bc3-869b87cb4b15, filled) -- chosen as clearly strongest combo of 1W momentum and volume confirmation among qualifying candidates. Crypto vs today's midnight-ET open: BTC +3.93%, ETH +6.35%, SOL +4.58%, XRP +3.80% -- broadly green, no standout breakout vs the equity signal, no crypto trade. Cash $0.104418, position DUOL 0.257433 sh. Mark-to-market: DUOL @ $167.81 = $43.20 + $0.104418 cash = sleeve value ~$43.20."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
