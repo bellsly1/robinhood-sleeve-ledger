@@ -4,17 +4,17 @@
   "sleeve_momentum": {
     "label": "Momentum (trend-following)",
     "starting_value": 64.51,
-    "cash": 0.104418,
+    "cash": 0.102126,
     "positions": [
       {
-        "symbol": "DUOL",
-        "quantity": 0.257433,
+        "symbol": "APP",
+        "quantity": 0.116255,
         "asset_class": "equity"
       }
     ],
     "previous_report_value": 41.55,
     "previous_report_date": "2026-11-05",
-    "last_action": "2026-11-05T15:48Z (10:48am ET Thu 11/5): reconciled -- equity positions matched ledger exactly (DUOL 0.257433 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market OPEN (10:48am ET, regular hours) -- ran stock momentum scan 'Quality momentum scan' (STOCK, %Change 1W close >8%, mkt cap >$2B, avg vol(10d) >500k): 220 matches. DUOL still qualifies strongly (1W change +23.3%, mkt cap $7.6B, avg vol 1.94M) though relative volume is low (0.073), so HELD per anti-churn rule -- only one candidate cleared relative volume >1.0 (MGNI: 1W change +26.6%, rel vol 1.02, mkt cap $3.27B), a marginal edge on both measures, not a clearly-stronger confirmed breakout, so no rotation. Crypto vs prior-close/open: BTC -5.37%, ETH -6.25%, SOL -5.55%, XRP -4.06% -- broad selloff, no momentum signal; cash $0.104418 also too thin ($0.004418 above $0.10 buffer) to fund any trade regardless. No trade placed. Cash $0.104418, position DUOL 0.257433 sh. Mark-to-market: DUOL @ $162.05 (last trade) = $41.7154 + $0.104418 cash = sleeve value ~$41.82."
+    "last_action": "2026-11-05T17:48Z (12:48pm ET Thu 11/5): reconciled -- equity positions matched ledger exactly before trading (DUOL 0.257433 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market OPEN (12:46pm ET, regular hours) -- re-ran 'Quality momentum scan' (STOCK, %Change 1W close >8%, mkt cap >$2B, avg vol(10d) >500k): 155 matches. DUOL still qualified (1W change +19.3%, mkt cap $7.6B) but relative volume was weak/unconfirmed (0.122). APP (AppLovin) cleared the bar as a clearly-stronger confirmed breakout: 1W change +51.9% (vs DUOL's +19.3%), relative volume 1.108 (confirmed, vs DUOL's 0.122), mkt cap $90.9B and avg vol 4.94M (both far above DUOL's $7.6B/1.94M) -- not a marginal/noisy edge, so ROTATED per momentum rule. Sold all DUOL (0.257433 sh @ avg $157.43, proceeds $40.5277), then bought APP with $40.53 notional (market, dollar-based) -- filled 0.116255 sh @ avg $348.6299, cost $40.5300. Crypto vs prior-close/open: BTC -5.79%, ETH -7.17%, SOL -7.07%, XRP -5.47% -- broad selloff, no crypto momentum signal, no crypto action. Cash after rotation: $0.102126, position APP 0.116255 sh. Mark-to-market: APP @ $348.63 (fill price) = $40.5300 + $0.102126 cash = sleeve value ~$40.63."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
