@@ -12,9 +12,9 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 41.55,
+    "previous_report_value": 41.47,
     "previous_report_date": "2026-11-05",
-    "last_action": "2026-11-05T19:47Z (2:47pm ET Thu 11/5): reconciled -- equity positions matched ledger exactly (APP 0.116255 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market OPEN (2:45pm ET, regular hours) -- re-ran 'Quality momentum scan' (STOCK, %Change 1W close >8%, mkt cap >$2B, avg vol(10d) >500k): 176 matches. APP remained the clear #1 by 1W change (+55.1%, up from +51.9% at last check), confirmed relative volume 1.29, mkt cap $90.9B, avg vol 4.94M -- next-best (U +30.3%, RUN +30.3%) far behind and weaker/unconfirmed on relative volume. No clearly-stronger candidate, so HELD APP (no churn). Crypto vs prior-close/open: BTC -5.12%, ETH -6.60%, SOL -6.32%, XRP -5.04% -- broad selloff, no crypto momentum signal, no crypto action. Cash $0.102126, position APP 0.116255 sh. Mark-to-market: APP @ $354.07 (last trade) = $41.1670 + $0.102126 cash = sleeve value ~$41.27."
+    "last_action": "2026-11-05T20:45Z (3:45pm ET Thu 11/5): reconciled -- equity positions matched ledger exactly (APP 0.116255 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market OPEN (3:45pm ET, regular hours) -- re-ran 'Quality momentum scan' (STOCK, %Change 1W close >8%, mkt cap >$2B, avg vol(10d) >500k): 173 matches. APP remained the clear #1 by 1W change (+55.7%, up slightly from +55.1% at last check), relative volume 1.39, mkt cap $90.9B, avg vol 4.94M -- next-best (RUN +33.8% relvol 0.96 mkt cap $2.1B, U +29.1% relvol 1.53, MGNI +29.0% relvol 2.65 mkt cap $3.3B) all far behind on 1W change and smaller/weaker. No clearly-stronger candidate, so HELD APP (no churn). Crypto vs prior-close/open: BTC -5.47%, ETH -7.27%, SOL -6.19%, XRP -5.58% -- continued broad selloff, no crypto momentum signal, no crypto action. Cash $0.102126 (no trade, insufficient to act on regardless), position APP 0.116255 sh. Mark-to-market: APP @ $355.715 (last trade) = $41.3636 + $0.102126 cash = sleeve value ~$41.47."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
