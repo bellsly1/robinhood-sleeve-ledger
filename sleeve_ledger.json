@@ -14,7 +14,7 @@
     ],
     "previous_report_value": 42.65,
     "previous_report_date": "2026-11-04",
-    "last_action": "2026-11-05T06:47Z (1:47am ET Thu 11/5): reconciled -- equity positions matched ledger exactly (DUOL 0.257433 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market CLOSED (1:47am ET, well outside 9:30am-4:00pm ET) -- skipped stock scanning/trading per outside-hours rule, held DUOL unchanged. Crypto vs prior-close open: BTC +0.13%, ETH +0.21%, SOL +0.19%, XRP +0.15% -- all flat/slightly positive, no breakout or standout signal; also cash $0.104418, only $0.004418 above the $0.10 buffer, too thin to fund any crypto trade regardless. No trade placed. Cash $0.104418, position DUOL 0.257433 sh. Mark-to-market: DUOL @ $161.72 (last non-reg trade) = $41.6324 + $0.104418 cash = sleeve value ~$41.74."
+    "last_action": "2026-11-05T07:46Z (2:46am ET Thu 11/5): reconciled -- equity positions matched ledger exactly (DUOL 0.257433 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market CLOSED (2:46am ET, well outside 9:30am-4:00pm ET) -- skipped stock scanning/trading per outside-hours rule, held DUOL unchanged. Crypto vs prior-close open: BTC -0.13%, ETH -0.41%, SOL -0.14%, XRP +0.32% -- all flat, no breakout or standout signal; also cash $0.104418, only $0.004418 above the $0.10 buffer, too thin to fund any crypto trade regardless. No trade placed. Cash $0.104418, position DUOL 0.257433 sh. Mark-to-market: DUOL @ $161.52 (last non-reg trade) = $41.5806 + $0.104418 cash = sleeve value ~$41.68."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
