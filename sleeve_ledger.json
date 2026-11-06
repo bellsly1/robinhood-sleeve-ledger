@@ -12,9 +12,9 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 41.47,
+    "previous_report_value": 40.85,
     "previous_report_date": "2026-11-05",
-    "last_action": "2026-11-05T22:46Z (5:46pm ET Thu 11/5): reconciled -- equity positions matched ledger exactly (APP 0.116255 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market CLOSED (5:46pm ET, after regular hours) -- skipped stock scan/trading per rules; noted current equity holding APP 0.116255 sh unchanged. Crypto vs prior-close/open: BTC -5.88%, ETH -7.95%, SOL -6.67%, XRP -6.83% -- continued broad selloff, no crypto momentum signal, no crypto action. Cash $0.102126 (no trade, insufficient to act on regardless). HELD APP. Mark-to-market: APP @ ~$355.7 (last trade, equity quote not re-pulled after-hours) = ~$41.36 + $0.102126 cash = sleeve value ~$41.47."
+    "last_action": "2026-11-06T00:46Z (7:46pm ET Thu 11/5): reconciled -- equity positions matched ledger exactly (APP 0.116255 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market CLOSED (7:46pm ET, after regular hours) -- skipped stock scan/trading per rules; noted current equity holding APP 0.116255 sh unchanged. Crypto vs prior-close/open: BTC -5.17%, ETH -7.31%, SOL -5.87%, XRP -6.66% -- continued broad selloff, no crypto momentum signal, no crypto action. Cash $0.102126 (no trade, insufficient to act on regardless). HELD APP. Mark-to-market: APP @ $350.54 (latest non-reg trade) = $40.752 + $0.102126 cash = sleeve value ~$40.85."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
