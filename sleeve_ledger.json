@@ -12,9 +12,9 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 40.83,
+    "previous_report_value": 45.54,
     "previous_report_date": "2026-11-06",
-    "last_action": "2026-11-06T13:45 ET: reconciled -- equity positions matched ledger exactly (APP 0.116255 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market OPEN (1:45pm ET) -- ran stock momentum scan (STOCK, %Chg 1W close>8%, mkt cap>$2B, avg vol(10d)>500k): 221 matches; held APP is the top result at +71.0% 1W (next-best U +40.0%), clearly still the strongest candidate -- no rotation. Crypto vs open: BTC +0.20%, ETH -0.05%, SOL +0.92%, XRP -1.42% -- no qualifying crypto momentum signal, and cash too small to act regardless. Cash $0.102126 (insufficient to trade). HELD APP. Mark-to-market: APP @ $390.815 = $45.434 + $0.102126 cash = sleeve value ~$45.54."
+    "last_action": "2026-11-06T14:46 ET: reconciled -- equity positions matched ledger exactly (APP 0.116255 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market OPEN (2:46pm ET) -- held APP up another +11.3% today (last $396.33 vs prior close $356.10), clearly still strongest momentum candidate -- no rotation attempted and cash too small to trade regardless. Crypto vs open: BTC -0.03%, ETH -0.09%, SOL +0.43%, XRP -1.67% -- no qualifying crypto momentum signal. Cash $0.102126 (insufficient to trade). HELD APP. Mark-to-market: APP @ $396.33 = $46.07 + $0.102126 cash = sleeve value ~$46.17."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
