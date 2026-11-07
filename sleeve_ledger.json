@@ -14,7 +14,7 @@
     ],
     "previous_report_value": 45.54,
     "previous_report_date": "2026-11-06",
-    "last_action": "2026-11-06T22:45Z (5:45pm ET Fri 11/6): reconciled -- equity positions matched ledger exactly (APP 0.116255 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market CLOSED (after 4pm ET) -- skipped stock scan/trading per rule. Crypto vs open: BTC +0.35%, ETH +0.39%, SOL +0.75%, XRP -2.07% -- no qualifying crypto momentum signal, and cash $0.102126 is below the tradeable buffer regardless. HELD APP (no change). APP last $391.25 vs prior close $356.10 (+9.9% today). Mark-to-market: APP @ $391.25 = $45.48 + $0.102126 cash = sleeve value ~$45.59."
+    "last_action": "2026-11-07T00:46Z (7:46pm ET Fri 11/6): reconciled -- equity positions matched ledger exactly (APP 0.116255 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market CLOSED (after 4pm ET) -- skipped stock scan/trading per rule. Crypto vs open: BTC +0.24%, ETH +0.36%, SOL +0.79%, XRP -1.95% -- no qualifying crypto momentum signal, and cash $0.102126 is below the tradeable buffer regardless. HELD APP (no change). APP last (ext hours) $390.85 vs prior close $356.10 (+9.8% today). Mark-to-market: APP @ $390.85 = $45.43 + $0.102126 cash = sleeve value ~$45.53."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
