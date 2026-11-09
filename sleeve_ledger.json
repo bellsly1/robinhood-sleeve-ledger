@@ -4,17 +4,17 @@
   "sleeve_momentum": {
     "label": "Momentum (trend-following)",
     "starting_value": 64.51,
-    "cash": 0.102126,
+    "cash": 0.102841,
     "positions": [
       {
-        "symbol": "APP",
-        "quantity": 0.116255,
+        "symbol": "TTD",
+        "quantity": 3.176153,
         "asset_class": "equity"
       }
     ],
     "previous_report_value": 45.67,
     "previous_report_date": "2026-11-09",
-    "last_action": "2026-11-09T14:45Z (9:45am ET Mon 11/9): reconciled -- equity positions matched ledger exactly (APP 0.116255 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market OPEN -- ran Quality momentum scan (STOCK, %Chg 1W close >8%, mkt cap >$2B, avg vol(10d) >500k): 16 matches (NET, BE, LITE, FERG, COHR, CIEN, FLEX, ENTG, QXO, VSAT, IMVT, TTD, WRBY, SGRY, VECO, VIR), but all had relative volume well below 1.0 except VIR (1.22, small-cap biotech, mkt cap just above the $2B floor) and SGRY (0.75) -- none a clear, volume-confirmed signal, and APP itself did not even appear in the match set (its 1-week change has cooled below the 8% threshold). Per the no-churn-on-marginal-signals rule, held APP rather than rotating into a weak/noisy candidate. Crypto vs open: BTC -0.21%, ETH -0.65%, SOL -0.06%, XRP -0.62% -- all flat/negative, no qualifying crypto momentum signal, and cash $0.102126 is far below any workable order size regardless. HELD APP (no change). APP last $404.075 vs prior close $391.22 (+3.28%). Mark-to-market: APP @ $404.075 = $46.98 + $0.102126 cash = sleeve value ~$47.08."
+    "last_action": "2026-11-09T15:46Z (10:46am ET Mon 11/9): reconciled -- equity positions matched ledger exactly (APP 0.116255 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market OPEN -- re-ran Quality momentum scan (STOCK, %Chg 1W close >8%, mkt cap >$2B, avg vol(10d) >500k): 72 matches now, vs only 16 at 9:45am -- market-wide momentum strengthened. APP itself still absent from the match set (1W change remains below threshold). Of the matches, three now show relative volume clearly >1.0 (vs none confirmed at the 9:45am check): TTD 1.33x (mkt cap $6.1B, 1W chg +14.8%, avg vol 13.4M -- liquid, well-known name), SGRY 1.46x (mkt cap $3.0B, +12.1%), VIR 1.99x (small-cap biotech, mkt cap $2.1B, +13.7%, highest spike risk). Judged this a clear, volume-confirmed rotation signal (not marginal/noisy) since APP no longer qualifies at all and multiple liquid candidates do. ROTATED: sold all APP (0.116255 sh) @ avg $405.5801 = $47.150715 proceeds; bought TTD (chosen over SGRY/VIR for better liquidity and lower idiosyncratic risk) with $47.15 -> filled 3.176153 sh @ avg $14.845. Crypto vs open: BTC +0.84%, ETH +0.24%, SOL +0.46%, XRP +0.62% -- all positive but modest, no crypto rotation (cash is sub-$1 regardless). New position: TTD 3.176153 sh, cash $0.102841. Mark-to-market: TTD @ $14.85 = $47.17 + $0.102841 cash = sleeve value ~$47.27."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
