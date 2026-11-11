@@ -27,8 +27,8 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 72.27,
+    "previous_report_value": 72.36,
     "previous_report_date": "2026-11-11",
-    "last_action": "2026-11-11T15:15Z (10:15am ET Wed 11/11): reconciled -- equity positions matched ledger exactly (BAC 1.425488 sh; TTD 3.176153 sh sleeve_momentum, untouched), zero crypto positions, no discrepancy. Market OPEN (regular hours) -- ran oversold quality stock scan (STOCK, mkt cap > $2B, avg vol(10d) > 500k, RSI<30): 45 matches (NVDA, INTC, SNDK, PBR, NOW, FTNT, DDOG, etc.) but BAC itself is NOT among them. BAC RSI(14,1d) = 42.84 (as of 11/10 close), essentially unchanged from prior check -- still not reverted (need ~55+ to take profit) and not oversold enough to add. Majors-only crypto oversold scan (BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE, RSI<30 1d/14): 0 matches, no crypto signal. No cash available to rotate regardless ($0.107). No trade placed -- HELD BAC. Cash $0.107132, position BAC 1.425488 sh. Mark-to-market using live last trade $50.625: BAC = $72.1653 + $0.107132 cash = sleeve value ~$72.27."
+    "last_action": "2026-11-11T17:16Z (12:16pm ET Wed 11/11): reconciled -- equity positions matched ledger exactly (BAC 1.425488 sh; TTD 3.176153 sh sleeve_momentum, untouched), zero crypto positions, no discrepancy. Market OPEN (regular hours) -- ran oversold quality stock scan (STOCK, mkt cap > $2B, avg vol(10d) > 500k, RSI<30): 25 matches (SNDK, AXON, DDOG, NVDA, ALNY, TEAM, FTNT, NOW, HALO, ADM, INTC, ARWR, DT, DOX, SM, FIS, IONS, HIMS, PBR, SLM, BTU, PBR.A, UGP, BULL, BTE) but BAC itself is NOT among them. BAC RSI(14,1d) = 42.84 (as of 11/10 close), unchanged from prior check -- still not reverted (need ~55+ to take profit) and not oversold enough to add. Majors-only crypto oversold scan (BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE, RSI<30 1d/14): 0 matches, no crypto signal. No cash available to rotate regardless ($0.107). No trade placed -- HELD BAC. Cash $0.107132, position BAC 1.425488 sh. Mark-to-market using live last trade $50.685: BAC = $72.2509 + $0.107132 cash = sleeve value ~$72.36."
   }
 }
