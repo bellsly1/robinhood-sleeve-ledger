@@ -14,7 +14,7 @@
     ],
     "previous_report_value": 50.84,
     "previous_report_date": "2026-11-11",
-    "last_action": "2026-11-12T00:46Z (7:46pm ET Wed 11/11): reconciled -- equity positions matched ledger exactly (TTD 3.176153 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market CLOSED (regular hours ended 4:00pm ET) -- skipped stock scan per rules, noting current holding only. Crypto vs today's open: BTC +0.44%, ETH -0.07%, SOL +1.08%, XRP +0.50% -- all modest, none exceeding TTD's existing weekly trend, and cash ($0.103) is far too small to fund any position regardless. Held TTD. No trade placed. Position unchanged: TTD 3.176153 sh, cash $0.102841. Mark-to-market using post-market last trade $15.80: TTD = $50.20 + $0.102841 cash = sleeve value ~$50.31."
+    "last_action": "2026-11-12T01:45Z (8:45pm ET Wed 11/11): reconciled -- equity positions matched ledger exactly (TTD 3.176153 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market CLOSED (regular hours ended 4:00pm ET) -- skipped stock scan per rules, noting current holding only. Crypto vs today's open: BTC -0.06%, ETH -0.60%, SOL +0.58%, XRP -0.36% -- all negligible, no clear momentum signal, and cash ($0.103) is far too small to fund any position regardless. Held TTD. No trade placed. Position unchanged: TTD 3.176153 sh, cash $0.102841. Mark-to-market using last trade $15.99: TTD = $50.7867 + $0.102841 cash = sleeve value ~$50.89."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
