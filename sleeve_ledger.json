@@ -27,8 +27,8 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 72.46,
+    "previous_report_value": 72.58,
     "previous_report_date": "2026-11-12",
-    "last_action": "2026-11-12T07:15Z (2:15am ET Thu 11/12): reconciled -- equity positions matched ledger exactly (BAC 1.425488 sh; TTD 3.176153 sh sleeve_momentum, untouched), zero crypto positions, no discrepancy. Market CLOSED (regular hours ended 4:00pm ET) -- skipped stock scan per rules, noting current holding only. BAC RSI(14,1d) = 42.84, not yet reverted above ~55 -- held. Majors-only crypto oversold scan (BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE, RSI<30 1d/14): 0 matches, no crypto signal. No trade placed -- HELD BAC. Cash $0.107132, position BAC 1.425488 sh. Mark-to-market using non-reg last trade $50.76: BAC = $72.3578 + $0.107132 cash = sleeve value ~$72.46."
+    "last_action": "2026-11-12T09:15Z (4:15am ET Thu 11/12): reconciled -- equity positions matched ledger exactly (BAC 1.425488 sh; TTD 3.176153 sh sleeve_momentum, untouched), zero crypto positions, no discrepancy. Market CLOSED (pre-market, opens 9:30am ET) -- skipped stock scan per rules, noting current holding only. BAC RSI(14,1d) = 43.03, not yet reverted above ~55 -- held. Majors-only crypto oversold scan (BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE, RSI<30 1d/14): 0 matches, no crypto signal. No trade placed -- HELD BAC. Cash $0.107132, position BAC 1.425488 sh. Mark-to-market using non-reg last trade $50.84: BAC = $72.4718 + $0.107132 cash = sleeve value ~$72.58."
   }
 }
