@@ -4,17 +4,17 @@
   "sleeve_momentum": {
     "label": "Momentum (trend-following)",
     "starting_value": 64.51,
-    "cash": 0.102841,
+    "cash": 0.100541,
     "positions": [
       {
-        "symbol": "TTD",
-        "quantity": 3.176153,
+        "symbol": "AMD",
+        "quantity": 0.084456,
         "asset_class": "equity"
       }
     ],
     "previous_report_value": 49.49,
     "previous_report_date": "2026-11-12",
-    "last_action": "2026-11-12T18:46Z (1:46pm ET Thu 11/12): reconciled -- equity positions matched ledger exactly (TTD 3.176153 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market OPEN -- re-ran stock momentum scan (STOCK, %Chg 1W close > 8%, mkt cap > $2B, avg vol(10d) > 500k): 228 matches. TTD still qualifies comfortably (1W chg +21.3%, mkt cap $7.56B, avg vol(10d) 29.7M) though its own relative volume remains thin (0.24). Candidates clearing the relvol > 1.0 preference this hour -- MBGL (1W +18.5%, relvol 1.28), FIGR (+15.4%/1.31), INGM (+15.2%/1.37), CHA (+9.3%/4.36), ATI (+9.0%/1.32), BSBR (+8.3%/1.93), HUBS (+8.5%/1.49) -- all with smaller 1W gains than TTD's own +21.3%, so none cleared a clearly-stronger bar. Per the no-churn rule, held TTD. Crypto vs today's open: BTC -2.68%, ETH -1.72%, SOL -1.82%, XRP -1.59% -- all negative, no momentum signal. No trade placed. Position unchanged: TTD 3.176153 sh, cash $0.102841. Mark-to-market at last trade $15.665: TTD = $49.7545 + $0.102841 cash = sleeve value ~$49.86."
+    "last_action": "2026-11-12T19:48Z (2:48pm ET Thu 11/12): reconciled -- equity positions matched ledger exactly (TTD 3.176153 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market OPEN -- re-ran stock momentum scan (STOCK, %Chg 1W close > 8%, mkt cap > $2B, avg vol(10d) > 500k): 225 matches. TTD still technically qualified (1W chg +20.6%, mkt cap $7.56B, avg vol 29.7M) but its relative volume remained thin (0.29). Narrowed to the relvol > 1.0 subset (15 names): AMD stood out clearly -- 1W chg +30.4% (vs TTD's +20.6%, a real gap not noise), relvol 1.03 (genuine volume confirmation), mega-cap/highly liquid ($907B mkt cap, 44M avg vol). All other relvol>1.0 candidates (DPC +18.0%, MBGL +16.8%, INGM +14.0%, FIGR +14.3%, HTFL +13.8%, etc.) were weaker than TTD's own momentum, so only AMD cleared the clearly-stronger bar. ROTATED: sold TTD 3.176153 sh @ avg $15.5901 = $49.5177 proceeds; bought AMD $49.52 notional @ avg $586.3391 = 0.084456 sh. Crypto vs today's open: BTC -2.89%, ETH -1.81%, SOL -1.82%, XRP -1.28% -- all negative, no signal, not used (equity rotation covered by stock scan). New position: AMD 0.084456 sh, cash $0.100541. Mark-to-market at fill price: AMD = $49.52 + $0.100541 cash = sleeve value ~$49.62."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
