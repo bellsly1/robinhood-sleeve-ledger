@@ -12,9 +12,9 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 50.41,
+    "previous_report_value": 49.49,
     "previous_report_date": "2026-11-12",
-    "last_action": "2026-11-12T13:45Z (8:45am ET Thu 11/12): reconciled -- equity positions matched ledger exactly (TTD 3.176153 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market CLOSED (pre-market, opens 9:30am ET) -- skipped stock scan per rules, noting current holding only. Crypto vs today's open: BTC -1.57%, ETH -1.88%, SOL -1.85%, XRP -0.97% -- all negative, no momentum signal, and cash ($0.103) is far too small to fund any position regardless. Held TTD. No trade placed. Position unchanged: TTD 3.176153 sh, cash $0.102841. Mark-to-market using most recent (non-reg) trade $15.90: TTD = $50.5008 + $0.102841 cash = sleeve value ~$50.60."
+    "last_action": "2026-11-12T14:45Z (9:45am ET Thu 11/12): reconciled -- equity positions matched ledger exactly (TTD 3.176153 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market OPEN (15 min post-open) -- ran stock momentum scan (STOCK, %Chg 1W close > 8%, mkt cap > $2B, avg vol(10d) > 500k): 215 matches. TTD itself qualifies comfortably (1W chg +20.3%, mkt cap $7.56B, avg vol 29.7M) and still held an unrealized gain. Top relative-volume names (AMD +27.0% 1W/relvol 0.31, AVGO +23.4%/0.29) were only marginally more active than TTD (relvol 0.035) -- and every candidate's relative volume was well under 1.0 this early in the session (max 0.39 seen), so none of today's readings are reliable momentum signals yet, just noise from a thin opening window. Per the no-churn rule, held TTD rather than rotate on a marginal/noisy difference. Crypto vs today's open: BTC -2.67%, ETH -2.32%, SOL -2.33%, XRP -1.69% -- all negative, no momentum signal. No trade placed. Position unchanged: TTD 3.176153 sh, cash $0.102841. Mark-to-market at last trade $15.55: TTD = $49.3892 + $0.102841 cash = sleeve value ~$49.49."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
