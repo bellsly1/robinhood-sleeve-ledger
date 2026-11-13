@@ -27,8 +27,8 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 72.19,
-    "previous_report_date": "2026-11-12",
-    "last_action": "2026-11-12T14:16Z (9:16am ET Thu 11/12): reconciled -- equity positions matched ledger exactly (BAC 1.425488 sh; TTD 3.176153 sh sleeve_momentum, untouched), zero crypto positions, no discrepancy. Market CLOSED (pre-market, opens 9:30am ET) -- skipped stock scan per rules, noting current holding only. BAC RSI(14,1d) = 42.79, not yet reverted above ~55 -- held. Majors-only crypto oversold scan (BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE, RSI<30 1d/14): 0 matches, no crypto signal. No trade placed -- HELD BAC. Cash $0.107132, position BAC 1.425488 sh. Mark-to-market using non-reg last trade $50.57: BAC = $72.0869 + $0.107132 cash = sleeve value ~$72.19."
+    "previous_report_value": 72.39,
+    "previous_report_date": "2026-11-13",
+    "last_action": "2026-11-13T16:15Z (11:15am ET Fri 11/13): reconciled -- equity positions matched ledger exactly (BAC 1.425488 sh; MOD 0.334529 sh sleeve_momentum, untouched), zero crypto positions, no discrepancy. Market OPEN (regular hours) -- ran stock oversold scan (STOCK, mkt cap > $2B, avg vol(10d) > 500k, RSI(14,1d) < 30): 29 matches (ZBRA, FFIV, AXON, ALNY, NVDA, TEAM, LOPE, HALO, NOW, NICE, CORT, HWC, VIST, ARWR, DOX, DT, YPF, CLMT, GGAL, IONS, PBR, SLM, PBR.A, BZ, STWD, CTVA, UGP, IEP, BBD), none held. BAC RSI(14,1d) = 41.93, not yet reverted above ~55 -- held, no rotation (near-zero cash, no signal to act on anyway). Majors-only crypto oversold scan (BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE, RSI<30 1d/14): 0 matches, no crypto signal. No trade placed -- HELD BAC. Cash $0.107132, position BAC 1.425488 sh. Mark-to-market @ $50.705: BAC = $72.2816 + $0.107132 cash = sleeve value ~$72.39."
   }
 }
