@@ -27,8 +27,8 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 72.39,
+    "previous_report_value": 72.24,
     "previous_report_date": "2026-11-13",
-    "last_action": "2026-11-13T17:16Z (12:16pm ET Fri 11/13): reconciled -- equity positions matched ledger exactly (BAC 1.425488 sh; MOD 0.334529 sh sleeve_momentum, untouched), zero crypto positions, no discrepancy. Market OPEN (regular hours) -- re-ran stock oversold scan (STOCK, mkt cap > $2B, avg vol(10d) > 500k, RSI(14,1d) < 30): 29 matches (NVDA, PBR, PBR.A, NOW, TEAM, BBD, AXON, ALNY, FFIV, ZBRA, YPF, DT, HALO, CORT, BZ, ARWR, CTVA, VIST, UGP, NICE, HWC, GGAL, DOX, IONS, STWD, IEP, CLMT, SLM, LOPE), none held. BAC RSI(14,1d) = 41.93 (unchanged from last close), not yet reverted above ~55 -- held, no rotation (near-zero cash, no signal to act on anyway). Majors-only crypto oversold scan (BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE, RSI<30 1d/14): 0 matches, no crypto signal. No trade placed -- HELD BAC. Cash $0.107132, position BAC 1.425488 sh. Mark-to-market @ $50.675: BAC = $72.2178 + $0.107132 cash = sleeve value ~$72.32."
+    "last_action": "2026-11-13T18:16Z (1:16pm ET Fri 11/13): reconciled -- equity positions matched ledger exactly (BAC 1.425488 sh; MOD 0.334529 sh sleeve_momentum, untouched), zero crypto positions, no discrepancy. Market OPEN (regular hours) -- re-ran stock oversold scan (STOCK, mkt cap > $2B, avg vol(10d) > 500k, RSI(14,1d) < 30): 29 matches (NVDA, PBR, PBR.A, NOW, TEAM, BBD, AXON, ALNY, FFIV, ZBRA, YPF, DT, HALO, CORT, BZ, ARWR, CTVA, VIST, UGP, NICE, HWC, GGAL, DOX, IONS, STWD, IEP, CLMT, SLM, LOPE), none held. BAC RSI(14,1d) = 41.93 (unchanged from an hour ago), not yet reverted above ~55 -- held, no rotation (near-zero cash, no signal to act on anyway). Majors-only crypto oversold scan (BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE, RSI<30 1d/14): 0 matches, no crypto signal. No trade placed -- HELD BAC. Cash $0.107132, position BAC 1.425488 sh. Mark-to-market @ $50.605: BAC = $72.1364 + $0.107132 cash = sleeve value ~$72.24."
   }
 }
