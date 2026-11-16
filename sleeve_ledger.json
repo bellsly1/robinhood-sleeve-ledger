@@ -14,7 +14,7 @@
     ],
     "previous_report_value": 45.27,
     "previous_report_date": "2026-11-15",
-    "last_action": "2026-11-16T11:45Z (6:45am ET Mon 11/16): reconciled -- equity positions matched ledger exactly (MOD 0.334529 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market CLOSED (pre-market, outside regular hours) -- per rules, skipped stock scanning/trading this run; held current MOD 0.334529 sh position. Crypto vs today open: BTC -0.40%, ETH -0.56%, SOL -0.08%, XRP -0.14% -- broad mild negative drift, no clear rotation signal, and cash ($0.106308) is de minimis regardless (sub-10-cent after safety buffer). No trade placed. Cash $0.106308, position MOD 0.334529 sh (mark $130.70 non-reg last trade -> ~$43.72 + cash = ~$43.83 sleeve value)."
+    "last_action": "2026-11-16T12:46Z (7:46am ET Mon 11/16): reconciled -- equity positions matched ledger exactly (MOD 0.334529 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market CLOSED (pre-market, outside regular hours) -- per rules, skipped stock scanning/trading this run; held current MOD 0.334529 sh position. Crypto vs today open: BTC -0.86%, ETH -1.06%, SOL -1.07%, XRP -0.91% -- broad negative drift across majors, no rotation signal, and cash ($0.106308) is de minimis regardless (sub-10-cent after safety buffer). No trade placed. Cash $0.106308, position MOD 0.334529 sh (mark $130.00 non-reg last trade -> ~$43.49 + cash = ~$43.60 sleeve value)."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
