@@ -14,7 +14,7 @@
     ],
     "previous_report_value": 44.25,
     "previous_report_date": "2026-11-17",
-    "last_action": "2026-11-17T12:46Z (7:46am ET Tue 11/17): reconciled -- equity positions matched ledger exactly (TU 4.605565 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market CLOSED (pre-open, regular hours start 9:30am ET) -- skipped stock scan/trading per rule. Crypto majors vs today's open mixed and small (BTC -0.14%, ETH -0.70%, SOL +1.02%, XRP +0.48%) -- no clear rotation signal, and cash ($0.107515) is negligible regardless. No trade placed. Held TU. Cash $0.107515 (unchanged), position TU 4.605565 sh (pre-market $9.64 -> ~$44.40 + cash = ~$44.50 sleeve value)."
+    "last_action": "2026-11-17T14:46Z (9:46am ET Tue 11/17): reconciled -- equity positions matched ledger exactly (TU 4.605565 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market OPEN (regular hours). Momentum scan (STOCK, %Chg 1W close >8%, mkt cap >$2B, avg vol(10d) >500k) returned 3 matches: TU (+11.14% 1W, relvol 0.17, held), ACM (+14.55% 1W, relvol 0.24), MOH (+8.78% 1W, relvol 0.08) -- none has relvol >1.0, and TU still qualifies with a similarly weak relvol, so the gap to ACM is marginal/noisy, not a clear edge; held TU to avoid churn. Crypto majors vs today's open small/mixed (BTC -0.03%, ETH -0.97%, SOL +1.18%, XRP +0.70%) -- no rotation signal, cash ($0.107515) negligible regardless. No trade placed. Cash $0.107515 (unchanged), position TU 4.605565 sh (@ $9.48 -> ~$43.66 + cash = ~$43.77 sleeve value)."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
