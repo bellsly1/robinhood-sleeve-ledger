@@ -4,17 +4,17 @@
   "sleeve_momentum": {
     "label": "Momentum (trend-following)",
     "starting_value": 64.51,
-    "cash": 0.107515,
+    "cash": 0.101083,
     "positions": [
       {
-        "symbol": "TU",
-        "quantity": 4.605565,
+        "symbol": "BILL",
+        "quantity": 0.723654,
         "asset_class": "equity"
       }
     ],
     "previous_report_value": 44.25,
     "previous_report_date": "2026-11-17",
-    "last_action": "2026-11-17T14:46Z (9:46am ET Tue 11/17): reconciled -- equity positions matched ledger exactly (TU 4.605565 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market OPEN (regular hours). Momentum scan (STOCK, %Chg 1W close >8%, mkt cap >$2B, avg vol(10d) >500k) returned 3 matches: TU (+11.14% 1W, relvol 0.17, held), ACM (+14.55% 1W, relvol 0.24), MOH (+8.78% 1W, relvol 0.08) -- none has relvol >1.0, and TU still qualifies with a similarly weak relvol, so the gap to ACM is marginal/noisy, not a clear edge; held TU to avoid churn. Crypto majors vs today's open small/mixed (BTC -0.03%, ETH -0.97%, SOL +1.18%, XRP +0.70%) -- no rotation signal, cash ($0.107515) negligible regardless. No trade placed. Cash $0.107515 (unchanged), position TU 4.605565 sh (@ $9.48 -> ~$43.66 + cash = ~$43.77 sleeve value)."
+    "last_action": "2026-11-17T16:47Z (11:47am ET Tue 11/17): reconciled -- equity positions matched ledger exactly before trading (TU 4.605565 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market OPEN (regular hours). Momentum scan (STOCK, %Chg 1W close >8%, mkt cap >$2B, avg vol(10d) >500k) returned 5 matches: MOH (+9.10% 1W, relvol 0.16), ACM (+15.86% 1W, relvol 0.54), TSN (+9.02% 1W, relvol 0.14), BILL (+12.53% 1W, relvol 1.21), TU (+13.01% 1W, relvol 0.22, held). BILL was the first candidate since this sleeve started with relative volume >1.0 (the preferred threshold), vs TU's weak 0.22 -- a real strength signal, not marginal noise, so rotated out of TU into BILL. Sold TU 4.605565 sh @ $9.625 avg = $44.353568; bought BILL $44.36 notional @ $61.30 avg = 0.723654 sh. Crypto majors vs today's open all down (BTC -2.00%, ETH -3.16%, SOL -1.27%, XRP -1.03%) -- no crypto momentum signal. Cash $0.101083, position BILL 0.723654 sh (@ $61.30 -> ~$44.36 + cash = ~$44.46 sleeve value)."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
