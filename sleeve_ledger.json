@@ -14,7 +14,7 @@
     ],
     "previous_report_value": 43.93,
     "previous_report_date": "2026-11-16",
-    "last_action": "2026-11-17T00:46Z (7:46pm ET Mon 11/16): reconciled -- equity positions matched ledger exactly (TU 4.605565 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market CLOSED (regular hours ended 4:00pm ET) -- skipped stock scan/trading per rule. Crypto majors vs today's open were flat-to-slightly-down (BTC -0.32%, ETH -0.24%, SOL -0.16%, XRP -0.68%) -- no rotation signal, and cash ($0.107515) is negligible regardless. No trade placed. Held TU. Cash $0.107515 (unchanged), position TU 4.605565 sh (mark $9.50 post-market -> ~$43.75 + cash = ~$43.86 sleeve value)."
+    "last_action": "2026-11-17T02:45Z (9:45pm ET Mon 11/16): reconciled -- equity positions matched ledger exactly (TU 4.605565 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market CLOSED (regular hours ended 4:00pm ET) -- skipped stock scan/trading per rule. Crypto majors vs today's open were flat (BTC -0.41%, ETH -0.10%, SOL +0.25%, XRP -0.19%) -- no rotation signal, and cash ($0.107515) is negligible regardless. No trade placed. Held TU. Cash $0.107515 (unchanged), position TU 4.605565 sh (last trade $9.57 post-market -> ~$44.08 + cash = ~$44.18 sleeve value)."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
