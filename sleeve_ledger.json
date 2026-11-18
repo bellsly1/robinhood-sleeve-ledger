@@ -27,8 +27,8 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 71.22,
-    "previous_report_date": "2026-11-17",
-    "last_action": "2026-11-17T15:16Z (10:16am ET Tue 11/17): reconciled -- equity positions matched ledger exactly (BAC 1.425488 sh; TU 4.605565 sh sleeve_momentum, untouched), zero crypto positions, no discrepancy. Market OPEN (regular hours). Oversold-stock scan (STOCK, mkt cap >$2B, avg vol(10d) >500k, RSI14 1d <30): 45 matches (e.g. NVDA 22.7, INTC 29.9, BABA 29.8, HOOD 29.0) -- BAC not among them (RSI 40.48, already recovering from oversold, not a new-entry candidate anyway since already held). BAC RSI(14,1d) = 40.48, below the ~55 take-profit/reversion threshold, so reversion not yet complete. Majors-only crypto oversold scan (BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE, RSI<30 1d/14): 0 matches, no crypto signal. No trade placed -- HELD BAC per low-turnover rule. Cash $0.107132, position BAC 1.425488 sh @ $49.885 = $71.11 + cash = sleeve value ~$71.22."
+    "previous_report_value": 70.81,
+    "previous_report_date": "2026-11-18",
+    "last_action": "2026-11-18T05:15Z (12:15am ET Wed 11/18): reconciled -- equity positions matched ledger exactly (BAC 1.425488 sh; BILL 0.723654 sh sleeve_momentum, untouched), zero crypto positions, no discrepancy. Market CLOSED (regular hours ended 4:00pm ET) -- stock scan/RSI check skipped per rules, held position noted only, no stock trading possible. Majors-only crypto oversold scan (BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE, RSI<30 1d/14): 0 matches, no crypto signal. No trade placed -- HELD BAC per low-turnover rule (reversion not yet confirmed as of last regular-hours check, RSI 40.48). Cash $0.107132, position BAC 1.425488 sh (after-hours last $49.60) = $70.70 + cash = sleeve value ~$70.81."
   }
 }
