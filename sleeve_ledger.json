@@ -12,9 +12,9 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 47.38,
-    "previous_report_date": "2026-11-18T17:46Z",
-    "last_action": "2026-11-18T17:46Z (12:46pm ET Wed 11/18): reconciled -- equity positions matched ledger exactly (BILL 0.723654 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market OPEN (regular hours). Momentum scan (STOCK, %chg 1W close>8%, mkt cap>$2B, avg vol(10d)>500k): 18 candidates. BILL itself ranked #2 by 1W momentum (+20.0%, rel vol 0.58), behind only SLS (+155.9%, rel vol 1.32, erratic/low-quality biotech mover, not clearly superior given its noise/risk profile) -- no candidate clearly stronger than current holding, so held BILL per low-turnover rule. Crypto majors vs today's open: BTC -1.91%, ETH -1.77%, SOL -1.71%, XRP -0.02% -- no momentum signal; cash ($0.10) immaterial regardless. No trade. Cash $0.101083, position BILL 0.723654 sh (last $65.34 -> ~$47.28 + cash = ~$47.38 sleeve value)."
+    "previous_report_value": 47.82,
+    "previous_report_date": "2026-11-18T18:46Z",
+    "last_action": "2026-11-18T18:46Z (1:46pm ET Wed 11/18): reconciled -- equity positions matched ledger exactly (BILL 0.723654 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market OPEN (regular hours). Momentum scan (STOCK, %chg 1W close>8%, mkt cap>$2B, avg vol(10d)>500k): 19 candidates. BILL itself was top by 1W momentum (+21.04%, rel vol 0.17) among non-erratic names; best rel-vol>1 candidates (ATEN +13.04%/rel vol 1.07, AKAM +8.65%/rel vol 1.16, GNRC +8.4%/rel vol 1.06) all had weaker 1W momentum than BILL; SLS (+143.3%, rel vol 0.22, erratic/low-quality biotech mover) again not clearly superior given noise/risk -- no candidate clearly stronger, held BILL per low-turnover rule. Crypto majors vs today's open: BTC -1.81%, ETH -1.72%, SOL -1.29%, XRP +0.08% -- no momentum signal; cash ($0.10) immaterial regardless. No trade. Cash $0.101083, position BILL 0.723654 sh (last $65.945 -> ~$47.72 + cash = ~$47.82 sleeve value)."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
