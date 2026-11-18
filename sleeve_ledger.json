@@ -14,7 +14,7 @@
     ],
     "previous_report_value": 44.25,
     "previous_report_date": "2026-11-17",
-    "last_action": "2026-11-17T23:45Z (6:45pm ET Tue 11/17): reconciled -- equity positions matched ledger exactly (BILL 0.723654 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market CLOSED (regular hours ended 4:00pm ET) -- stock scan skipped per rules, noting current holding only. Crypto majors vs today's open: BTC -0.16%, ETH -0.61%, SOL +2.63%, XRP +1.82% -- SOL/XRP up but not clearly stronger than holding BILL, and cash ($0.10) is insufficient to act regardless (selling BILL to fund a rotation requires market hours). Held BILL, no rotation, no trade. Cash $0.101083, position BILL 0.723654 sh (after-hours $65.20 -> ~$47.20 + cash = ~$47.30 sleeve value)."
+    "last_action": "2026-11-18T01:45Z (8:45pm ET Tue 11/17): reconciled -- equity positions matched ledger exactly (BILL 0.723654 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market CLOSED (regular hours ended 4:00pm ET) -- stock scan skipped per rules, noting current holding only. Crypto majors vs today's open: BTC -0.86%, ETH -1.40%, SOL +2.03%, XRP +0.90% -- none clearly stronger than holding BILL, and cash ($0.10) is far too small to fund any rotation regardless. Held BILL, no rotation, no trade. Cash $0.101083, position BILL 0.723654 sh (after-hours last $65.09 -> ~$47.10 + cash = ~$47.20 sleeve value)."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
