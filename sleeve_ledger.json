@@ -12,9 +12,9 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 47.78,
-    "previous_report_date": "2026-11-18T16:46Z",
-    "last_action": "2026-11-18T16:46Z (11:46am ET Wed 11/18): reconciled -- equity positions matched ledger exactly (BILL 0.723654 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market OPEN (regular hours). Momentum scan (STOCK, %chg 1W close>8%, mkt cap>$2B, avg vol(10d)>500k): 16 candidates. BILL itself ranked #2 by 1W momentum (+20.9%), behind only SLS (+160.6%, erratic/low relative-volume biotech mover, not clearly superior given its noise/risk profile) -- no candidate clearly stronger than current holding, so held BILL per low-turnover rule. Crypto majors vs today's open: BTC -2.99%, ETH -3.52%, SOL -3.10%, XRP -1.33% -- no momentum signal; cash ($0.10) immaterial regardless. No trade. Cash $0.101083, position BILL 0.723654 sh (last $65.885 -> ~$47.68 + cash = ~$47.78 sleeve value)."
+    "previous_report_value": 47.38,
+    "previous_report_date": "2026-11-18T17:46Z",
+    "last_action": "2026-11-18T17:46Z (12:46pm ET Wed 11/18): reconciled -- equity positions matched ledger exactly (BILL 0.723654 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market OPEN (regular hours). Momentum scan (STOCK, %chg 1W close>8%, mkt cap>$2B, avg vol(10d)>500k): 18 candidates. BILL itself ranked #2 by 1W momentum (+20.0%, rel vol 0.58), behind only SLS (+155.9%, rel vol 1.32, erratic/low-quality biotech mover, not clearly superior given its noise/risk profile) -- no candidate clearly stronger than current holding, so held BILL per low-turnover rule. Crypto majors vs today's open: BTC -1.91%, ETH -1.77%, SOL -1.71%, XRP -0.02% -- no momentum signal; cash ($0.10) immaterial regardless. No trade. Cash $0.101083, position BILL 0.723654 sh (last $65.34 -> ~$47.28 + cash = ~$47.38 sleeve value)."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
