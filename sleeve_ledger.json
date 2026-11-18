@@ -12,9 +12,9 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 47.47,
-    "previous_report_date": "2026-11-18T19:46Z",
-    "last_action": "2026-11-18T19:46Z (2:46pm ET Wed 11/18): reconciled -- equity positions matched ledger exactly (BILL 0.723654 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market OPEN (regular hours). Momentum scan (STOCK, %chg 1W close>8%, mkt cap>$2B, avg vol(10d)>500k): 15 candidates. BILL itself was top by 1W momentum (+20.04%, rel vol 0.20); best rel-vol>1 candidate ATEN (+13.74%, rel vol 1.38) had weaker 1W momentum than BILL; SLS (+139.6%, rel vol 0.24, erratic/low-quality biotech mover, down -1.66% today) again not clearly superior given noise/risk -- no candidate clearly stronger, held BILL per low-turnover rule. Crypto majors vs today's open: BTC -2.74%, ETH -2.67%, SOL -2.42%, XRP -1.19% -- all negative, no momentum signal; cash ($0.10) immaterial regardless. No trade. Cash $0.101083, position BILL 0.723654 sh (last $65.46 -> ~$47.37 + cash = ~$47.47 sleeve value)."
+    "previous_report_value": 47.88,
+    "previous_report_date": "2026-11-18T20:46Z",
+    "last_action": "2026-11-18T20:46Z (3:46pm ET Wed 11/18): reconciled -- equity positions matched ledger exactly (BILL 0.723654 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market OPEN (regular hours). Momentum scan (STOCK, %chg 1W close>8%, mkt cap>$2B, avg vol(10d)>500k): 16 candidates. BILL itself was top-tier by 1W momentum (+21.19%, rel vol 0.25); SLS (+134.35%, rel vol 0.27, erratic/low-quality biotech mover, down -3.81% today) again excluded as noise given weak volume confirmation; best rel-vol>1 candidates (ATEN +13.15% rel vol 1.77, CAKE +10.24% rel vol 1.30, TENB +9.84% rel vol 1.07, IBRX +11.30% rel vol 1.10, SAIL +8.42% rel vol 1.07) all had weaker 1W momentum than BILL -- no candidate clearly stronger, held BILL per low-turnover rule. Crypto majors vs today's open: BTC -2.92%, ETH -2.92%, SOL -2.52%, XRP -1.27% -- all negative, no momentum signal; cash ($0.10) immaterial regardless. No trade. Cash $0.101083, position BILL 0.723654 sh (last $66.025 -> ~$47.78 + cash = ~$47.88 sleeve value)."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
