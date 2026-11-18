@@ -12,9 +12,9 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 47.20,
-    "previous_report_date": "2026-11-18T07:46Z",
-    "last_action": "2026-11-18T07:46Z (2:46am ET Wed 11/18): reconciled -- equity positions matched ledger exactly (BILL 0.723654 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market CLOSED (pre-market, well before 9:30am ET open) -- stock scan skipped per rules, noting current holding only. Crypto majors vs today's open: BTC +0.32%, ETH +0.40%, SOL -0.01%, XRP +1.46% -- no clean/strong momentum signal, and cash ($0.10) is far too small to fund any rotation regardless. Held BILL, no rotation, no trade. Cash $0.101083, position BILL 0.723654 sh (last non-reg trade $65.09 -> ~$47.10 + cash = ~$47.20 sleeve value)."
+    "previous_report_value": 47.00,
+    "previous_report_date": "2026-11-18T12:46Z",
+    "last_action": "2026-11-18T12:46Z (7:46am ET Wed 11/18): reconciled -- equity positions matched ledger exactly (BILL 0.723654 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market CLOSED (pre-market, before 9:30am ET open) -- stock scan skipped per rules, noting current holding only. Crypto majors vs today's open: BTC -0.47%, ETH -0.51%, SOL -0.83%, XRP +0.11% -- no clean/strong momentum signal, and cash ($0.10) is far too small to fund any rotation regardless. Held BILL, no rotation, no trade. Cash $0.101083, position BILL 0.723654 sh (last non-reg trade $64.80 -> ~$46.90 + cash = ~$47.00 sleeve value)."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
