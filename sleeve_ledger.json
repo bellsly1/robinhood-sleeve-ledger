@@ -12,9 +12,9 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 47.61,
-    "previous_report_date": "2026-11-19T13:45Z",
-    "last_action": "2026-11-19T13:45Z (8:45am ET Thu 11/19): reconciled -- equity positions matched ledger exactly (BILL 0.723654 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market CLOSED (pre-market, opens 9:30am ET) -- skipped stock momentum scan/trading per rule, just noted current equity holdings. Crypto majors vs today's open: BTC +0.28%, ETH +0.36%, SOL +0.51%, XRP +1.34% -- mild positive but noisy/no clear outlier, and cash ($0.101083) is below any workable order size after the $0.10 safety buffer anyway, so no crypto trade possible regardless of signal. Held BILL (no rotation possible with market closed + no spendable cash). No trade. Cash $0.101083, position BILL 0.723654 sh (pre-market last $65.65 -> ~$47.51 + cash = ~$47.61 sleeve value)."
+    "previous_report_value": 47.74,
+    "previous_report_date": "2026-11-19T14:46Z",
+    "last_action": "2026-11-19T14:46Z (9:46am ET Thu 11/19): reconciled -- equity positions matched ledger exactly (BILL 0.723654 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market OPEN (regular hours). Ran momentum scan (STOCK, %Chg 1W close > 8%, mkt cap > $2B, avg vol(10d) > 500k): 31 matches. BILL itself qualifies strongly (1W chg +21.1%, mkt cap $5.67B, avg vol 2.68M) despite low relative volume (0.056). No candidate was clearly stronger net of relative-volume/risk (only PDD had rel vol > 1.0 at 1.09, but its 1W chg +9.6% is far weaker than BILL's own +21.1%; SLS showed +96.9% 1W but was down -13.8% intraday, a blow-off/reversal risk) -- held BILL to avoid churning on a marginal/riskier swap. Crypto majors vs today's open: BTC +0.62%, ETH +0.46%, SOL +0.97%, XRP +1.60% -- mild positive, no outlier signal, and cash ($0.101083) is below any workable order size after the $0.10 safety buffer anyway. No trade. Cash $0.101083, position BILL 0.723654 sh (last $65.835 -> ~$47.64 + cash = ~$47.74 sleeve value)."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
