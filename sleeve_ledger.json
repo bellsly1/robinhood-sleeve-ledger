@@ -12,9 +12,9 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 49.58,
-    "previous_report_date": "2026-11-19T19:46Z",
-    "last_action": "2026-11-19T19:46Z (2:46pm ET Thu 11/19): reconciled -- equity positions matched ledger exactly (INSM 0.342444 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market OPEN (regular hours). Ran momentum scan (STOCK, %Chg 1W close > 8%, mkt cap > $2B, avg vol(10d) > 500k): 22 matches. Held INSM still qualified (1W chg +19.23%, up +20.59% today) and remained clearly the strongest: relative volume 5.82, by far the highest of all 22 matches (next best PDD 3.20, TU 1.20) -- no clearly stronger candidate to rotate into. Held, no trade. Crypto majors vs today's open: BTC -1.52%, ETH -1.35%, SOL -1.14%, XRP -0.80% -- broadly negative, no buy signal, cash near-zero regardless. Cash $0.104156, position INSM 0.342444 sh (last $144.465 -> ~$49.47 + cash = ~$49.58 sleeve value)."
+    "previous_report_value": 49.6524,
+    "previous_report_date": "2026-11-19T20:46Z",
+    "last_action": "2026-11-19T20:46Z (3:46pm ET Thu 11/19): reconciled -- equity positions matched ledger exactly (INSM 0.342444 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market OPEN (regular hours). Ran momentum scan (STOCK, %Chg 1W close > 8%, mkt cap > $2B, avg vol(10d) > 500k): 19 matches. Held INSM still qualified (1W chg +19.39%, up +20.74% today) and remained clearly the strongest: relative volume 6.44, by far the highest of all 19 matches (next best PDD 3.54, TU 1.43) -- no clearly stronger candidate to rotate into. Held, no trade. Crypto majors vs today's open: BTC -2.29%, ETH -2.08%, SOL -2.17%, XRP -1.30% -- broadly negative, no buy signal, cash near-zero regardless. Cash $0.104156, position INSM 0.342444 sh (last $144.69 -> ~$49.55 + cash = ~$49.65 sleeve value)."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
