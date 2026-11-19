@@ -12,9 +12,9 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 47.88,
-    "previous_report_date": "2026-11-18T20:46Z",
-    "last_action": "2026-11-18T20:46Z (3:46pm ET Wed 11/18): reconciled -- equity positions matched ledger exactly (BILL 0.723654 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market OPEN (regular hours). Momentum scan (STOCK, %chg 1W close>8%, mkt cap>$2B, avg vol(10d)>500k): 16 candidates. BILL itself was top-tier by 1W momentum (+21.19%, rel vol 0.25); SLS (+134.35%, rel vol 0.27, erratic/low-quality biotech mover, down -3.81% today) again excluded as noise given weak volume confirmation; best rel-vol>1 candidates (ATEN +13.15% rel vol 1.77, CAKE +10.24% rel vol 1.30, TENB +9.84% rel vol 1.07, IBRX +11.30% rel vol 1.10, SAIL +8.42% rel vol 1.07) all had weaker 1W momentum than BILL -- no candidate clearly stronger, held BILL per low-turnover rule. Crypto majors vs today's open: BTC -2.92%, ETH -2.92%, SOL -2.52%, XRP -1.27% -- all negative, no momentum signal; cash ($0.10) immaterial regardless. No trade. Cash $0.101083, position BILL 0.723654 sh (last $66.025 -> ~$47.78 + cash = ~$47.88 sleeve value)."
+    "previous_report_value": 48.06,
+    "previous_report_date": "2026-11-19T02:18Z",
+    "last_action": "2026-11-19T02:18Z (9:18pm ET Wed 11/18): reconciled -- equity positions matched ledger exactly (BILL 0.723654 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market CLOSED (after regular hours, ~9:18pm ET) -- skipped stock momentum scan/trading per rule, just noted current equity holdings. Crypto majors vs today's open: BTC -2.73%, ETH -1.85%, SOL -2.27%, XRP -1.90% -- all negative, no momentum signal; cash ($0.10) immaterial regardless. Held BILL (no scan/rotation possible with market closed). No trade. Cash $0.101083, position BILL 0.723654 sh (last/after-hours $66.27 -> ~$47.96 + cash = ~$48.06 sleeve value)."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
