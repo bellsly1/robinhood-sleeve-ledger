@@ -27,8 +27,8 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 70.08,
-    "previous_report_date": "2026-11-19T07:16Z",
-    "last_action": "2026-11-19T07:16Z (2:16am ET Thu 11/19): reconciled -- equity positions matched ledger exactly (BAC 1.425488 sh; BILL 0.723654 sh sleeve_momentum, untouched), zero crypto positions, no discrepancy. Market CLOSED (pre-market overnight) -- skipped stock oversold scan/trading per rule. Majors-only crypto oversold scan (BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE, RSI<30 1d/14): 0 matches, no crypto signal. No trade placed (market closed + no crypto signal). Cash $0.107132, position BAC 1.425488 sh (overnight last $49.09) = ~$69.98 + cash = sleeve value ~$70.08."
+    "previous_report_value": 70.34,
+    "previous_report_date": "2026-11-19T09:16Z",
+    "last_action": "2026-11-19T09:16Z (4:16am ET Thu 11/19): reconciled -- equity positions matched ledger exactly (BAC 1.425488 sh; BILL 0.723654 sh sleeve_momentum, untouched), zero crypto positions, no discrepancy in positions. Note: account-wide cash ($0.18 per get_portfolio) is ~2.8 cents below the two sleeves' ledger cash combined ($0.208215); not attributable to either sleeve specifically (no trade/fee event found), left unchanged, flagging for future reconciliation. Market CLOSED (pre-market overnight) -- skipped stock oversold scan/trading per rule. Majors-only crypto oversold scan (BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE, RSI<30 1d/14): 0 matches, no crypto signal. No trade placed (market closed + no crypto signal + cash of $0.107132 is below any workable order size after buffer anyway). Cash $0.107132, position BAC 1.425488 sh (premarket last $49.27) = ~$70.23 + cash = sleeve value ~$70.34."
   }
 }
