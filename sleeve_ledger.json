@@ -4,17 +4,17 @@
   "sleeve_momentum": {
     "label": "Momentum (trend-following)",
     "starting_value": 64.51,
-    "cash": 0.101083,
+    "cash": 0.104156,
     "positions": [
       {
-        "symbol": "BILL",
-        "quantity": 0.723654,
+        "symbol": "INSM",
+        "quantity": 0.342444,
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 47.74,
-    "previous_report_date": "2026-11-19T14:46Z",
-    "last_action": "2026-11-19T14:46Z (9:46am ET Thu 11/19): reconciled -- equity positions matched ledger exactly (BILL 0.723654 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market OPEN (regular hours). Ran momentum scan (STOCK, %Chg 1W close > 8%, mkt cap > $2B, avg vol(10d) > 500k): 31 matches. BILL itself qualifies strongly (1W chg +21.1%, mkt cap $5.67B, avg vol 2.68M) despite low relative volume (0.056). No candidate was clearly stronger net of relative-volume/risk (only PDD had rel vol > 1.0 at 1.09, but its 1W chg +9.6% is far weaker than BILL's own +21.1%; SLS showed +96.9% 1W but was down -13.8% intraday, a blow-off/reversal risk) -- held BILL to avoid churning on a marginal/riskier swap. Crypto majors vs today's open: BTC +0.62%, ETH +0.46%, SOL +0.97%, XRP +1.60% -- mild positive, no outlier signal, and cash ($0.101083) is below any workable order size after the $0.10 safety buffer anyway. No trade. Cash $0.101083, position BILL 0.723654 sh (last $65.835 -> ~$47.64 + cash = ~$47.74 sleeve value)."
+    "previous_report_value": 47.52,
+    "previous_report_date": "2026-11-19T15:47Z",
+    "last_action": "2026-11-19T15:47Z (10:47am ET Thu 11/19): reconciled -- equity positions matched ledger exactly (BILL 0.723654 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market OPEN (regular hours). Ran momentum scan (STOCK, %Chg 1W close > 8%, mkt cap > $2B, avg vol(10d) > 500k): 29 matches. Held BILL still qualified (1W chg +20.1%) but was fading (-0.88% today, relative volume only 0.18, no conviction). INSM stood out as clearly stronger: 1W chg +14.35%, up +15.65% intraday alone, relative volume 3.17 (by far the highest of all 29 matches, next best PDD at 2.09), mkt cap $26.3B, avg vol 2.4M -- active, volume-confirmed breakout vs. BILL's quiet drift. Rotated: sold all BILL (0.723654 sh @ avg $65.5328, proceeds $47.4231) and bought INSM with $47.42 (0.342444 sh @ avg $138.475). Crypto majors vs today's open: BTC -0.95%, ETH -1.40%, SOL -1.38%, XRP -1.01% -- broadly negative, no buy signal, cash near-zero regardless. Cash $0.104156, position INSM 0.342444 sh (last $138.475 -> ~$47.42 + cash = ~$47.52 sleeve value)."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
