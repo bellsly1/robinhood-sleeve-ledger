@@ -27,8 +27,8 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 69.6,
-    "previous_report_date": "2026-11-19T15:17Z",
-    "last_action": "2026-11-19T15:17Z (10:17am ET Thu 11/19): reconciled -- equity positions matched ledger exactly (BAC 1.425488 sh; BILL 0.723654 sh sleeve_momentum, untouched), zero crypto positions, no discrepancy. Market OPEN (regular hours). Stock oversold scan (STOCK, mkt cap > $2B, avg vol(10d) > 500k, RSI(14,1d) < 30): 97 matches (e.g. NVDA RSI 21.1, CRM 24.1, BABA 24.5, HOOD 27.2). Checked held BAC's own RSI(14,1d): 34.96 -- not yet reverted (below 30 to re-enter/add, below ~55 take-profit threshold), so held as-is rather than rotating into a new candidate (low-turnover rule; no reversion signal either way). Majors-only crypto scan (BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE, RSI<30 1d/14): 0 matches, no crypto signal. No trade (no exit/entry signal, and cash $0.107132 is below any workable order size after the $0.10 buffer regardless). Cash $0.107132, position BAC 1.425488 sh (last $48.75) = ~$69.49 + cash = sleeve value ~$69.60."
+    "previous_report_value": 68.82,
+    "previous_report_date": "2026-11-19T17:16Z",
+    "last_action": "2026-11-19T17:16Z (12:16pm ET Thu 11/19): reconciled -- equity positions matched ledger exactly (BAC 1.425488 sh; INSM 0.342444 sh sleeve_momentum, untouched), zero crypto positions, no discrepancy. Market OPEN (regular hours). Stock oversold scan (STOCK, mkt cap > $2B, avg vol(10d) > 500k, RSI(14,1d) < 30): 97 matches (e.g. NVDA RSI 21.1, UNH 28.5, BABA 24.5, HOOD 27.2) -- same broad oversold breadth as last run. Checked held BAC's own RSI(14,1d): 34.96, essentially unchanged from the 15:17Z reading (34.96) -- no signal change, still not reverted (below ~55 take-profit) and not low enough to add (below 30). Held as-is per low-turnover rule. Majors-only crypto scan (BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE, RSI<30 1d/14): 0 matches, no crypto signal. No trade (no exit/entry signal; cash $0.107132 also below any workable order size after the $0.10 buffer regardless). Cash $0.107132, position BAC 1.425488 sh (last $48.20) = ~$68.71 + cash = sleeve value ~$68.82."
   }
 }
