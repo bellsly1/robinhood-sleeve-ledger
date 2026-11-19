@@ -12,9 +12,9 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 47.52,
-    "previous_report_date": "2026-11-19T15:47Z",
-    "last_action": "2026-11-19T15:47Z (10:47am ET Thu 11/19): reconciled -- equity positions matched ledger exactly (BILL 0.723654 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market OPEN (regular hours). Ran momentum scan (STOCK, %Chg 1W close > 8%, mkt cap > $2B, avg vol(10d) > 500k): 29 matches. Held BILL still qualified (1W chg +20.1%) but was fading (-0.88% today, relative volume only 0.18, no conviction). INSM stood out as clearly stronger: 1W chg +14.35%, up +15.65% intraday alone, relative volume 3.17 (by far the highest of all 29 matches, next best PDD at 2.09), mkt cap $26.3B, avg vol 2.4M -- active, volume-confirmed breakout vs. BILL's quiet drift. Rotated: sold all BILL (0.723654 sh @ avg $65.5328, proceeds $47.4231) and bought INSM with $47.42 (0.342444 sh @ avg $138.475). Crypto majors vs today's open: BTC -0.95%, ETH -1.40%, SOL -1.38%, XRP -1.01% -- broadly negative, no buy signal, cash near-zero regardless. Cash $0.104156, position INSM 0.342444 sh (last $138.475 -> ~$47.42 + cash = ~$47.52 sleeve value)."
+    "previous_report_value": 48.83,
+    "previous_report_date": "2026-11-19T18:46Z",
+    "last_action": "2026-11-19T18:46Z (1:46pm ET Thu 11/19): reconciled -- equity positions matched ledger exactly (INSM 0.342444 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market OPEN (regular hours). Ran momentum scan (STOCK, %Chg 1W close > 8%, mkt cap > $2B, avg vol(10d) > 500k): 22 matches. Held INSM still qualified (1W chg +17.45%, up +18.78% today) and remained clearly the strongest: relative volume 4.36, by far the highest of all 22 matches (next best PDD 2.55, SLS 1.33, TU 1.26) -- no clearly stronger candidate to rotate into (SLS's 87% 1W move is a today -18% crash, not a breakout). Held, no trade. Crypto majors vs today's open: BTC -0.86%, ETH -0.98%, SOL -0.26%, XRP -0.12% -- broadly negative, no buy signal, cash near-zero regardless. Cash $0.104156, position INSM 0.342444 sh (last $142.30 -> ~$48.73 + cash = ~$48.83 sleeve value)."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
