@@ -12,9 +12,9 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 48.99,
-    "previous_report_date": "2026-11-20T19:46Z",
-    "last_action": "2026-11-20T19:46Z (2:46pm ET Fri 11/20): reconciled -- equity positions matched ledger exactly (INSM 0.342444 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market OPEN (regular hours). Stock momentum scan (STOCK, %Change(1W,close)>8%, mkt cap>$2B, avg vol(10d)>500k): 11 matches incl. held INSM (1W +17.76%, mkt cap $31.7B, avg vol 3.58M, today -1.24%, relvol 0.27). Only BILL had relvol>1.0 (6.44) but was down -4.03% today -- fading hard, not a buy signal. SLS (1W +74.75%) down -7.57% today -- also fading. TU/TSN/CALM up today (+2.6%/+2.1%/+3.6%) but all lower relvol (0.36/0.59/0.58) than INSM's setup and not clearly stronger -- no rotation (avoiding churn). Crypto majors vs today's open: BTC -4.58%, ETH -6.66%, SOL -5.14%, XRP -6.37% -- broadly down, no buy signal, no crypto held. Held INSM, no trade. Cash $0.104156, position INSM 0.342444 sh (last $142.76) -> ~$48.89 + cash = ~$48.99 sleeve value."
+    "previous_report_value": 48.81,
+    "previous_report_date": "2026-11-20T20:46Z",
+    "last_action": "2026-11-20T20:46Z (3:46pm ET Fri 11/20): reconciled -- equity positions matched ledger exactly (INSM 0.342444 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market OPEN (regular hours). Stock momentum scan (STOCK, %Change(1W,close)>8%, mkt cap>$2B, avg vol(10d)>500k): 10 matches incl. held INSM (1W +17.39%, mkt cap $31.7B, avg vol 3.58M, today -1.54%, relvol 1.25). BILL relvol 9.34 but down -4.14% today -- fading hard, not a buy signal. SLS (1W +72.20%) down -8.92% today -- also fading. TU/TSN/CALM up today (+2.4%/+2.1%/+3.6%) but lower relvol (0.81/0.54/0.92) than INSM and not clearly stronger -- no rotation (avoiding churn). Crypto majors vs today's open (broad selloff): BTC -4.76%, ETH -7.24%, SOL -6.19%, XRP -7.57% -- broadly down, no buy signal, no crypto held. Held INSM, no trade. Cash $0.104156, position INSM 0.342444 sh (last $142.23) -> ~$48.71 + cash = ~$48.81 sleeve value."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
