@@ -27,8 +27,8 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 68.69,
-    "previous_report_date": "2026-11-20T16:16Z",
-    "last_action": "2026-11-20T16:16Z (11:16am ET Fri 11/20): reconciled -- equity positions matched ledger exactly (BAC 1.425488 sh; INSM 0.342444 sh sleeve_momentum, untouched), zero crypto positions, no discrepancy. Market OPEN (regular hours). BAC RSI(14,1d) = 33.47 (last $48.11), not yet reverted (threshold ~55) -- held, no trade; stock scan (STOCK, mkt cap>$2B, avg vol(10d)>500k, RSI(14,1d)<30) still showed 127 matches amid the broad selloff, but already holding BAC/not in cash so no new entry considered. Majors-only crypto scan (BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE, RSI<30 1d/14): 0 matches, no crypto signal. No trade. Cash $0.107132, position BAC 1.425488 sh (last $48.11) = ~$68.58 + cash = sleeve value ~$68.69."
+    "previous_report_value": 68.09,
+    "previous_report_date": "2026-11-20T19:15Z",
+    "last_action": "2026-11-20T19:15Z (2:15pm ET Fri 11/20): reconciled -- equity positions matched ledger exactly (BAC 1.425488 sh; INSM 0.342444 sh sleeve_momentum, untouched), zero crypto positions, no discrepancy. Market OPEN (regular hours). BAC RSI(14,1d) = 33.62 (last $47.69, down from $48.11 this morning), not yet reverted (threshold ~55) -- held, no trade; already holding BAC/not in cash so no new-entry stock scan run. Majors-only crypto scan (BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE, RSI<30 1d/14): 0 matches, no crypto signal. No trade. Cash $0.107132, position BAC 1.425488 sh (last $47.69) = ~$67.98 + cash = sleeve value ~$68.09."
   }
 }
