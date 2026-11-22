@@ -12,9 +12,9 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 49.01,
-    "previous_report_date": "2026-11-22T08:45Z",
-    "last_action": "2026-11-22T08:45Z (3:45am ET Sun 11/22): reconciled -- equity positions matched ledger exactly (INSM 0.342444 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market CLOSED (weekend) -- stock scanning skipped per rules, INSM held unchanged. Crypto majors vs today's open: BTC +0.67%, ETH +1.19%, SOL +0.51%, XRP +0.47% -- mild positive drift but not a clear/strong momentum signal, and no spendable cash ($0.104156, below the $0.10 buffer) regardless. No trade. Cash $0.104156, position INSM 0.342444 sh (last $142.81 after-hours) -> ~$48.90 + cash = ~$49.01 sleeve value."
+    "previous_report_value": 48.5,
+    "previous_report_date": "2026-11-22T11:46Z",
+    "last_action": "2026-11-22T11:46Z (6:46am ET Sun 11/22): reconciled -- equity positions matched ledger exactly (INSM 0.342444 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market CLOSED (weekend) -- stock scanning skipped per rules, INSM held unchanged. Crypto majors vs prior close: BTC +2.97%, ETH +2.78%, SOL +1.94%, XRP +1.02% -- real positive drift, but no spendable cash ($0.104156, below the $0.10 buffer) to act on it regardless. No trade. Cash $0.104156, position INSM 0.342444 sh (last $141.33) -> ~$48.40 + cash = ~$48.50 sleeve value."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
