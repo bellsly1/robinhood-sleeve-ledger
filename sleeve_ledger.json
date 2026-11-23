@@ -4,17 +4,17 @@
   "sleeve_momentum": {
     "label": "Momentum (trend-following)",
     "starting_value": 64.51,
-    "cash": 0.104156,
+    "cash": 0.100932,
     "positions": [
       {
-        "symbol": "INSM",
-        "quantity": 0.342444,
+        "symbol": "KYMR",
+        "quantity": 0.328277,
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 50.12,
-    "previous_report_date": "2026-11-23T14:46Z",
-    "last_action": "2026-11-23T14:46Z (9:46am ET Mon 11/23): reconciled -- equity positions matched ledger exactly (INSM 0.342444 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market OPEN. INSM last $146.01, up ~3.3% on the day; held, still the only equity holding, no stronger candidate identified and momentum intact. Crypto majors vs open_price: BTC +3.3%, ETH +4.0%, SOL +7.8%, XRP +7.0% -- SOL/XRP strong but spendable cash is $0.004156 (cash $0.104156 minus $0.10 buffer), far below any workable order size, so no action possible regardless. No trade. Cash $0.104156, position INSM 0.342444 sh ($146.01) -> ~$50.02 + cash = ~$50.12 sleeve value."
+    "previous_report_value": 50.85,
+    "previous_report_date": "2026-11-23T17:49Z",
+    "last_action": "2026-11-23T17:49Z (12:49pm ET Mon 11/23): reconciled -- equity positions matched ledger exactly (INSM 0.342444 sh pre-trade; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market OPEN. Momentum scan (STOCK, %chg 1W close >8%, mktcap >$2B, avgvol10 >500k) no longer included INSM (actual pct1w = 4.83%, below threshold despite a strong intraday +4.8% move) while KYMR (+33.8% 1W, rel vol 4.05x, mktcap $9.8B) and ZS (+15.7% 1W, rel vol 3.72x, mktcap $31.8B) qualified -- a clear, non-marginal gap, not noise. Rotated: SOLD INSM 0.342444 sh @ avg $148.19 (proceeds $50.7468) -> BOUGHT KYMR $50.75 market, filled 0.328277 sh @ avg $154.595. Crypto majors vs open_price: BTC +0.23%, ETH +0.41%, SOL +2.97%, XRP +2.44% -- none strong enough to prefer over the equity rotation, and spendable cash after the trade is ~$0.001, moot regardless. Cash $0.100932, position KYMR 0.328277 sh (~$50.75) -> ~$50.75 + cash = ~$50.85 sleeve value."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
