@@ -27,8 +27,8 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 68.69,
-    "previous_report_date": "2026-11-23T15:15Z",
-    "last_action": "2026-11-23T15:15Z (10:15am ET Mon 11/23): reconciled -- equity positions matched ledger exactly (BAC 1.425488 sh; INSM 0.342444 sh sleeve_momentum, untouched), zero crypto positions, no discrepancy. Market OPEN. BAC RSI(14,1d) = 27.75 -- still oversold, reversion not yet realized (need ~55+ to exit), so held unchanged; no stronger/triggering reason to rotate. Broad stock scan (mktcap>$2B, avgvol10>500k, RSI<30) returned 234 oversold names (e.g. MELI RSI 25.7, ASML 28.8, GS 29.3, MU 29.5, CAT 24.1) but irrelevant -- already in a position and cash ($0.107132, below $0.10 buffer) is non-spendable regardless. Majors-only crypto scan (BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE, RSI<30 1d/14): 0 matches, no crypto signal. No trade. Cash $0.107132, position BAC 1.425488 sh ($48.11) -> ~$68.58 + cash = ~$68.69 sleeve value."
+    "previous_report_value": 69.09,
+    "previous_report_date": "2026-11-23T19:16Z",
+    "last_action": "2026-11-23T19:16Z (2:16pm ET Mon 11/23): reconciled -- equity positions matched ledger exactly (BAC 1.425488 sh; KYMR 0.328277 sh sleeve_momentum, untouched), zero crypto positions, no discrepancy. Market OPEN. BAC RSI(14,1d) = 27.75 (unchanged, last completed daily bar Fri 11/20 close) -- still oversold, reversion not yet realized (need ~55+ to exit), so held unchanged; no stronger/triggering reason to rotate. Broad stock scan (mktcap>$2B, avgvol10>500k, RSI<30) returned 234 oversold names (e.g. NVDA RSI 15.0, SNDK 16.1, BIDU 18.6, MSTR 20.2) but irrelevant -- already in a position and cash ($0.107132, below $0.10 buffer) is non-spendable regardless. Majors-only crypto scan (BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE, RSI<30 1d/14): 0 matches, no crypto signal. No trade. Cash $0.107132, position BAC 1.425488 sh ($68.98 @ $48.39) -> ~$68.98 + cash = ~$69.09 sleeve value."
   }
 }
