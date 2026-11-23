@@ -12,9 +12,9 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 49.39,
-    "previous_report_date": "2026-11-23T18:46Z",
-    "last_action": "2026-11-23T18:46Z (1:46pm ET Mon 11/23): reconciled -- equity positions matched ledger exactly (KYMR 0.328277 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market OPEN. Momentum scan (STOCK, %chg 1W close >8%, mktcap >$2B, avgvol10 >500k) returned 168 names; KYMR itself still qualifies strongly (+30.2% 1W, rel vol 6.93x, mktcap $9.8B), ranked #2 by %1w. Only NVDA ranked marginally higher (+31.0% 1W) but with far weaker rel vol (1.33x vs KYMR's 6.93x) and a trivial 0.76pp gap -- not clearly stronger, so held KYMR rather than churn. Crypto majors vs open_price: BTC +0.27%, ETH +0.70%, SOL +2.80%, XRP +1.72% -- none strong enough to prefer over the equity position, and spendable cash ($0.100932, below $0.10 buffer) is non-spendable regardless. No trade. Cash $0.100932, position KYMR 0.328277 sh (~$49.29 @ $150.15) -> ~$49.29 + cash = ~$49.39 sleeve value."
+    "previous_report_value": 50.39,
+    "previous_report_date": "2026-11-23T19:46Z",
+    "last_action": "2026-11-23T19:46Z (2:46pm ET Mon 11/23): reconciled -- equity positions matched ledger exactly (KYMR 0.328277 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market OPEN. Momentum scan (STOCK, %chg 1W close >8%, mktcap >$2B, avgvol10 >500k) returned 157 names; KYMR now ranked #1 by %1w (+32.9% 1W, rel vol 5.06x, mktcap $9.8B), ahead of NVDA (+30.8% 1W, rel vol only 0.99x). KYMR clearly strongest -- held, no churn. Crypto majors vs open_price: BTC -0.28%, ETH -0.19%, SOL +1.82%, XRP +0.98% -- none strong enough to prefer over the equity position, and spendable cash ($0.100932, below $0.10 buffer) is non-spendable regardless. No trade. Cash $0.100932, position KYMR 0.328277 sh (~$50.29 @ $153.20) -> ~$50.29 + cash = ~$50.39 sleeve value."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
