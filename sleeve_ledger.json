@@ -12,9 +12,9 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 54.29,
-    "previous_report_date": "2026-11-24T16:46Z",
-    "last_action": "2026-11-24T16:46Z (11:46am ET Tue 11/24): reconciled -- equity positions matched ledger exactly (KYMR 0.328277 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market OPEN. Ran momentum scan (STOCK, %Change 1W close > 8%, market cap > $2B, avg vol 10d > 500K): 118 matches; KYMR itself is the top result at +43.2% 1W (next-best NAMS +27.8%, ANF +26.9%), market cap $12.8B -- clearly still the strongest momentum name, so held, no rotation. KYMR last $165.075, up from this morning. Crypto majors vs open_price: BTC -1.42%, ETH -1.66%, SOL -3.45%, XRP -4.03% -- all negative, no signal, and sleeve cash ($0.100932) is insufficient for any new position regardless. No trade. Cash $0.100932, position KYMR 0.328277 sh (~$54.19 @ $165.075) -> ~$54.19 + cash = ~$54.29 sleeve value."
+    "previous_report_value": 55.75,
+    "previous_report_date": "2026-11-24T18:46Z",
+    "last_action": "2026-11-24T18:46Z (1:46pm ET Tue 11/24): reconciled -- equity positions matched ledger exactly (KYMR 0.328277 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market OPEN. Ran momentum scan (STOCK, %Change 1W close > 8%, market cap > $2B, avg vol 10d > 500K): 153 matches; KYMR itself is still the top result, now at +47.0% 1W (up from +43.2% at 11:46am; next-best NAMS +33.0%, ANF +27.0%), market cap $12.8B -- clearly still the strongest momentum name, so held, no rotation. KYMR last $169.52, up from $165.075 this morning. Crypto majors vs open_price: BTC -0.68%, ETH -0.97%, SOL -2.83%, XRP -2.90% -- all negative, no signal, and sleeve cash ($0.100932) is insufficient for any new position regardless. No trade. Cash $0.100932, position KYMR 0.328277 sh (~$55.65 @ $169.52) -> ~$55.65 + cash = ~$55.75 sleeve value."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
