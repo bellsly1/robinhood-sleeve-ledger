@@ -12,9 +12,9 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 55.87,
-    "previous_report_date": "2026-11-24T14:46Z",
-    "last_action": "2026-11-24T14:46Z (09:46am ET Tue 11/24): reconciled -- equity positions matched ledger exactly (KYMR 0.328277 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market OPEN (09:46am ET). Ran momentum scan (STOCK, %Change 1W close > 8%, market cap > $2B, avg vol 10d > 500K): 182 matches; KYMR itself is the top result at +47.3% 1W (next-best ANF/NVDA/etc. all under +27%), market cap $12.8B, avg vol 1.54M -- clearly still the strongest momentum name, so held, no rotation. KYMR last $169.90, up +13.0% intraday on top of the week's move. Crypto majors vs open_price: BTC +0.25%, ETH -0.15%, SOL -2.06%, XRP -2.51% -- no signal, and sleeve cash ($0.100932) is insufficient for any new position regardless. No trade. Cash $0.100932, position KYMR 0.328277 sh (~$55.77 @ $169.90) -> ~$55.77 + cash = ~$55.87 sleeve value."
+    "previous_report_value": 53.82,
+    "previous_report_date": "2026-11-24T15:45Z",
+    "last_action": "2026-11-24T15:45Z (10:45am ET Tue 11/24): reconciled -- equity positions matched ledger exactly (KYMR 0.328277 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market OPEN (10:45am ET). Ran momentum scan (STOCK, %Change 1W close > 8%, market cap > $2B, avg vol 10d > 500K): 119 matches; KYMR itself is the top result at +41.9% 1W (next-best NAMS +26.9%, ANF +26.7%), market cap $12.8B, avg vol 10d 1.54M -- clearly still the strongest momentum name, so held, no rotation. KYMR last $163.645, pulled back from this morning's high but still the clear scan leader. Crypto majors vs open_price: BTC -1.01%, ETH -1.32%, SOL -3.82%, XRP -4.13% -- all negative, no signal, and sleeve cash ($0.100932) is insufficient for any new position regardless. No trade. Cash $0.100932, position KYMR 0.328277 sh (~$53.72 @ $163.645) -> ~$53.72 + cash = ~$53.82 sleeve value."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
