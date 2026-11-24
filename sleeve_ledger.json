@@ -12,9 +12,9 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 53.82,
-    "previous_report_date": "2026-11-24T15:45Z",
-    "last_action": "2026-11-24T15:45Z (10:45am ET Tue 11/24): reconciled -- equity positions matched ledger exactly (KYMR 0.328277 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market OPEN (10:45am ET). Ran momentum scan (STOCK, %Change 1W close > 8%, market cap > $2B, avg vol 10d > 500K): 119 matches; KYMR itself is the top result at +41.9% 1W (next-best NAMS +26.9%, ANF +26.7%), market cap $12.8B, avg vol 10d 1.54M -- clearly still the strongest momentum name, so held, no rotation. KYMR last $163.645, pulled back from this morning's high but still the clear scan leader. Crypto majors vs open_price: BTC -1.01%, ETH -1.32%, SOL -3.82%, XRP -4.13% -- all negative, no signal, and sleeve cash ($0.100932) is insufficient for any new position regardless. No trade. Cash $0.100932, position KYMR 0.328277 sh (~$53.72 @ $163.645) -> ~$53.72 + cash = ~$53.82 sleeve value."
+    "previous_report_value": 54.29,
+    "previous_report_date": "2026-11-24T16:46Z",
+    "last_action": "2026-11-24T16:46Z (11:46am ET Tue 11/24): reconciled -- equity positions matched ledger exactly (KYMR 0.328277 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market OPEN. Ran momentum scan (STOCK, %Change 1W close > 8%, market cap > $2B, avg vol 10d > 500K): 118 matches; KYMR itself is the top result at +43.2% 1W (next-best NAMS +27.8%, ANF +26.9%), market cap $12.8B -- clearly still the strongest momentum name, so held, no rotation. KYMR last $165.075, up from this morning. Crypto majors vs open_price: BTC -1.42%, ETH -1.66%, SOL -3.45%, XRP -4.03% -- all negative, no signal, and sleeve cash ($0.100932) is insufficient for any new position regardless. No trade. Cash $0.100932, position KYMR 0.328277 sh (~$54.19 @ $165.075) -> ~$54.19 + cash = ~$54.29 sleeve value."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
