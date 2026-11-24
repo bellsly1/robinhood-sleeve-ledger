@@ -27,8 +27,8 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 68.86,
-    "previous_report_date": "2026-11-24T04:16Z",
-    "last_action": "2026-11-24T04:16Z (11:16pm ET Mon 11/23): reconciled -- equity positions matched ledger exactly (BAC 1.425488 sh; KYMR 0.328277 sh sleeve_momentum, untouched), zero crypto positions, no discrepancy. Market CLOSED (after 4pm ET close) -- stock scanning/trading skipped per rules. Majors-only crypto scan (BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE, RSI<30 1d/14): 0 matches, no crypto signal. No trade. Cash $0.107132, position BAC 1.425488 sh (~$68.75 @ $48.23 after-hours) -> ~$68.75 + cash = ~$68.86 sleeve value."
+    "previous_report_value": 68.89,
+    "previous_report_date": "2026-11-24T05:15Z",
+    "last_action": "2026-11-24T05:15Z (00:15am ET Tue 11/24): reconciled -- equity positions matched ledger exactly (BAC 1.425488 sh; KYMR 0.328277 sh sleeve_momentum, untouched), zero crypto positions, no discrepancy. Market CLOSED (before 9:30am ET open) -- stock scanning/trading skipped per rules. Majors-only crypto scan (BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE, RSI<30 1d/14): 0 matches, no crypto signal. No trade. Cash $0.107132, position BAC 1.425488 sh (~$68.78 @ $48.25) -> ~$68.78 + cash = ~$68.89 sleeve value."
   }
 }
