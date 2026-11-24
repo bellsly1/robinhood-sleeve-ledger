@@ -12,9 +12,9 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 51.16,
-    "previous_report_date": "2026-11-24T03:46Z",
-    "last_action": "2026-11-24T04:45Z (11:45pm ET Mon 11/23): reconciled -- equity positions matched ledger exactly (KYMR 0.328277 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market CLOSED (after 4pm ET close) -- stock scanning/trading skipped per rules; KYMR after-hours last $155.33. Crypto majors vs open_price: BTC -1.08%, ETH -1.22%, SOL +0.77%, XRP +2.40% -- mixed, with majors BTC/ETH negative and only SOL/XRP modestly positive; not a clear enough signal to justify rotating out of the existing KYMR equity position per anti-churn rule. No trade. Cash $0.100932, position KYMR 0.328277 sh (~$50.99 @ $155.33 after-hours) -> ~$50.99 + cash = ~$51.09 sleeve value."
+    "previous_report_value": 51.15,
+    "previous_report_date": "2026-11-24T05:46Z",
+    "last_action": "2026-11-24T05:46Z (00:46am ET Tue 11/24): reconciled -- equity positions matched ledger exactly (KYMR 0.328277 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market CLOSED (before 9:30am ET open) -- stock scanning/trading skipped per rules; KYMR after-hours last $155.49. Crypto majors vs open_price: BTC +0.57%, ETH +0.55%, SOL +0.51%, XRP +0.92% -- all modestly positive but tight/uniform, no standout signal strong enough to justify rotating out of the existing KYMR equity position per anti-churn rule (equity markets closed anyway, so no stock order could execute). No trade. Cash $0.100932, position KYMR 0.328277 sh (~$51.04 @ $155.49 after-hours) -> ~$51.04 + cash = ~$51.15 sleeve value."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
