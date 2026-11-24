@@ -27,8 +27,8 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 68.25,
-    "previous_report_date": "2026-11-24T14:15Z",
-    "last_action": "2026-11-24T14:15Z (09:15am ET Tue 11/24): reconciled -- equity positions matched ledger exactly (BAC 1.425488 sh; KYMR 0.328277 sh sleeve_momentum, untouched), zero crypto positions, no discrepancy. Market CLOSED (before 9:30am ET open) -- stock scanning/trading skipped per rules. Majors-only crypto scan (BTC/USD, ETH/USD, SOL/USD, XRP/USD, ADA/USD, LINK/USD, AVAX/USD, LTC/USD, BCH/USD, DOGE/USD; RSI<30 1d/14): 3 matches -- BTC RSI 26.91, ETH RSI 29.35, DOGE RSI 29.46 (others not oversold: BCH 30.46, LTC 30.01, SOL 31.59, XRP 31.56, ADA 31.51, AVAX 33.99, LINK 36.67) -- essentially unchanged from prior run. No trade: sleeve cash is only $0.107132 (post-buffer ~$0.007), insufficient to fund any new crypto position regardless of signal; fully allocated in existing BAC holding, which cannot be evaluated/traded while equity market is closed. Cash $0.107132, position BAC 1.425488 sh (~$68.14 @ $47.80 pre-market) -> ~$68.14 + cash = ~$68.25 sleeve value."
+    "previous_report_value": 68.94,
+    "previous_report_date": "2026-11-24T16:15Z",
+    "last_action": "2026-11-24T16:15Z (11:15am ET Tue 11/24): reconciled -- equity positions matched ledger exactly (BAC 1.425488 sh; KYMR 0.328277 sh sleeve_momentum, untouched), zero crypto positions, no discrepancy. Market OPEN. BAC RSI(14,1d) = 36.19 -- still below the ~55 take-profit threshold, reversion not yet realized, so held (no rotation). Stock oversold scan (STOCK, mkt cap > $2B, avg vol 10d > 500K, RSI<30 1d/14): 60 matches, led by UNH (RSI 28.80, $301B cap), INTU (29.71), COF (27.87), CRM (26.54), TPL (25.81) -- none are the current BAC holding; not acted on since fully allocated and already holding a position that hasn't reverted. Majors-only crypto scan (BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE, RSI<30 1d/14): 0 matches -- no crypto signal active. No trade: sleeve cash only $0.107132 (post-buffer ~$0.007), insufficient for any new position regardless; holding BAC. Cash $0.107132, position BAC 1.425488 sh (~$68.84 @ $48.29) -> ~$68.94 sleeve value."
   }
 }
