@@ -12,9 +12,9 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 56.89,
-    "previous_report_date": "2026-11-25T20:46Z",
-    "last_action": "2026-11-25T20:46Z (3:46pm ET Wed 11/25): reconciled -- equity positions matched ledger exactly (KYMR 0.328277 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market OPEN (regular hours) -- re-ran Quality momentum scan (STOCK, %Chg 1W close>8%, mktcap>2B, avgvol10d>500k; 266 matches). KYMR's own 1W change is +50.2%, still the single highest in the whole result set (next: COGT +34.1%, VRDN +27.4%, ANF +26.5%, SYM +23.0%), so it clearly remains the strongest candidate -- held, no rotation. KYMR last trade $173.00 (down -0.42% on the day, still within the dominant weekly uptrend). Crypto majors vs today's open: BTC +1.35%, ETH +1.43%, SOL +2.20%, XRP +2.00% -- all modestly positive but too small/noisy to be a real signal, and sleeve cash ($0.100932) is insufficient for any new position regardless. No trade. Cash $0.100932, position KYMR 0.328277 sh (~$56.79 @ $173.00) -> ~$56.89 sleeve value."
+    "previous_report_value": 57.15,
+    "previous_report_date": "2026-11-25T21:46Z",
+    "last_action": "2026-11-25T21:46Z (4:46pm ET Wed 11/25): reconciled -- equity positions matched ledger exactly (KYMR 0.328277 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market CLOSED (regular hours ended 4:00pm ET) -- skipped stock scanning/trading per rules; noted current equity holding only. Crypto majors vs today's open: BTC +1.79%, ETH +1.69%, SOL +2.93%, XRP +2.63% -- all modestly positive but too small/noisy to be a real signal, and sleeve cash ($0.100932) is insufficient for any new position regardless. No trade. Cash $0.100932, position KYMR 0.328277 sh (~$57.04 @ $173.77) -> ~$57.15 sleeve value."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
