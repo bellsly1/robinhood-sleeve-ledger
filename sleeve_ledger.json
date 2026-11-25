@@ -27,8 +27,8 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 69.25,
-    "previous_report_date": "2026-11-25T20:16Z",
-    "last_action": "2026-11-25T20:16Z (3:16pm ET Wed 11/25): reconciled -- equity positions matched ledger exactly (BAC 1.425488 sh; KYMR 0.328277 sh sleeve_momentum, untouched), zero crypto positions, no discrepancy. Market OPEN (regular hours) -- re-ran oversold-quality stock scan (STOCK, mktcap>2B, avgvol10d>500k, RSI(14,1d)<30; 62 matches). Lowest-RSI names: VVVV 3.2, PBR.A 18.1, IEP 19.0, CLMT 19.1, EC 19.2, PBR 19.8 -- essentially unchanged from prior run. BAC (held) still not in the oversold list -- its own RSI is 39.1 (flat vs prior check), well below the ~55 reversion-complete threshold, so held rather than taking profit; no rotation considered since sleeve cash ($0.107132) is insufficient for any new position regardless. Majors-only crypto scan (BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE, RSI<30 1d/14): 0 matches -- no crypto signal active. No trade. Cash $0.107132, position BAC 1.425488 sh (~$69.14 @ $48.505) -> ~$69.25 sleeve value."
+    "previous_report_value": 69.27,
+    "previous_report_date": "2026-11-25T21:16Z",
+    "last_action": "2026-11-25T21:16Z (4:16pm ET Wed 11/25): reconciled -- equity positions matched ledger exactly (BAC 1.425488 sh; KYMR 0.328277 sh sleeve_momentum, untouched), zero crypto positions, no discrepancy. Market CLOSED (regular hours ended 4:00pm ET) -- skipped stock scanning/trading per rules. BAC (held) own RSI 39.1 (flat), well below the ~55 reversion-complete threshold, so held rather than taking profit. Majors-only crypto scan (BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE, RSI<30 1d/14): 0 matches -- no crypto signal active. No trade. Cash $0.107132, position BAC 1.425488 sh (~$69.16 @ $48.52) -> ~$69.27 sleeve value."
   }
 }
