@@ -12,9 +12,9 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 54.90,
-    "previous_report_date": "2026-11-25T15:46Z",
-    "last_action": "2026-11-25T15:46Z (10:46am ET Wed 11/25): reconciled -- equity positions matched ledger exactly (KYMR 0.328277 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market OPEN (regular hours) -- re-ran 'Quality momentum scan' (STOCK, %Chg 1W close>8%, mktcap>2B, avgvol10d>500k; 92 matches). KYMR's own 1W change is +44.8%, the single highest in the whole result set (next: NAMS +31.1%, COGT +29.1%, CELC +25.9%, AMTM +24.6%), so it clearly still qualifies and remains the strongest candidate -- held, no rotation. KYMR last trade $166.925 (down -4.0% on the day from $173.92 close, a pullback within the still-dominant weekly uptrend). Crypto majors vs today's open: BTC -1.95%, ETH -1.19%, SOL -2.53%, XRP -1.85% -- all negative, no buy signal, and sleeve cash ($0.100932) is insufficient for any new position regardless. No trade. Cash $0.100932, position KYMR 0.328277 sh (~$54.80 @ $166.925) -> ~$54.90 sleeve value."
+    "previous_report_value": 53.85,
+    "previous_report_date": "2026-11-25T16:46Z",
+    "last_action": "2026-11-25T16:46Z (11:46am ET Wed 11/25): reconciled -- equity positions matched ledger exactly (KYMR 0.328277 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market OPEN (regular hours) -- re-ran 'Quality momentum scan' (STOCK, %Chg 1W close>8%, mktcap>2B, avgvol10d>500k; 102 matches). KYMR's own 1W change is +42.0%, still the single highest in the whole result set (next: COGT +30.8%, NAMS +30.0%, CELC +26.4%, AMTM +22.2%), so it clearly remains the strongest candidate -- held, no rotation. KYMR last trade $163.715 (down -5.9% on the day from $173.92 close, continued pullback within the still-dominant weekly uptrend). Crypto majors vs today's open: BTC -1.65%, ETH -1.57%, SOL -1.93%, XRP -2.00% -- all negative, no buy signal, and sleeve cash ($0.100932) is insufficient for any new position regardless. No trade. Cash $0.100932, position KYMR 0.328277 sh (~$53.74 @ $163.715) -> ~$53.85 sleeve value."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
