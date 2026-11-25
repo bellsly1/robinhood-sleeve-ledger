@@ -12,9 +12,9 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 57.2,
-    "previous_report_date": "2026-11-25T10:46Z",
-    "last_action": "2026-11-25T10:46Z (5:46am ET Wed 11/25): reconciled -- equity positions matched ledger exactly (KYMR 0.328277 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market CLOSED (pre-open, regular hours 9:30am-4:00pm ET) -- skipped stock scanning/trading per rule, just noted holdings. KYMR last trade $173.94, unchanged, still the sleeve's sole holding, held. Crypto majors vs today's open: BTC -0.40%, ETH -0.84%, SOL -1.52%, XRP -0.75% -- all negative, no buy signal, and sleeve cash ($0.100932) is insufficient for any new position regardless. No trade. Cash $0.100932, position KYMR 0.328277 sh (~$57.10 @ $173.94) -> ~$57.20 sleeve value."
+    "previous_report_value": 54.23,
+    "previous_report_date": "2026-11-25T14:46Z",
+    "last_action": "2026-11-25T14:46Z (9:46am ET Wed 11/25): reconciled -- equity positions matched ledger exactly (KYMR 0.328277 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market OPEN (regular hours) -- ran 'Quality momentum scan' (STOCK, %Chg 1W close>8%, mktcap>2B, avgvol10d>500k; 73 matches). KYMR's own 1W change is +42.3%, the single highest in the whole result set (next: NAMS +30.0%, COGT +24.3%, ANF +23.2%), so it clearly still qualifies and remains the strongest candidate -- held, no rotation (relative-volume readings were all near-zero scan-wide this early in the session, so not used to override the 1W signal). KYMR last trade $164.88 (down -5.2% on the day from $173.92 close, a pullback within the still-dominant weekly uptrend). Crypto majors vs today's open: BTC -2.85%, ETH -2.53%, SOL -3.71%, XRP -2.72% -- all negative, no buy signal, and sleeve cash ($0.100932) is insufficient for any new position regardless. No trade. Cash $0.100932, position KYMR 0.328277 sh (~$54.13 @ $164.88) -> ~$54.23 sleeve value."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
