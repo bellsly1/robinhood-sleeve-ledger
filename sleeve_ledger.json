@@ -28,7 +28,7 @@
       }
     ],
     "previous_report_value": 69.58,
-    "previous_report_date": "2026-11-26T11:16Z",
-    "last_action": "2026-11-26T11:16Z (6:16am ET Thu 11/26, Thanksgiving holiday): reconciled -- equity positions matched ledger exactly (BAC 1.425488 sh; KYMR 0.328277 sh sleeve_momentum, untouched), zero crypto positions, no discrepancy. Market CLOSED (holiday + pre-market) -- skipped stock scanning/trading per rules; did not re-check BAC's own RSI this run. Majors-only crypto scan (BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE, RSI<30 1d/14): 0 matches -- no crypto signal active. No trade. Cash $0.107132, position BAC 1.425488 sh (~$69.47 @ $48.73) -> ~$69.58 sleeve value."
+    "previous_report_date": "2026-11-26T18:15Z",
+    "last_action": "2026-11-26T18:15Z (1:15pm ET Thu 11/26, Thanksgiving holiday): reconciled -- equity positions matched ledger exactly (BAC 1.425488 sh; KYMR 0.328277 sh sleeve_momentum, untouched), zero crypto positions, no discrepancy. Market CLOSED (holiday) -- skipped stock scanning/trading per rules; did not re-check BAC's own RSI this run. Majors-only crypto scan (BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE, RSI<30 1d/14): 0 matches -- no crypto signal active. No trade. Cash $0.107132, position BAC 1.425488 sh (~$69.47 @ $48.73) -> ~$69.58 sleeve value."
   }
 }
