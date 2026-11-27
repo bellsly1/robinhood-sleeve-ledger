@@ -12,9 +12,9 @@
         "asset_class": "equity"
       }
     ],
-    "previous_report_value": 57.59,
-    "previous_report_date": "2026-11-27T15:46Z",
-    "last_action": "2026-11-27T15:46Z (10:46am ET Fri 11/27, day after Thanksgiving, shortened session 9:30am-1pm ET): reconciled -- equity positions matched ledger exactly (KYMR 0.328277 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market OPEN -- ran saved momentum scan (STOCK, %Chg 1W close >8%, mkt cap >$2B, avg vol(10d) >500k): 397 matches, but KYMR itself topped the list again at +51.9% 1W (next best PINS +28.1%), so held position remains the single strongest qualifier -- no rotation. Crypto majors vs today's open: BTC -2.07%, ETH -3.32%, SOL -0.87%, XRP -0.83% -- all negative, no signal, and cash ($0.100932) is far below any pair's minimum order size regardless. No trade. Cash $0.100932, position KYMR 0.328277 sh (~$57.49 @ $175.12) -> ~$57.59 sleeve value."
+    "previous_report_value": 57.5,
+    "previous_report_date": "2026-11-27T16:46Z",
+    "last_action": "2026-11-27T16:46Z (11:46am ET Fri 11/27, day after Thanksgiving, shortened session 9:30am-1pm ET): reconciled -- equity positions matched ledger exactly (KYMR 0.328277 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market OPEN -- ran saved momentum scan (397 results, STOCK, mkt cap >$2B, avg vol(10d) >500k): KYMR itself topped %Chg(1W,close) again at +51.6% (next best AXON +26.9%), so held position remains the single strongest qualifier -- no rotation. Crypto majors vs today's open: BTC -1.87%, ETH -2.97%, SOL -0.68%, XRP -0.93% -- all negative, no signal, and cash ($0.100932) is far below any pair's minimum order size regardless. No trade. Cash $0.100932, position KYMR 0.328277 sh (~$57.39 @ $174.835) -> ~$57.50 sleeve value."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
