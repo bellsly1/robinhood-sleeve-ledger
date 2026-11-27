@@ -28,7 +28,7 @@
       }
     ],
     "previous_report_value": 70.14,
-    "previous_report_date": "2026-11-27T18:16Z",
-    "last_action": "2026-11-27T18:16Z (1:16pm ET Fri 11/27, day after Thanksgiving, shortened session 9:30am-1pm ET -- market CLOSED, closed at 1pm): reconciled -- equity positions matched ledger exactly (BAC 1.425488 sh; KYMR 0.328277 sh sleeve_momentum, untouched), zero crypto positions, no discrepancy. Market CLOSED -- skipped stock scanning/trading per rules (BAC RSI last read 39.0 as of 11/25 close, not yet reverted anyway). Majors-only crypto scan (BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE, RSI<30 1d/14): 0 matches -- no crypto signal active. No trade. Cash $0.107132, position BAC 1.425488 sh (~$70.03 @ $49.13) -> ~$70.14 sleeve value."
+    "previous_report_date": "2026-11-27T19:17Z",
+    "last_action": "2026-11-27T19:17Z (2:17pm ET Fri 11/27, day after Thanksgiving, shortened session 9:30am-1pm ET -- market CLOSED, closed at 1pm): reconciled -- equity positions matched ledger exactly (BAC 1.425488 sh; KYMR 0.328277 sh sleeve_momentum, untouched), zero crypto positions, no discrepancy. Market CLOSED -- skipped stock scanning/trading per rules (BAC RSI 38.23 as of 11/25 close, not yet reverted). Majors-only crypto scan (BTC/ETH/SOL/XRP/ADA/LINK/AVAX/LTC/BCH/DOGE, RSI<30 1d/14): BTC 27.94 and ETH 29.35 both oversold -- signal active, but sleeve cash ($0.107132) is far below any pair's minimum order size, so no trade possible. No trade. Cash $0.107132, position BAC 1.425488 sh (~$70.03 @ $49.13) -> ~$70.14 sleeve value."
   }
 }
