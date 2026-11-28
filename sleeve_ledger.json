@@ -14,7 +14,7 @@
     ],
     "previous_report_value": 57.77,
     "previous_report_date": "2026-11-28T00:46Z",
-    "last_action": "2026-11-28T00:46Z (7:46pm ET Fri 11/27): market CLOSED (regular hours end 4pm ET). Reconciled -- equity positions matched ledger exactly (KYMR 0.328277 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market CLOSED -- skipped stock scanning/trading per rules; held KYMR as-is. Crypto majors vs today's open: BTC -2.30%, ETH -3.87%, SOL -1.35%, XRP -0.94% -- all negative, no signal, and cash ($0.100932) is far below any pair's minimum order size regardless. No trade. Cash $0.100932, position KYMR 0.328277 sh (~$57.67 @ $175.66) -> ~$57.77 sleeve value."
+    "last_action": "2026-11-28T01:46Z (8:46pm ET Fri 11/27): market CLOSED (regular hours end 4pm ET). Reconciled -- equity positions matched ledger exactly (KYMR 0.328277 sh; BAC 1.425488 sh sleeve_quant, untouched), zero crypto positions, no discrepancy. Market CLOSED -- skipped stock scanning/trading per rules; held KYMR as-is. Crypto majors vs today's open: BTC -1.98%, ETH -3.61%, SOL -0.92%, XRP -0.61% -- all negative, no signal, and cash ($0.100932) is far below any pair's minimum order size regardless. No trade. Cash $0.100932, position KYMR 0.328277 sh (~$57.67 @ $175.66) -> ~$57.77 sleeve value."
   },
   "sleeve_quant": {
     "label": "Quant Mean-Reversion",
