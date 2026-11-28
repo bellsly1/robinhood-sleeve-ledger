@@ -28,7 +28,7 @@
       }
     ],
     "previous_report_value": 70.14,
-    "previous_report_date": "2026-11-28T14:16Z",
-    "last_action": "2026-11-28T14:16Z (9:16am ET Sat 11/28): market CLOSED (weekend; regular hours 9:30am-4pm ET Mon-Fri). Reconciled -- equity positions matched ledger exactly (BAC 1.425488 sh; KYMR 0.328277 sh sleeve_momentum, untouched), zero crypto positions, no discrepancy. Market CLOSED -- skipped stock scanning/trading per rules; held BAC as-is. Majors-only crypto scan again returned 0 results (known scanner bug with combined instrument_type+symbol filter); worked around via unfiltered CRYPTO+RSI<30 scan (13 hits) intersected with the majors allowlist: BTC (RSI 26.9) and ETH (RSI 28.0) remain oversold -- signal unchanged from last run. No trade anyway: sleeve cash is only $0.107132 (capital tied up in BAC), leaving ~$0.007 after the safety buffer -- far below any crypto minimum order size. Cash $0.107132, position BAC 1.425488 sh (~$70.03 @ $49.13) -> ~$70.14 sleeve value."
+    "previous_report_date": "2026-11-28T15:15Z",
+    "last_action": "2026-11-28T15:15Z (10:15am ET Sat 11/28): market CLOSED (weekend; regular hours 9:30am-4pm ET Mon-Fri). Reconciled -- equity positions matched ledger exactly (BAC 1.425488 sh; KYMR 0.328277 sh sleeve_momentum, untouched), zero crypto positions, no discrepancy. Market CLOSED -- skipped stock scanning/trading per rules; held BAC as-is. Majors-only crypto scan again returned 0 results (known scanner bug with combined instrument_type+symbol filter); worked around via unfiltered CRYPTO+RSI<30 scan (13 hits) intersected with the majors allowlist: BTC (RSI 26.9) and ETH (RSI 28.0) remain oversold -- signal unchanged from last run. No trade anyway: sleeve cash is only $0.107132 (capital tied up in BAC), leaving ~$0.007 after the safety buffer -- far below any crypto minimum order size. Cash $0.107132, position BAC 1.425488 sh (~$70.03 @ $49.13) -> ~$70.14 sleeve value."
   }
 }
